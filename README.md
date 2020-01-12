@@ -1,2115 +1,2115 @@
-# 1. [General and reference]
-## 1.1. [Document types]
-### 1.1.1. [Surveys and overviews]
-### 1.1.2. [Reference works]
-### 1.1.3. [General conference proceedings]
-### 1.1.4. [Biographies]
-### 1.1.5. [General literature]
-### 1.1.6. [Computing standards, RFCs and guidelines]
-## 1.2. [Cross-computing tools and techniques]
-### 1.2.1. [Reliability]
-### 1.2.2. [Empirical studies]
-### 1.2.3. [Measurement]
-### 1.2.4. [Metrics]
-### 1.2.5. [Evaluation]
-### 1.2.6. [Experimentation]
-### 1.2.7. [Estimation]
-### 1.2.8. [Design]
-### 1.2.9. [Performance]
-### 1.2.10. [Validation]
-### 1.2.11. [Verification]
+# 1. [General and reference](https://github.com/cqlj/2020/wiki/General and reference)
+## 1.1. [Document types](https://github.com/cqlj/2020/wiki/Document types)
+### 1.1.1. [Surveys and overviews](https://github.com/cqlj/2020/wiki/Surveys and overviews)
+### 1.1.2. [Reference works](https://github.com/cqlj/2020/wiki/Reference works)
+### 1.1.3. [General conference proceedings](https://github.com/cqlj/2020/wiki/General conference proceedings)
+### 1.1.4. [Biographies](https://github.com/cqlj/2020/wiki/Biographies)
+### 1.1.5. [General literature](https://github.com/cqlj/2020/wiki/General literature)
+### 1.1.6. [Computing standards, RFCs and guidelines](https://github.com/cqlj/2020/wiki/Computing standards, RFCs and guidelines)
+## 1.2. [Cross-computing tools and techniques](https://github.com/cqlj/2020/wiki/Cross-computing tools and techniques)
+### 1.2.1. [Reliability](https://github.com/cqlj/2020/wiki/Reliability)
+### 1.2.2. [Empirical studies](https://github.com/cqlj/2020/wiki/Empirical studies)
+### 1.2.3. [Measurement](https://github.com/cqlj/2020/wiki/Measurement)
+### 1.2.4. [Metrics](https://github.com/cqlj/2020/wiki/Metrics)
+### 1.2.5. [Evaluation](https://github.com/cqlj/2020/wiki/Evaluation)
+### 1.2.6. [Experimentation](https://github.com/cqlj/2020/wiki/Experimentation)
+### 1.2.7. [Estimation](https://github.com/cqlj/2020/wiki/Estimation)
+### 1.2.8. [Design](https://github.com/cqlj/2020/wiki/Design)
+### 1.2.9. [Performance](https://github.com/cqlj/2020/wiki/Performance)
+### 1.2.10. [Validation](https://github.com/cqlj/2020/wiki/Validation)
+### 1.2.11. [Verification](https://github.com/cqlj/2020/wiki/Verification)
 
-# 2. [Hardware]
-## 2.1. [Printed circuit boards]
-### 2.1.1. [Electromagnetic interference and compatibility]
-### 2.1.2. [PCB design and layout]
-## 2.2. [Communication hardware, interfaces and storage]
-### 2.2.1. [Signal processing systems]
-#### 2.2.1.1. [Digital signal processing]
-#### 2.2.1.2. [Beamforming]
-#### 2.2.1.3. [Noise reduction]
-### 2.2.2. [Sensors and actuators]
-### 2.2.3. [Buses and high-speed links]
-### 2.2.4. [Displays and imagers]
-### 2.2.5. [External storage]
-### 2.2.6. [Networking hardware]
-### 2.2.7. [Printers]
-### 2.2.8. [Sensor applications and deployments]
-### 2.2.9. [Sensor devices and platforms]
-### 2.2.10. [Sound-based input / output]
-### 2.2.11. [Tactile and hand-based interfaces]
-#### 2.2.11.1. [Touch screens]
-#### 2.2.11.2. [Haptic devices]
-### 2.2.12. [Scanners]
-### 2.2.13. [Wireless devices]
-### 2.2.14. [Wireless integrated network sensors]
-### 2.2.15. [Electro-mechanical devices]
-## 2.3. [Integrated circuits]
-### 2.3.1. [3D integrated circuits]
-### 2.3.2. [Interconnect]
-#### 2.3.2.1. [Input / output circuits]
-#### 2.3.2.2. [Metallic interconnect]
-#### 2.3.2.3. [Photonic and optical interconnect]
-#### 2.3.2.4. [Radio frequency and wireless interconnect]
-### 2.3.3. [Semiconductor memory]
-#### 2.3.3.1. [Dynamic memory]
-#### 2.3.3.2. [Static memory]
-#### 2.3.3.3. [Non-volatile memory]
-#### 2.3.3.4. [Read-only memory]
-### 2.3.4. [Digital switches]
-#### 2.3.4.1. [Transistors]
-#### 2.3.4.2. [Logic families]
-### 2.3.5. [Logic circuits]
-#### 2.3.5.1. [Arithmetic and datapath circuits]
-#### 2.3.5.2. [Asynchronous circuits]
-#### 2.3.5.3. [Combinational circuits]
-#### 2.3.5.4. [Design modules and hierarchy]
-#### 2.3.5.5. [Finite state machines]
-#### 2.3.5.6. [Sequential circuits]
-### 2.3.6. [Reconfigurable logic and FPGAs]
-#### 2.3.6.1. [Hardware accelerators]
-#### 2.3.6.2. [High-speed input / output]
-#### 2.3.6.3. [Programmable logic elements]
-#### 2.3.6.4. [Programmable interconnect]
-#### 2.3.6.5. [Reconfigurable logic applications]
-#### 2.3.6.6. [Evolvable hardware]
-## 2.4. [Very large scale integration design]
-### 2.4.1. [3D integrated circuits]
-### 2.4.2. [Analog and mixed-signal circuits]
-#### 2.4.2.1. [Data conversion]
-#### 2.4.2.2. [Clock generation and timing]
-#### 2.4.2.3. [Analog and mixed-signal circuit optimization]
-#### 2.4.2.4. [Radio frequency and wireless circuits]
-#### 2.4.2.5. [Wireline communication]
-#### 2.4.2.6. [Analog and mixed-signal circuit synthesis]
-### 2.4.3. [Application-specific VLSI designs]
-#### 2.4.3.1. [Application specific integrated circuits]
-#### 2.4.3.2. [Application specific instruction set processors]
-#### 2.4.3.3. [Application specific processors]
-### 2.4.4. [Design reuse and communication-based design]
-#### 2.4.4.1. [Network on chip]
-#### 2.4.4.2. [System on a chip]
-#### 2.4.4.3. [Platform-based design]
-#### 2.4.4.4. [Hard and soft IP]
-### 2.4.5. [Design rules]
-### 2.4.6. [Economics of chip design and manufacturing]
-### 2.4.7. [Full-custom circuits]
-### 2.4.8. [VLSI design manufacturing considerations]
-### 2.4.9. [On-chip resource management]
-### 2.4.10. [On-chip sensors]
-### 2.4.11. [Standard cell libraries]
-### 2.4.12. [VLSI packaging]
-#### 2.4.12.1. [Die and wafer stacking]
-#### 2.4.12.2. [Input / output styles]
-#### 2.4.12.3. [Multi-chip modules]
-#### 2.4.12.4. [Package-level interconnect]
-### 2.4.13. [VLSI system specification and constraints]
-## 2.5. [Power and energy]
-### 2.5.1. [Thermal issues]
-#### 2.5.1.1. [Temperature monitoring]
-#### 2.5.1.2. [Temperature simulation and estimation]
-#### 2.5.1.3. [Temperature control]
-#### 2.5.1.4. [Temperature optimization]
-### 2.5.2. [Energy generation and storage]
-#### 2.5.2.1. [Batteries]
-#### 2.5.2.2. [Fuel-based energy]
-#### 2.5.2.3. [Renewable energy]
-#### 2.5.2.4. [Reusable energy storage]
-### 2.5.3. [Energy distribution]
-#### 2.5.3.1. [Energy metering]
-#### 2.5.3.2. [Power conversion]
-#### 2.5.3.3. [Power networks]
-#### 2.5.3.4. [Smart grid]
-### 2.5.4. [Impact on the environment]
-### 2.5.5. [Power estimation and optimization]
-#### 2.5.5.1. [Switching devices power issues]
-#### 2.5.5.2. [Interconnect power issues]
-#### 2.5.5.3. [Circuits power issues]
-#### 2.5.5.4. [Chip-level power issues]
-#### 2.5.5.5. [Platform power issues]
-#### 2.5.5.6. [Enterprise level and data centers power issues]
-## 2.6. [Electronic design automation]
-### 2.6.1. [High-level and register-transfer level synthesis]
-#### 2.6.1.1. [Datapath optimization]
-#### 2.6.1.2. [Hardware-software codesign]
-#### 2.6.1.3. [Resource binding and sharing]
-#### 2.6.1.4. [Operations scheduling]
-### 2.6.2. [Hardware description languages and compilation]
-### 2.6.3. [Logic synthesis]
-#### 2.6.3.1. [Combinational synthesis]
-#### 2.6.3.2. [Circuit optimization]
-#### 2.6.3.3. [Sequential synthesis]
-#### 2.6.3.4. [Technology-mapping]
-#### 2.6.3.5. [Transistor-level synthesis]
-### 2.6.4. [Modeling and parameter extraction]
-### 2.6.5. [Physical design (EDA)]
-#### 2.6.5.1. [Clock-network synthesis]
-#### 2.6.5.2. [Packaging]
-#### 2.6.5.3. [Partitioning and floorplanning]
-#### 2.6.5.4. [Placement]
-#### 2.6.5.5. [Physical synthesis]
-#### 2.6.5.6. [Power grid design]
-#### 2.6.5.7. [Wire routing]
-### 2.6.6. [Timing analysis]
-#### 2.6.6.1. [Electrical-level simulation]
-#### 2.6.6.2. [Model-order reduction]
-#### 2.6.6.3. [Compact delay models]
-#### 2.6.6.4. [Static timing analysis]
-#### 2.6.6.5. [Statistical timing analysis]
-#### 2.6.6.6. [Transition-based timing analysis]
-### 2.6.7. [Methodologies for EDA]
-#### 2.6.7.1. [Best practices for EDA]
-#### 2.6.7.2. [Design databases for EDA]
-#### 2.6.7.3. [Software tools for EDA]
-## 2.7. [Hardware validation]
-### 2.7.1. [Functional verification]
-#### 2.7.1.1. [Model checking]
-#### 2.7.1.2. [Coverage metrics]
-#### 2.7.1.3. [Equivalence checking]
-#### 2.7.1.4. [Semi-formal verification]
-#### 2.7.1.5. [Simulation and emulation]
-#### 2.7.1.6. [Transaction-level verification]
-#### 2.7.1.7. [Theorem proving and SAT solving]
-#### 2.7.1.8. [Assertion checking]
-### 2.7.2. [Physical verification]
-#### 2.7.2.1. [Design rule checking]
-#### 2.7.2.2. [Layout-versus-schematics]
-#### 2.7.2.3. [Power and thermal analysis]
-#### 2.7.2.4. [Timing analysis and sign-off]
-### 2.7.3. [Post-manufacture validation and debug]
-#### 2.7.3.1. [Bug detection, localization and diagnosis]
-#### 2.7.3.2. [Bug fixing (hardware)]
-#### 2.7.3.3. [Design for debug]
-## 2.8. [Hardware test]
-### 2.8.1. [Analog, mixed-signal and radio frequency test]
-### 2.8.2. [Board- and system-level test]
-### 2.8.3. [Defect-based test]
-### 2.8.4. [Design for testability]
-#### 2.8.4.1. [Built-in self-test]
-#### 2.8.4.2. [Online test and diagnostics]
-#### 2.8.4.3. [Test data compression]
-### 2.8.5. [Fault models and test metrics]
-### 2.8.6. [Memory test and repair]
-### 2.8.7. [Hardware reliability screening]
-### 2.8.8. [Test-pattern generation and fault simulation]
-### 2.8.9. [Testing with distributed and parallel systems]
-## 2.9. [Robustness]
-### 2.9.1. [Fault tolerance]
-#### 2.9.1.1. [Error detection and error correction]
-#### 2.9.1.2. [Failure prediction]
-#### 2.9.1.3. [Failure recovery, maintenance and self-repair]
-#### 2.9.1.4. [Redundancy]
-#### 2.9.1.5. [Self-checking mechanisms]
-#### 2.9.1.6. [System-level fault tolerance]
-### 2.9.2. [Design for manufacturability]
-#### 2.9.2.1. [Process variations]
-#### 2.9.2.2. [Yield and cost modeling]
-#### 2.9.2.3. [Yield and cost optimization]
-### 2.9.3. [Hardware reliability]
-#### 2.9.3.1. [Aging of circuits and systems]
-#### 2.9.3.2. [Circuit hardening]
-#### 2.9.3.3. [Early-life failures and infant mortality]
-#### 2.9.3.4. [Process, voltage and temperature variations]
-#### 2.9.3.5. [Signal integrity and noise analysis]
-#### 2.9.3.6. [Transient errors and upsets]
-### 2.9.4. [Safety critical systems]
-## 2.10. [Emerging technologies]
-### 2.10.1. [Analysis and design of emerging devices and systems]
-#### 2.10.1.1. [Emerging architectures]
-#### 2.10.1.2. [Emerging languages and compilers]
-#### 2.10.1.3. [Emerging simulation]
-#### 2.10.1.4. [Emerging tools and methodologies]
-### 2.10.2. [Biology-related information processing]
-#### 2.10.2.1. [Bio-embedded electronics]
-#### 2.10.2.2. [Neural systems]
-### 2.10.3. [Circuit substrates]
-#### 2.10.3.1. [III-V compounds]
-#### 2.10.3.2. [Carbon based electronics]
-#### 2.10.3.3. [Cellular neural networks]
-#### 2.10.3.4. [Flexible and printable circuits]
-#### 2.10.3.5. [Superconducting circuits]
-### 2.10.4. [Electromechanical systems]
-#### 2.10.4.1. [Microelectromechanical systems]
-#### 2.10.4.2. [Nanoelectromechanical systems]
-### 2.10.5. [Emerging interfaces]
-### 2.10.6. [Memory and dense storage]
-### 2.10.7. [Emerging optical and photonic technologies]
-### 2.10.8. [Reversible logic]
-### 2.10.9. [Plasmonics]
-### 2.10.10. [Quantum technologies]
-#### 2.10.10.1. [Single electron devices]
-#### 2.10.10.2. [Tunneling devices]
-#### 2.10.10.3. [Quantum computation]
-##### 2.10.10.3.1. [Quantum communication and cryptography]
-##### 2.10.10.3.2. [Quantum error correction and fault tolerance]
-#### 2.10.10.4. [Quantum dots and cellular automata]
-### 2.10.11. [Spintronics and magnetic technologies]
+# 2. [Hardware](https://github.com/cqlj/2020/wiki/Hardware)
+## 2.1. [Printed circuit boards](https://github.com/cqlj/2020/wiki/Printed circuit boards)
+### 2.1.1. [Electromagnetic interference and compatibility](https://github.com/cqlj/2020/wiki/Electromagnetic interference and compatibility)
+### 2.1.2. [PCB design and layout](https://github.com/cqlj/2020/wiki/PCB design and layout)
+## 2.2. [Communication hardware, interfaces and storage](https://github.com/cqlj/2020/wiki/Communication hardware, interfaces and storage)
+### 2.2.1. [Signal processing systems](https://github.com/cqlj/2020/wiki/Signal processing systems)
+#### 2.2.1.1. [Digital signal processing](https://github.com/cqlj/2020/wiki/Digital signal processing)
+#### 2.2.1.2. [Beamforming](https://github.com/cqlj/2020/wiki/Beamforming)
+#### 2.2.1.3. [Noise reduction](https://github.com/cqlj/2020/wiki/Noise reduction)
+### 2.2.2. [Sensors and actuators](https://github.com/cqlj/2020/wiki/Sensors and actuators)
+### 2.2.3. [Buses and high-speed links](https://github.com/cqlj/2020/wiki/Buses and high-speed links)
+### 2.2.4. [Displays and imagers](https://github.com/cqlj/2020/wiki/Displays and imagers)
+### 2.2.5. [External storage](https://github.com/cqlj/2020/wiki/External storage)
+### 2.2.6. [Networking hardware](https://github.com/cqlj/2020/wiki/Networking hardware)
+### 2.2.7. [Printers](https://github.com/cqlj/2020/wiki/Printers)
+### 2.2.8. [Sensor applications and deployments](https://github.com/cqlj/2020/wiki/Sensor applications and deployments)
+### 2.2.9. [Sensor devices and platforms](https://github.com/cqlj/2020/wiki/Sensor devices and platforms)
+### 2.2.10. [Sound-based input / output](https://github.com/cqlj/2020/wiki/Sound-based input / output)
+### 2.2.11. [Tactile and hand-based interfaces](https://github.com/cqlj/2020/wiki/Tactile and hand-based interfaces)
+#### 2.2.11.1. [Touch screens](https://github.com/cqlj/2020/wiki/Touch screens)
+#### 2.2.11.2. [Haptic devices](https://github.com/cqlj/2020/wiki/Haptic devices)
+### 2.2.12. [Scanners](https://github.com/cqlj/2020/wiki/Scanners)
+### 2.2.13. [Wireless devices](https://github.com/cqlj/2020/wiki/Wireless devices)
+### 2.2.14. [Wireless integrated network sensors](https://github.com/cqlj/2020/wiki/Wireless integrated network sensors)
+### 2.2.15. [Electro-mechanical devices](https://github.com/cqlj/2020/wiki/Electro-mechanical devices)
+## 2.3. [Integrated circuits](https://github.com/cqlj/2020/wiki/Integrated circuits)
+### 2.3.1. [3D integrated circuits](https://github.com/cqlj/2020/wiki/3D integrated circuits)
+### 2.3.2. [Interconnect](https://github.com/cqlj/2020/wiki/Interconnect)
+#### 2.3.2.1. [Input / output circuits](https://github.com/cqlj/2020/wiki/Input / output circuits)
+#### 2.3.2.2. [Metallic interconnect](https://github.com/cqlj/2020/wiki/Metallic interconnect)
+#### 2.3.2.3. [Photonic and optical interconnect](https://github.com/cqlj/2020/wiki/Photonic and optical interconnect)
+#### 2.3.2.4. [Radio frequency and wireless interconnect](https://github.com/cqlj/2020/wiki/Radio frequency and wireless interconnect)
+### 2.3.3. [Semiconductor memory](https://github.com/cqlj/2020/wiki/Semiconductor memory)
+#### 2.3.3.1. [Dynamic memory](https://github.com/cqlj/2020/wiki/Dynamic memory)
+#### 2.3.3.2. [Static memory](https://github.com/cqlj/2020/wiki/Static memory)
+#### 2.3.3.3. [Non-volatile memory](https://github.com/cqlj/2020/wiki/Non-volatile memory)
+#### 2.3.3.4. [Read-only memory](https://github.com/cqlj/2020/wiki/Read-only memory)
+### 2.3.4. [Digital switches](https://github.com/cqlj/2020/wiki/Digital switches)
+#### 2.3.4.1. [Transistors](https://github.com/cqlj/2020/wiki/Transistors)
+#### 2.3.4.2. [Logic families](https://github.com/cqlj/2020/wiki/Logic families)
+### 2.3.5. [Logic circuits](https://github.com/cqlj/2020/wiki/Logic circuits)
+#### 2.3.5.1. [Arithmetic and datapath circuits](https://github.com/cqlj/2020/wiki/Arithmetic and datapath circuits)
+#### 2.3.5.2. [Asynchronous circuits](https://github.com/cqlj/2020/wiki/Asynchronous circuits)
+#### 2.3.5.3. [Combinational circuits](https://github.com/cqlj/2020/wiki/Combinational circuits)
+#### 2.3.5.4. [Design modules and hierarchy](https://github.com/cqlj/2020/wiki/Design modules and hierarchy)
+#### 2.3.5.5. [Finite state machines](https://github.com/cqlj/2020/wiki/Finite state machines)
+#### 2.3.5.6. [Sequential circuits](https://github.com/cqlj/2020/wiki/Sequential circuits)
+### 2.3.6. [Reconfigurable logic and FPGAs](https://github.com/cqlj/2020/wiki/Reconfigurable logic and FPGAs)
+#### 2.3.6.1. [Hardware accelerators](https://github.com/cqlj/2020/wiki/Hardware accelerators)
+#### 2.3.6.2. [High-speed input / output](https://github.com/cqlj/2020/wiki/High-speed input / output)
+#### 2.3.6.3. [Programmable logic elements](https://github.com/cqlj/2020/wiki/Programmable logic elements)
+#### 2.3.6.4. [Programmable interconnect](https://github.com/cqlj/2020/wiki/Programmable interconnect)
+#### 2.3.6.5. [Reconfigurable logic applications](https://github.com/cqlj/2020/wiki/Reconfigurable logic applications)
+#### 2.3.6.6. [Evolvable hardware](https://github.com/cqlj/2020/wiki/Evolvable hardware)
+## 2.4. [Very large scale integration design](https://github.com/cqlj/2020/wiki/Very large scale integration design)
+### 2.4.1. [3D integrated circuits](https://github.com/cqlj/2020/wiki/3D integrated circuits)
+### 2.4.2. [Analog and mixed-signal circuits](https://github.com/cqlj/2020/wiki/Analog and mixed-signal circuits)
+#### 2.4.2.1. [Data conversion](https://github.com/cqlj/2020/wiki/Data conversion)
+#### 2.4.2.2. [Clock generation and timing](https://github.com/cqlj/2020/wiki/Clock generation and timing)
+#### 2.4.2.3. [Analog and mixed-signal circuit optimization](https://github.com/cqlj/2020/wiki/Analog and mixed-signal circuit optimization)
+#### 2.4.2.4. [Radio frequency and wireless circuits](https://github.com/cqlj/2020/wiki/Radio frequency and wireless circuits)
+#### 2.4.2.5. [Wireline communication](https://github.com/cqlj/2020/wiki/Wireline communication)
+#### 2.4.2.6. [Analog and mixed-signal circuit synthesis](https://github.com/cqlj/2020/wiki/Analog and mixed-signal circuit synthesis)
+### 2.4.3. [Application-specific VLSI designs](https://github.com/cqlj/2020/wiki/Application-specific VLSI designs)
+#### 2.4.3.1. [Application specific integrated circuits](https://github.com/cqlj/2020/wiki/Application specific integrated circuits)
+#### 2.4.3.2. [Application specific instruction set processors](https://github.com/cqlj/2020/wiki/Application specific instruction set processors)
+#### 2.4.3.3. [Application specific processors](https://github.com/cqlj/2020/wiki/Application specific processors)
+### 2.4.4. [Design reuse and communication-based design](https://github.com/cqlj/2020/wiki/Design reuse and communication-based design)
+#### 2.4.4.1. [Network on chip](https://github.com/cqlj/2020/wiki/Network on chip)
+#### 2.4.4.2. [System on a chip](https://github.com/cqlj/2020/wiki/System on a chip)
+#### 2.4.4.3. [Platform-based design](https://github.com/cqlj/2020/wiki/Platform-based design)
+#### 2.4.4.4. [Hard and soft IP](https://github.com/cqlj/2020/wiki/Hard and soft IP)
+### 2.4.5. [Design rules](https://github.com/cqlj/2020/wiki/Design rules)
+### 2.4.6. [Economics of chip design and manufacturing](https://github.com/cqlj/2020/wiki/Economics of chip design and manufacturing)
+### 2.4.7. [Full-custom circuits](https://github.com/cqlj/2020/wiki/Full-custom circuits)
+### 2.4.8. [VLSI design manufacturing considerations](https://github.com/cqlj/2020/wiki/VLSI design manufacturing considerations)
+### 2.4.9. [On-chip resource management](https://github.com/cqlj/2020/wiki/On-chip resource management)
+### 2.4.10. [On-chip sensors](https://github.com/cqlj/2020/wiki/On-chip sensors)
+### 2.4.11. [Standard cell libraries](https://github.com/cqlj/2020/wiki/Standard cell libraries)
+### 2.4.12. [VLSI packaging](https://github.com/cqlj/2020/wiki/VLSI packaging)
+#### 2.4.12.1. [Die and wafer stacking](https://github.com/cqlj/2020/wiki/Die and wafer stacking)
+#### 2.4.12.2. [Input / output styles](https://github.com/cqlj/2020/wiki/Input / output styles)
+#### 2.4.12.3. [Multi-chip modules](https://github.com/cqlj/2020/wiki/Multi-chip modules)
+#### 2.4.12.4. [Package-level interconnect](https://github.com/cqlj/2020/wiki/Package-level interconnect)
+### 2.4.13. [VLSI system specification and constraints](https://github.com/cqlj/2020/wiki/VLSI system specification and constraints)
+## 2.5. [Power and energy](https://github.com/cqlj/2020/wiki/Power and energy)
+### 2.5.1. [Thermal issues](https://github.com/cqlj/2020/wiki/Thermal issues)
+#### 2.5.1.1. [Temperature monitoring](https://github.com/cqlj/2020/wiki/Temperature monitoring)
+#### 2.5.1.2. [Temperature simulation and estimation](https://github.com/cqlj/2020/wiki/Temperature simulation and estimation)
+#### 2.5.1.3. [Temperature control](https://github.com/cqlj/2020/wiki/Temperature control)
+#### 2.5.1.4. [Temperature optimization](https://github.com/cqlj/2020/wiki/Temperature optimization)
+### 2.5.2. [Energy generation and storage](https://github.com/cqlj/2020/wiki/Energy generation and storage)
+#### 2.5.2.1. [Batteries](https://github.com/cqlj/2020/wiki/Batteries)
+#### 2.5.2.2. [Fuel-based energy](https://github.com/cqlj/2020/wiki/Fuel-based energy)
+#### 2.5.2.3. [Renewable energy](https://github.com/cqlj/2020/wiki/Renewable energy)
+#### 2.5.2.4. [Reusable energy storage](https://github.com/cqlj/2020/wiki/Reusable energy storage)
+### 2.5.3. [Energy distribution](https://github.com/cqlj/2020/wiki/Energy distribution)
+#### 2.5.3.1. [Energy metering](https://github.com/cqlj/2020/wiki/Energy metering)
+#### 2.5.3.2. [Power conversion](https://github.com/cqlj/2020/wiki/Power conversion)
+#### 2.5.3.3. [Power networks](https://github.com/cqlj/2020/wiki/Power networks)
+#### 2.5.3.4. [Smart grid](https://github.com/cqlj/2020/wiki/Smart grid)
+### 2.5.4. [Impact on the environment](https://github.com/cqlj/2020/wiki/Impact on the environment)
+### 2.5.5. [Power estimation and optimization](https://github.com/cqlj/2020/wiki/Power estimation and optimization)
+#### 2.5.5.1. [Switching devices power issues](https://github.com/cqlj/2020/wiki/Switching devices power issues)
+#### 2.5.5.2. [Interconnect power issues](https://github.com/cqlj/2020/wiki/Interconnect power issues)
+#### 2.5.5.3. [Circuits power issues](https://github.com/cqlj/2020/wiki/Circuits power issues)
+#### 2.5.5.4. [Chip-level power issues](https://github.com/cqlj/2020/wiki/Chip-level power issues)
+#### 2.5.5.5. [Platform power issues](https://github.com/cqlj/2020/wiki/Platform power issues)
+#### 2.5.5.6. [Enterprise level and data centers power issues](https://github.com/cqlj/2020/wiki/Enterprise level and data centers power issues)
+## 2.6. [Electronic design automation](https://github.com/cqlj/2020/wiki/Electronic design automation)
+### 2.6.1. [High-level and register-transfer level synthesis](https://github.com/cqlj/2020/wiki/High-level and register-transfer level synthesis)
+#### 2.6.1.1. [Datapath optimization](https://github.com/cqlj/2020/wiki/Datapath optimization)
+#### 2.6.1.2. [Hardware-software codesign](https://github.com/cqlj/2020/wiki/Hardware-software codesign)
+#### 2.6.1.3. [Resource binding and sharing](https://github.com/cqlj/2020/wiki/Resource binding and sharing)
+#### 2.6.1.4. [Operations scheduling](https://github.com/cqlj/2020/wiki/Operations scheduling)
+### 2.6.2. [Hardware description languages and compilation](https://github.com/cqlj/2020/wiki/Hardware description languages and compilation)
+### 2.6.3. [Logic synthesis](https://github.com/cqlj/2020/wiki/Logic synthesis)
+#### 2.6.3.1. [Combinational synthesis](https://github.com/cqlj/2020/wiki/Combinational synthesis)
+#### 2.6.3.2. [Circuit optimization](https://github.com/cqlj/2020/wiki/Circuit optimization)
+#### 2.6.3.3. [Sequential synthesis](https://github.com/cqlj/2020/wiki/Sequential synthesis)
+#### 2.6.3.4. [Technology-mapping](https://github.com/cqlj/2020/wiki/Technology-mapping)
+#### 2.6.3.5. [Transistor-level synthesis](https://github.com/cqlj/2020/wiki/Transistor-level synthesis)
+### 2.6.4. [Modeling and parameter extraction](https://github.com/cqlj/2020/wiki/Modeling and parameter extraction)
+### 2.6.5. [Physical design (EDA)](https://github.com/cqlj/2020/wiki/Physical design (EDA))
+#### 2.6.5.1. [Clock-network synthesis](https://github.com/cqlj/2020/wiki/Clock-network synthesis)
+#### 2.6.5.2. [Packaging](https://github.com/cqlj/2020/wiki/Packaging)
+#### 2.6.5.3. [Partitioning and floorplanning](https://github.com/cqlj/2020/wiki/Partitioning and floorplanning)
+#### 2.6.5.4. [Placement](https://github.com/cqlj/2020/wiki/Placement)
+#### 2.6.5.5. [Physical synthesis](https://github.com/cqlj/2020/wiki/Physical synthesis)
+#### 2.6.5.6. [Power grid design](https://github.com/cqlj/2020/wiki/Power grid design)
+#### 2.6.5.7. [Wire routing](https://github.com/cqlj/2020/wiki/Wire routing)
+### 2.6.6. [Timing analysis](https://github.com/cqlj/2020/wiki/Timing analysis)
+#### 2.6.6.1. [Electrical-level simulation](https://github.com/cqlj/2020/wiki/Electrical-level simulation)
+#### 2.6.6.2. [Model-order reduction](https://github.com/cqlj/2020/wiki/Model-order reduction)
+#### 2.6.6.3. [Compact delay models](https://github.com/cqlj/2020/wiki/Compact delay models)
+#### 2.6.6.4. [Static timing analysis](https://github.com/cqlj/2020/wiki/Static timing analysis)
+#### 2.6.6.5. [Statistical timing analysis](https://github.com/cqlj/2020/wiki/Statistical timing analysis)
+#### 2.6.6.6. [Transition-based timing analysis](https://github.com/cqlj/2020/wiki/Transition-based timing analysis)
+### 2.6.7. [Methodologies for EDA](https://github.com/cqlj/2020/wiki/Methodologies for EDA)
+#### 2.6.7.1. [Best practices for EDA](https://github.com/cqlj/2020/wiki/Best practices for EDA)
+#### 2.6.7.2. [Design databases for EDA](https://github.com/cqlj/2020/wiki/Design databases for EDA)
+#### 2.6.7.3. [Software tools for EDA](https://github.com/cqlj/2020/wiki/Software tools for EDA)
+## 2.7. [Hardware validation](https://github.com/cqlj/2020/wiki/Hardware validation)
+### 2.7.1. [Functional verification](https://github.com/cqlj/2020/wiki/Functional verification)
+#### 2.7.1.1. [Model checking](https://github.com/cqlj/2020/wiki/Model checking)
+#### 2.7.1.2. [Coverage metrics](https://github.com/cqlj/2020/wiki/Coverage metrics)
+#### 2.7.1.3. [Equivalence checking](https://github.com/cqlj/2020/wiki/Equivalence checking)
+#### 2.7.1.4. [Semi-formal verification](https://github.com/cqlj/2020/wiki/Semi-formal verification)
+#### 2.7.1.5. [Simulation and emulation](https://github.com/cqlj/2020/wiki/Simulation and emulation)
+#### 2.7.1.6. [Transaction-level verification](https://github.com/cqlj/2020/wiki/Transaction-level verification)
+#### 2.7.1.7. [Theorem proving and SAT solving](https://github.com/cqlj/2020/wiki/Theorem proving and SAT solving)
+#### 2.7.1.8. [Assertion checking](https://github.com/cqlj/2020/wiki/Assertion checking)
+### 2.7.2. [Physical verification](https://github.com/cqlj/2020/wiki/Physical verification)
+#### 2.7.2.1. [Design rule checking](https://github.com/cqlj/2020/wiki/Design rule checking)
+#### 2.7.2.2. [Layout-versus-schematics](https://github.com/cqlj/2020/wiki/Layout-versus-schematics)
+#### 2.7.2.3. [Power and thermal analysis](https://github.com/cqlj/2020/wiki/Power and thermal analysis)
+#### 2.7.2.4. [Timing analysis and sign-off](https://github.com/cqlj/2020/wiki/Timing analysis and sign-off)
+### 2.7.3. [Post-manufacture validation and debug](https://github.com/cqlj/2020/wiki/Post-manufacture validation and debug)
+#### 2.7.3.1. [Bug detection, localization and diagnosis](https://github.com/cqlj/2020/wiki/Bug detection, localization and diagnosis)
+#### 2.7.3.2. [Bug fixing (hardware)](https://github.com/cqlj/2020/wiki/Bug fixing (hardware))
+#### 2.7.3.3. [Design for debug](https://github.com/cqlj/2020/wiki/Design for debug)
+## 2.8. [Hardware test](https://github.com/cqlj/2020/wiki/Hardware test)
+### 2.8.1. [Analog, mixed-signal and radio frequency test](https://github.com/cqlj/2020/wiki/Analog, mixed-signal and radio frequency test)
+### 2.8.2. [Board- and system-level test](https://github.com/cqlj/2020/wiki/Board- and system-level test)
+### 2.8.3. [Defect-based test](https://github.com/cqlj/2020/wiki/Defect-based test)
+### 2.8.4. [Design for testability](https://github.com/cqlj/2020/wiki/Design for testability)
+#### 2.8.4.1. [Built-in self-test](https://github.com/cqlj/2020/wiki/Built-in self-test)
+#### 2.8.4.2. [Online test and diagnostics](https://github.com/cqlj/2020/wiki/Online test and diagnostics)
+#### 2.8.4.3. [Test data compression](https://github.com/cqlj/2020/wiki/Test data compression)
+### 2.8.5. [Fault models and test metrics](https://github.com/cqlj/2020/wiki/Fault models and test metrics)
+### 2.8.6. [Memory test and repair](https://github.com/cqlj/2020/wiki/Memory test and repair)
+### 2.8.7. [Hardware reliability screening](https://github.com/cqlj/2020/wiki/Hardware reliability screening)
+### 2.8.8. [Test-pattern generation and fault simulation](https://github.com/cqlj/2020/wiki/Test-pattern generation and fault simulation)
+### 2.8.9. [Testing with distributed and parallel systems](https://github.com/cqlj/2020/wiki/Testing with distributed and parallel systems)
+## 2.9. [Robustness](https://github.com/cqlj/2020/wiki/Robustness)
+### 2.9.1. [Fault tolerance](https://github.com/cqlj/2020/wiki/Fault tolerance)
+#### 2.9.1.1. [Error detection and error correction](https://github.com/cqlj/2020/wiki/Error detection and error correction)
+#### 2.9.1.2. [Failure prediction](https://github.com/cqlj/2020/wiki/Failure prediction)
+#### 2.9.1.3. [Failure recovery, maintenance and self-repair](https://github.com/cqlj/2020/wiki/Failure recovery, maintenance and self-repair)
+#### 2.9.1.4. [Redundancy](https://github.com/cqlj/2020/wiki/Redundancy)
+#### 2.9.1.5. [Self-checking mechanisms](https://github.com/cqlj/2020/wiki/Self-checking mechanisms)
+#### 2.9.1.6. [System-level fault tolerance](https://github.com/cqlj/2020/wiki/System-level fault tolerance)
+### 2.9.2. [Design for manufacturability](https://github.com/cqlj/2020/wiki/Design for manufacturability)
+#### 2.9.2.1. [Process variations](https://github.com/cqlj/2020/wiki/Process variations)
+#### 2.9.2.2. [Yield and cost modeling](https://github.com/cqlj/2020/wiki/Yield and cost modeling)
+#### 2.9.2.3. [Yield and cost optimization](https://github.com/cqlj/2020/wiki/Yield and cost optimization)
+### 2.9.3. [Hardware reliability](https://github.com/cqlj/2020/wiki/Hardware reliability)
+#### 2.9.3.1. [Aging of circuits and systems](https://github.com/cqlj/2020/wiki/Aging of circuits and systems)
+#### 2.9.3.2. [Circuit hardening](https://github.com/cqlj/2020/wiki/Circuit hardening)
+#### 2.9.3.3. [Early-life failures and infant mortality](https://github.com/cqlj/2020/wiki/Early-life failures and infant mortality)
+#### 2.9.3.4. [Process, voltage and temperature variations](https://github.com/cqlj/2020/wiki/Process, voltage and temperature variations)
+#### 2.9.3.5. [Signal integrity and noise analysis](https://github.com/cqlj/2020/wiki/Signal integrity and noise analysis)
+#### 2.9.3.6. [Transient errors and upsets](https://github.com/cqlj/2020/wiki/Transient errors and upsets)
+### 2.9.4. [Safety critical systems](https://github.com/cqlj/2020/wiki/Safety critical systems)
+## 2.10. [Emerging technologies](https://github.com/cqlj/2020/wiki/Emerging technologies)
+### 2.10.1. [Analysis and design of emerging devices and systems](https://github.com/cqlj/2020/wiki/Analysis and design of emerging devices and systems)
+#### 2.10.1.1. [Emerging architectures](https://github.com/cqlj/2020/wiki/Emerging architectures)
+#### 2.10.1.2. [Emerging languages and compilers](https://github.com/cqlj/2020/wiki/Emerging languages and compilers)
+#### 2.10.1.3. [Emerging simulation](https://github.com/cqlj/2020/wiki/Emerging simulation)
+#### 2.10.1.4. [Emerging tools and methodologies](https://github.com/cqlj/2020/wiki/Emerging tools and methodologies)
+### 2.10.2. [Biology-related information processing](https://github.com/cqlj/2020/wiki/Biology-related information processing)
+#### 2.10.2.1. [Bio-embedded electronics](https://github.com/cqlj/2020/wiki/Bio-embedded electronics)
+#### 2.10.2.2. [Neural systems](https://github.com/cqlj/2020/wiki/Neural systems)
+### 2.10.3. [Circuit substrates](https://github.com/cqlj/2020/wiki/Circuit substrates)
+#### 2.10.3.1. [III-V compounds](https://github.com/cqlj/2020/wiki/III-V compounds)
+#### 2.10.3.2. [Carbon based electronics](https://github.com/cqlj/2020/wiki/Carbon based electronics)
+#### 2.10.3.3. [Cellular neural networks](https://github.com/cqlj/2020/wiki/Cellular neural networks)
+#### 2.10.3.4. [Flexible and printable circuits](https://github.com/cqlj/2020/wiki/Flexible and printable circuits)
+#### 2.10.3.5. [Superconducting circuits](https://github.com/cqlj/2020/wiki/Superconducting circuits)
+### 2.10.4. [Electromechanical systems](https://github.com/cqlj/2020/wiki/Electromechanical systems)
+#### 2.10.4.1. [Microelectromechanical systems](https://github.com/cqlj/2020/wiki/Microelectromechanical systems)
+#### 2.10.4.2. [Nanoelectromechanical systems](https://github.com/cqlj/2020/wiki/Nanoelectromechanical systems)
+### 2.10.5. [Emerging interfaces](https://github.com/cqlj/2020/wiki/Emerging interfaces)
+### 2.10.6. [Memory and dense storage](https://github.com/cqlj/2020/wiki/Memory and dense storage)
+### 2.10.7. [Emerging optical and photonic technologies](https://github.com/cqlj/2020/wiki/Emerging optical and photonic technologies)
+### 2.10.8. [Reversible logic](https://github.com/cqlj/2020/wiki/Reversible logic)
+### 2.10.9. [Plasmonics](https://github.com/cqlj/2020/wiki/Plasmonics)
+### 2.10.10. [Quantum technologies](https://github.com/cqlj/2020/wiki/Quantum technologies)
+#### 2.10.10.1. [Single electron devices](https://github.com/cqlj/2020/wiki/Single electron devices)
+#### 2.10.10.2. [Tunneling devices](https://github.com/cqlj/2020/wiki/Tunneling devices)
+#### 2.10.10.3. [Quantum computation](https://github.com/cqlj/2020/wiki/Quantum computation)
+##### 2.10.10.3.1. [Quantum communication and cryptography](https://github.com/cqlj/2020/wiki/Quantum communication and cryptography)
+##### 2.10.10.3.2. [Quantum error correction and fault tolerance](https://github.com/cqlj/2020/wiki/Quantum error correction and fault tolerance)
+#### 2.10.10.4. [Quantum dots and cellular automata](https://github.com/cqlj/2020/wiki/Quantum dots and cellular automata)
+### 2.10.11. [Spintronics and magnetic technologies](https://github.com/cqlj/2020/wiki/Spintronics and magnetic technologies)
 
-# 3. [Computer systems organization]
-## 3.1. [Architectures]
-### 3.1.1. [Serial architectures]
-#### 3.1.1.1. [Reduced instruction set computing]
-#### 3.1.1.2. [Complex instruction set computing]
-#### 3.1.1.3. [Superscalar architectures]
-#### 3.1.1.4. [Pipeline computing]
-#### 3.1.1.5. [Stack machines]
-### 3.1.2. [Parallel architectures]
-#### 3.1.2.1. [Very long instruction word]
-#### 3.1.2.2. [Interconnection architectures]
-#### 3.1.2.3. [Multiple instruction, multiple data]
-#### 3.1.2.4. [Cellular architectures]
-#### 3.1.2.5. [Multiple instruction, single data]
-#### 3.1.2.6. [Single instruction, multiple data]
-#### 3.1.2.7. [Systolic arrays]
-#### 3.1.2.8. [Multicore architectures]
-### 3.1.3. [Distributed architectures]
-#### 3.1.3.1. [Cloud computing]
-#### 3.1.3.2. [Client-server architectures]
-#### 3.1.3.3. [n-tier architectures]
-#### 3.1.3.4. [Peer-to-peer architectures]
-#### 3.1.3.5. [Grid computing]
-### 3.1.4. [Other architectures]
-#### 3.1.4.1. [Neural networks]
-#### 3.1.4.2. [Reconfigurable computing]
-#### 3.1.4.3. [Analog computers]
-#### 3.1.4.4. [Data flow architectures]
-#### 3.1.4.5. [Heterogeneous (hybrid) systems]
-#### 3.1.4.6. [Self-organizing autonomic computing]
-#### 3.1.4.7. [Optical computing]
-#### 3.1.4.8. [Quantum computing]
-#### 3.1.4.9. [Molecular computing]
-#### 3.1.4.10. [High-level language architectures]
-#### 3.1.4.11. [Special purpose systems]
-## 3.2. [Embedded and cyber-physical systems]
-### 3.2.1. [Sensor networks]
-### 3.2.2. [Robotics]
-#### 3.2.2.1. [Robotic components]
-#### 3.2.2.2. [Robotic control]
-##### 3.2.2.2.1. [Evolutionary robotics]
-#### 3.2.2.3. [Robotic autonomy]
-#### 3.2.2.4. [External interfaces for robotics]
-### 3.2.3. [Sensors and actuators]
-### 3.2.4. [System on a chip]
-### 3.2.5. [Embedded systems]
-#### 3.2.5.1. [Firmware]
-#### 3.2.5.2. [Embedded hardware]
-#### 3.2.5.3. [Embedded software]
-## 3.3. [Real-time systems]
-### 3.3.1. [Real-time operating systems]
-### 3.3.2. [Real-time languages]
-### 3.3.3. [Real-time system specification]
-### 3.3.4. [Real-time system architecture]
-## 3.4. [Dependable and fault-tolerant systems and networks]
-### 3.4.1. [Reliability]
-### 3.4.2. [Availability]
-### 3.4.3. [Maintainability and maintenance]
-### 3.4.4. [Processors and memory architectures]
-### 3.4.5. [Secondary storage organization]
-### 3.4.6. [Redundancy]
-### 3.4.7. [Fault-tolerant network topologies]
-# 4. [Networks]
-## 4.1. [Network architectures]
-### 4.1.1. [Network design principles]
-#### 4.1.1.1. [Layering]
-#### 4.1.1.2. [Naming and addressing]
-### 4.1.2. [Programming interfaces]
-## 4.2. [Network protocols]
-### 4.2.1. [Network protocol design]
-### 4.2.2. [Protocol correctness]
-#### 4.2.2.1. [Protocol testing and verification]
-#### 4.2.2.2. [Formal specifications]
-### 4.2.3. [Link-layer protocols]
-### 4.2.4. [Network layer protocols]
-#### 4.2.4.1. [Routing protocols]
-#### 4.2.4.2. [Signaling protocols]
-### 4.2.5. [Transport protocols]
-### 4.2.6. [Session protocols]
-### 4.2.7. [Presentation protocols]
-### 4.2.8. [Application layer protocols]
-#### 4.2.8.1. [Peer-to-peer protocols]
-### 4.2.9. [OAM protocols]
-#### 4.2.9.1. [Time synchronization protocols]
-#### 4.2.9.2. [Network policy]
-### 4.2.10. [Cross-layer protocols]
-### 4.2.11. [Network File System (NFS) protocol]
-## 4.3. [Network components]
-### 4.3.1. [Intermediate nodes]
-#### 4.3.1.1. [Routers]
-#### 4.3.1.2. [Bridges and switches]
-### 4.3.2. [Physical links]
-#### 4.3.2.1. [Repeaters]
-### 4.3.3. [Middle boxes / network appliances]
-### 4.3.4. [End nodes]
-#### 4.3.4.1. [Network adapters]
-#### 4.3.4.2. [Network servers]
-### 4.3.5. [Wireless access points, base stations and infrastructure]
-#### 4.3.5.1. [Cognitive radios]
-### 4.3.6. [Logical nodes]
-#### 4.3.6.1. [Network domains]
-## 4.4. [Network algorithms]
-### 4.4.1. [Data path algorithms]
-#### 4.4.1.1. [Packet classification]
-#### 4.4.1.2. [Deep packet inspection]
-#### 4.4.1.3. [Packet scheduling]
-### 4.4.2. [Control path algorithms]
-#### 4.4.2.1. [Network resources allocation]
-#### 4.4.2.2. [Network control algorithms]
-#### 4.4.2.3. [Traffic engineering algorithms]
-#### 4.4.2.4. [Network design and planning algorithms]
-### 4.4.3. [Network economics]
-## 4.5. [Network performance evaluation]
-### 4.5.1. [Network performance modeling]
-### 4.5.2. [Network simulations]
-### 4.5.3. [Network experimentation]
-### 4.5.4. [Network performance analysis]
-### 4.5.5. [Network measurement]
-## 4.6. [Network properties]
-### 4.6.1. [Network security]
-#### 4.6.1.1. [Security protocols]
-#### 4.6.1.2. [Web protocol security]
-#### 4.6.1.3. [Mobile and wireless security]
-#### 4.6.1.4. [Denial-of-service attacks]
-#### 4.6.1.5. [Firewalls]
-### 4.6.2. [Network range]
-#### 4.6.2.1. [Short-range networks]
-#### 4.6.2.2. [Local area networks]
-#### 4.6.2.3. [Metropolitan area networks]
-#### 4.6.2.4. [Wide area networks]
-#### 4.6.2.5. [Very long-range networks]
-### 4.6.3. [Network structure]
-#### 4.6.3.1. [Topology analysis and generation]
-#### 4.6.3.2. [Physical topologies]
-#### 4.6.3.3. [Logical / virtual topologies]
-#### 4.6.3.4. [Network topology types]
-##### 4.6.3.4.1. [Point-to-point networks]
-##### 4.6.3.4.2. [Bus networks]
-##### 4.6.3.4.3. [Star networks]
-##### 4.6.3.4.4. [Ring networks]
-###### 4.6.3.4.4.1. [Token ring networks]
-###### 4.6.3.4.4.2. [Fiber distributed data interface (FDDI)]
-##### 4.6.3.4.5. [Mesh networks]
-###### 4.6.3.4.5.1. [Wireless mesh networks]
-##### 4.6.3.4.6. [Hybrid networks]
-### 4.6.4. [Network dynamics]
-### 4.6.5. [Network reliability]
-#### 4.6.5.1. [Error detection and error correction]
-### 4.6.6. [Network mobility]
-### 4.6.7. [Network manageability]
-### 4.6.8. [Network privacy and anonymity]
-## 4.7. [Network services]
-### 4.7.1. [Naming and addressing]
-### 4.7.2. [Cloud computing]
-### 4.7.3. [Location based services]
-### 4.7.4. [Programmable networks]
-### 4.7.5. [In-network processing]
-### 4.7.6. [Network management]
-### 4.7.7. [Network monitoring]
-## 4.8. [Network types]
-### 4.8.1. [Network on chip]
-### 4.8.2. [Home networks]
-### 4.8.3. [Storage area networks]
-### 4.8.4. [Data center networks]
-### 4.8.5. [Wired access networks]
-### 4.8.6. [Cyber-physical networks]
-#### 4.8.6.1. [Sensor networks]
-### 4.8.7. [Mobile networks]
-### 4.8.8. [Overlay and other logical network structures]
-#### 4.8.8.1. [Peer-to-peer networks]
-#### 4.8.8.2. [World Wide Web (network structure)]
-#### 4.8.8.3. [Social media networks]
-#### 4.8.8.4. [Online social networks]
-### 4.8.9. [Wireless access networks]
-#### 4.8.9.1. [Wireless local area networks]
-#### 4.8.9.2. [Wireless personal area networks]
-### 4.8.10. [Ad hoc networks]
-#### 4.8.10.1. [Mobile ad hoc networks]
-### 4.8.11. [Public Internet]
-### 4.8.12. [Packet-switching networks]
-# 5. [Software and its engineering]
-## 5.1. [Software organization and properties]
-### 5.1.1. [Contextual software domains]
-#### 5.1.1.1. [E-commerce infrastructure]
-#### 5.1.1.2. [Software infrastructure]
-##### 5.1.1.2.1. [Interpreters]
-##### 5.1.1.2.2. [Middleware]
-###### 5.1.1.2.2.1. [Message oriented middleware]
-###### 5.1.1.2.2.2. [Reflective middleware]
-###### 5.1.1.2.2.3. [Embedded middleware]
-##### 5.1.1.2.3. [Virtual machines]
-#### 5.1.1.3. [Operating systems]
-##### 5.1.1.3.1. [File systems management]
-##### 5.1.1.3.2. [Memory management]
-###### 5.1.1.3.2.1. [Virtual memory]
-###### 5.1.1.3.2.2. [Main memory]
-###### 5.1.1.3.2.3. [Allocation / deallocation strategies]
-###### 5.1.1.3.2.4. [Garbage collection]
-###### 5.1.1.3.2.5. [Distributed memory]
-###### 5.1.1.3.2.6. [Secondary storage]
-##### 5.1.1.3.3. [Process management]
-###### 5.1.1.3.3.1. [Scheduling]
-###### 5.1.1.3.3.2. [Deadlocks]
-###### 5.1.1.3.3.3. [Multithreading]
-###### 5.1.1.3.3.4. [Multiprocessing / multiprogramming / multitasking]
-###### 5.1.1.3.3.5. [Monitors]
-###### 5.1.1.3.3.6. [Mutual exclusion]
-###### 5.1.1.3.3.7. [Concurrency control]
-###### 5.1.1.3.3.8. [Power management]
-###### 5.1.1.3.3.9. [Process synchronization]
-##### 5.1.1.3.4. [Communications management]
-###### 5.1.1.3.4.1. [Buffering]
-###### 5.1.1.3.4.2. [Input / output]
-###### 5.1.1.3.4.3. [Message passing]
-#### 5.1.1.4. [Virtual worlds software]
-##### 5.1.1.4.1. [Interactive games]
-##### 5.1.1.4.2. [Virtual worlds training simulations]
-### 5.1.2. [Software system structures]
-#### 5.1.2.1. [Embedded software]
-#### 5.1.2.2. [Software architectures]
-##### 5.1.2.2.1. [n-tier architectures]
-##### 5.1.2.2.2. [Peer-to-peer architectures]
-##### 5.1.2.2.3. [Data flow architectures]
-##### 5.1.2.2.4. [Cooperating communicating processes]
-##### 5.1.2.2.5. [Layered systems]
-##### 5.1.2.2.6. [Publish-subscribe / event-based architectures]
-##### 5.1.2.2.7. [Electronic blackboards]
-##### 5.1.2.2.8. [Simulator / interpreter]
-##### 5.1.2.2.9. [Object oriented architectures]
-##### 5.1.2.2.10. [Tightly coupled architectures]
-##### 5.1.2.2.11. [Space-based architectures]
-##### 5.1.2.2.12. [3-tier architectures]
-#### 5.1.2.3. [Software system models]
-##### 5.1.2.3.1. [Petri nets]
-##### 5.1.2.3.2. [State systems]
-##### 5.1.2.3.3. [Entity relationship modeling]
-##### 5.1.2.3.4. [Model-driven software engineering]
-##### 5.1.2.3.5. [Feature interaction]
-##### 5.1.2.3.6. [Massively parallel systems]
-#### 5.1.2.4. [Ultra-large-scale systems]
-#### 5.1.2.5. [Distributed systems organizing principles]
-##### 5.1.2.5.1. [Cloud computing]
-##### 5.1.2.5.2. [Client-server architectures]
-##### 5.1.2.5.3. [Grid computing]
-##### 5.1.2.5.4. [Organizing principles for web applications]
-#### 5.1.2.6. [Real-time systems software]
-#### 5.1.2.7. [Abstraction, modeling and modularity]
-### 5.1.3. [Software functional properties]
-#### 5.1.3.1. [Correctness]
-##### 5.1.3.1.1. [Synchronization]
-##### 5.1.3.1.2. [Functionality]
-##### 5.1.3.1.3. [Real-time schedulability]
-##### 5.1.3.1.4. [Consistency]
-##### 5.1.3.1.5. [Completeness]
-##### 5.1.3.1.6. [Access protection]
-#### 5.1.3.2. [Formal methods]
-##### 5.1.3.2.1. [Model checking]
-##### 5.1.3.2.2. [Software verification]
-##### 5.1.3.2.3. [Automated static analysis]
-##### 5.1.3.2.4. [Dynamic analysis]
-### 5.1.4. [Extra-functional properties]
-#### 5.1.4.1. [Interoperability]
-#### 5.1.4.2. [Software performance]
-#### 5.1.4.3. [Software reliability]
-#### 5.1.4.4. [Software fault tolerance]
-##### 5.1.4.4.1. [Checkpoint / restart]
-#### 5.1.4.5. [Software safety]
-#### 5.1.4.6. [Software usability]
-## 5.2. [Software notations and tools]
-### 5.2.1. [General programming languages]
-#### 5.2.1.1. [Language types]
-##### 5.2.1.1.1. [Parallel programming languages]
-##### 5.2.1.1.2. [Distributed programming languages]
-##### 5.2.1.1.3. [Imperative languages]
-##### 5.2.1.1.4. [Object oriented languages]
-##### 5.2.1.1.5. [Functional languages]
-##### 5.2.1.1.6. [Concurrent programming languages]
-##### 5.2.1.1.7. [Constraint and logic languages]
-##### 5.2.1.1.8. [Data flow languages]
-##### 5.2.1.1.9. [Extensible languages]
-##### 5.2.1.1.10. [Assembly languages]
-##### 5.2.1.1.11. [Multiparadigm languages]
-##### 5.2.1.1.12. [Very high level languages]
-#### 5.2.1.2. [Language features]
-##### 5.2.1.2.1. [Abstract data types]
-##### 5.2.1.2.2. [Polymorphism]
-##### 5.2.1.2.3. [Inheritance]
-##### 5.2.1.2.4. [Control structures]
-##### 5.2.1.2.5. [Data types and structures]
-##### 5.2.1.2.6. [Classes and objects]
-##### 5.2.1.2.7. [Modules / packages]
-##### 5.2.1.2.8. [Constraints]
-##### 5.2.1.2.9. [Recursion]
-##### 5.2.1.2.10. [Concurrent programming structures]
-##### 5.2.1.2.11. [Procedures, functions and subroutines]
-##### 5.2.1.2.12. [Patterns]
-##### 5.2.1.2.13. [Coroutines]
-##### 5.2.1.2.14. [Frameworks]
-### 5.2.2. [Formal language definitions]
-#### 5.2.2.1. [Syntax]
-#### 5.2.2.2. [Semantics]
-### 5.2.3. [Compilers]
-#### 5.2.3.1. [Interpreters]
-#### 5.2.3.2. [Incremental compilers]
-#### 5.2.3.3. [Retargetable compilers]
-#### 5.2.3.4. [Just-in-time compilers]
-#### 5.2.3.5. [Dynamic compilers]
-#### 5.2.3.6. [Translator writing systems and compiler generators]
-#### 5.2.3.7. [Source code generation]
-#### 5.2.3.8. [Runtime environments]
-#### 5.2.3.9. [Preprocessors]
-#### 5.2.3.10. [Parsers]
-### 5.2.4. [Context specific languages]
-#### 5.2.4.1. [Markup languages]
-##### 5.2.4.1.1. [Extensible Markup Language (XML)]
-##### 5.2.4.1.2. [Hypertext languages]
-#### 5.2.4.2. [Scripting languages]
-#### 5.2.4.3. [Domain specific languages]
-#### 5.2.4.4. [Specialized application languages]
-#### 5.2.4.5. [API languages]
-#### 5.2.4.6. [Graphical user interface languages]
-#### 5.2.4.7. [Window managers]
-#### 5.2.4.8. [Command and control languages]
-#### 5.2.4.9. [Macro languages]
-#### 5.2.4.10. [Programming by example]
-#### 5.2.4.11. [State based definitions]
-#### 5.2.4.12. [Visual languages]
-#### 5.2.4.13. [Interface definition languages]
-### 5.2.5. [System description languages]
-#### 5.2.5.1. [Design languages]
-#### 5.2.5.2. [Unified Modeling Language (UML)]
-#### 5.2.5.3. [Architecture description languages]
-#### 5.2.5.4. [System modeling languages]
-#### 5.2.5.5. [Orchestration languages]
-#### 5.2.5.6. [Integration frameworks]
-#### 5.2.5.7. [Specification languages]
-### 5.2.6. [Development frameworks and environments]
-#### 5.2.6.1. [Object oriented frameworks]
-#### 5.2.6.2. [Software as a service orchestration system]
-#### 5.2.6.3. [Integrated and visual development environments]
-#### 5.2.6.4. [Application specific development environments]
-### 5.2.7. [Software configuration management and version control systems]
-### 5.2.8. [Software libraries and repositories]
-### 5.2.9. [Software maintenance tools]
-## 5.3. [Software creation and management]
-### 5.3.1. [Designing software]
-#### 5.3.1.1. [Requirements analysis]
-#### 5.3.1.2. [Software design engineering]
-#### 5.3.1.3. [Software design tradeoffs]
-#### 5.3.1.4. [Software implementation planning]
-##### 5.3.1.4.1. [Software design techniques]
-### 5.3.2. [Software development process management]
-#### 5.3.2.1. [Software development methods]
-##### 5.3.2.1.1. [Rapid application development]
-##### 5.3.2.1.2. [Agile software development]
-##### 5.3.2.1.3. [Capability Maturity Model]
-##### 5.3.2.1.4. [Waterfall model]
-##### 5.3.2.1.5. [Spiral model]
-##### 5.3.2.1.6. [V-model]
-##### 5.3.2.1.7. [Design patterns]
-#### 5.3.2.2. [Risk management]
-### 5.3.3. [Software development techniques]
-#### 5.3.3.1. [Software prototyping]
-#### 5.3.3.2. [Object oriented development]
-#### 5.3.3.3. [Flowcharts]
-#### 5.3.3.4. [Reusability]
-##### 5.3.3.4.1. [Software product lines]
-#### 5.3.3.5. [Error handling and recovery]
-#### 5.3.3.6. [Automatic programming]
-##### 5.3.3.6.1. [Genetic programming]
-### 5.3.4. [Software verification and validation]
-#### 5.3.4.1. [Software prototyping]
-#### 5.3.4.2. [Operational analysis]
-#### 5.3.4.3. [Software defect analysis]
-##### 5.3.4.3.1. [Software testing and debugging]
-#### 5.3.4.4. [Fault tree analysis]
-#### 5.3.4.5. [Process validation]
-##### 5.3.4.5.1. [Walkthroughs]
-##### 5.3.4.5.2. [Pair programming]
-##### 5.3.4.5.3. [Use cases]
-##### 5.3.4.5.4. [Acceptance testing]
-##### 5.3.4.5.5. [Traceability]
-#### 5.3.4.6. [Formal software verification]
-#### 5.3.4.7. [Empirical software validation]
-### 5.3.5. [Software post-development issues]
-#### 5.3.5.1. [Software reverse engineering]
-#### 5.3.5.2. [Documentation]
-#### 5.3.5.3. [Backup procedures]
-#### 5.3.5.4. [Software evolution]
-#### 5.3.5.5. [Software version control]
-#### 5.3.5.6. [Maintaining software]
-#### 5.3.5.7. [System administration]
-### 5.3.6. [Collaboration in software development]
-#### 5.3.6.1. [Open source model]
-#### 5.3.6.2. [Programming teams]
-### 5.3.7. [Search-based software engineering]
-# 6. [Theory of computation]
-## 6.1. [Models of computation]
-### 6.1.1. [Computability]
-#### 6.1.1.1. [Lambda calculus]
-#### 6.1.1.2. [Turing machines]
-#### 6.1.1.3. [Recursive functions]
-### 6.1.2. [Probabilistic computation]
-### 6.1.3. [Quantum computation theory]
-#### 6.1.3.1. [Quantum complexity theory]
-#### 6.1.3.2. [Quantum communication complexity]
-#### 6.1.3.3. [Quantum query complexity]
-#### 6.1.3.4. [Quantum information theory]
-### 6.1.4. [Interactive computation]
-### 6.1.5. [Streaming models]
-### 6.1.6. [Concurrency]
-#### 6.1.6.1. [Parallel computing models]
-#### 6.1.6.2. [Distributed computing models]
-#### 6.1.6.3. [Process calculi]
-### 6.1.7. [Timed and hybrid models]
-### 6.1.8. [Abstract machines]
-## 6.2. [Formal languages and automata theory]
-### 6.2.1. [Formalisms]
-#### 6.2.1.1. [Algebraic language theory]
-#### 6.2.1.2. [Rewrite systems]
-### 6.2.2. [Automata over infinite objects]
-### 6.2.3. [Grammars and context-free languages]
-### 6.2.4. [Tree languages]
-### 6.2.5. [Automata extensions]
-#### 6.2.5.1. [Transducers]
-#### 6.2.5.2. [Quantitative automata]
-### 6.2.6. [Regular languages]
-## 6.3. [Computational complexity and cryptography]
-### 6.3.1. [Complexity classes]
-### 6.3.2. [Problems, reductions and completeness]
-### 6.3.3. [Communication complexity]
-### 6.3.4. [Circuit complexity]
-### 6.3.5. [Oracles and decision trees]
-### 6.3.6. [Algebraic complexity theory]
-### 6.3.7. [Quantum complexity theory]
-### 6.3.8. [Proof complexity]
-### 6.3.9. [Interactive proof systems]
-### 6.3.10. [Complexity theory and logic]
-### 6.3.11. [Cryptographic primitives]
-### 6.3.12. [Cryptographic protocols]
-## 6.4. [Logic]
-### 6.4.1. [Logic and verification]
-### 6.4.2. [Proof theory]
-### 6.4.3. [Modal and temporal logics]
-### 6.4.4. [Automated reasoning]
-### 6.4.5. [Constraint and logic programming]
-### 6.4.6. [Constructive mathematics]
-### 6.4.7. [Description logics]
-### 6.4.8. [Equational logic and rewriting]
-### 6.4.9. [Finite Model Theory]
-### 6.4.10. [Higher order logic]
-### 6.4.11. [Linear logic]
-### 6.4.12. [Programming logic]
-### 6.4.13. [Abstraction]
-### 6.4.14. [Verification by model checking]
-### 6.4.15. [Type theory]
-### 6.4.16. [Hoare logic]
-### 6.4.17. [Separation logic]
-## 6.5. [Design and analysis of algorithms]
-### 6.5.1. [Graph algorithms analysis]
-#### 6.5.1.1. [Network flows]
-#### 6.5.1.2. [Sparsification and spanners]
-#### 6.5.1.3. [Shortest paths]
-#### 6.5.1.4. [Dynamic graph algorithms]
-### 6.5.2. [Approximation algorithms analysis]
-#### 6.5.2.1. [Scheduling algorithms]
-#### 6.5.2.2. [Packing and covering problems]
-#### 6.5.2.3. [Routing and network design problems]
-#### 6.5.2.4. [Facility location and clustering]
-#### 6.5.2.5. [Rounding techniques]
-#### 6.5.2.6. [Stochastic approximation]
-#### 6.5.2.7. [Numeric approximation algorithms]
-### 6.5.3. [Mathematical optimization]
-#### 6.5.3.1. [Discrete optimization]
-##### 6.5.3.1.1. [Network optimization]
-##### 6.5.3.1.2. [Optimization with randomized search heuristics]
-###### 6.5.3.1.2.1. [Simulated annealing]
-###### 6.5.3.1.2.2. [Evolutionary algorithms]
-###### 6.5.3.1.2.3. [Tabu search]
-###### 6.5.3.1.2.4. [Randomized local search]
-#### 6.5.3.2. [Continuous optimization]
-##### 6.5.3.2.1. [Linear programming]
-##### 6.5.3.2.2. [Semidefinite programming]
-##### 6.5.3.2.3. [Convex optimization]
-##### 6.5.3.2.4. [Quasiconvex programming and unimodality]
-##### 6.5.3.2.5. [Stochastic control and optimization]
-##### 6.5.3.2.6. [Quadratic programming]
-##### 6.5.3.2.7. [Nonconvex optimization]
-##### 6.5.3.2.8. [Bio-inspired optimization]
-#### 6.5.3.3. [Mixed discrete-continuous optimization]
-##### 6.5.3.3.1. [Submodular optimization and polymatroids]
-##### 6.5.3.3.2. [Integer programming]
-##### 6.5.3.3.3. [Bio-inspired optimization]
-#### 6.5.3.4. [Non-parametric optimization]
-##### 6.5.3.4.1. [Genetic programming]
-##### 6.5.3.4.2. [Developmental representations]
-### 6.5.4. [Data structures design and analysis]
-#### 6.5.4.1. [Data compression]
-#### 6.5.4.2. [Pattern matching]
-#### 6.5.4.3. [Sorting and searching]
-#### 6.5.4.4. [Predecessor queries]
-#### 6.5.4.5. [Cell probe models and lower bounds]
-### 6.5.5. [Online algorithms]
-#### 6.5.5.1. [Online learning algorithms]
-##### 6.5.5.1.1. [Scheduling algorithms]
-#### 6.5.5.2. [Caching and paging algorithms]
-#### 6.5.5.3. [K-server algorithms]
-#### 6.5.5.4. [Adversary models]
-### 6.5.6. [Parameterized complexity and exact algorithms]
-#### 6.5.6.1. [Fixed parameter tractability]
-#### 6.5.6.2. [W hierarchy]
-### 6.5.7. [Streaming, sublinear and near linear time algorithms]
-#### 6.5.7.1. [Bloom filters and hashing]
-#### 6.5.7.2. [Sketching and sampling]
-#### 6.5.7.3. [Lower bounds and information complexity]
-#### 6.5.7.4. [Random order and robust communication complexity]
-#### 6.5.7.5. [Nearest neighbor algorithms]
-### 6.5.8. [Parallel algorithms]
-#### 6.5.8.1. [MapReduce algorithms]
-#### 6.5.8.2. [Self-organization]
-#### 6.5.8.3. [Shared memory algorithms]
-#### 6.5.8.4. [Vector / streaming algorithms]
-#### 6.5.8.5. [Massively parallel algorithms]
-### 6.5.9. [Distributed algorithms]
-#### 6.5.9.1. [MapReduce algorithms]
-#### 6.5.9.2. [Self-organization]
-### 6.5.10. [Algorithm design techniques]
-#### 6.5.10.1. [Backtracking]
-#### 6.5.10.2. [Branch-and-bound]
-#### 6.5.10.3. [Divide and conquer]
-#### 6.5.10.4. [Dynamic programming]
-#### 6.5.10.5. [Preconditioning]
-### 6.5.11. [Concurrent algorithms]
-## 6.6. [Randomness, geometry and discrete structures]
-### 6.6.1. [Pseudorandomness and derandomization]
-### 6.6.2. [Computational geometry]
-### 6.6.3. [Generating random combinatorial structures]
-### 6.6.4. [Random walks and Markov chains]
-### 6.6.5. [Expander graphs and randomness extractors]
-### 6.6.6. [Error-correcting codes]
-### 6.6.7. [Random projections and metric embeddings]
-### 6.6.8. [Random network models]
-### 6.6.9. [Random search heuristics]
-## 6.7. [Theory and algorithms for application domains]
-### 6.7.1. [Machine learning theory]
-#### 6.7.1.1. [Sample complexity and generalization bounds]
-#### 6.7.1.2. [Boolean function learning]
-#### 6.7.1.3. [Unsupervised learning and clustering]
-#### 6.7.1.4. [Kernel methods]
-##### 6.7.1.4.1. [Support vector machines]
-##### 6.7.1.4.2. [Gaussian processes]
-#### 6.7.1.5. [Boosting]
-#### 6.7.1.6. [Bayesian analysis]
-#### 6.7.1.7. [Inductive inference]
-#### 6.7.1.8. [Online learning theory]
-#### 6.7.1.9. [Multi-agent learning]
-#### 6.7.1.10. [Models of learning]
-#### 6.7.1.11. [Query learning]
-#### 6.7.1.12. [Structured prediction]
-#### 6.7.1.13. [Reinforcement learning]
-##### 6.7.1.13.1. [Sequential decision making]
-##### 6.7.1.13.2. [Inverse reinforcement learning]
-##### 6.7.1.13.3. [Apprenticeship learning]
-##### 6.7.1.13.4. [Multi-agent reinforcement learning]
-##### 6.7.1.13.5. [Adversarial learning]
-#### 6.7.1.14. [Active learning]
-#### 6.7.1.15. [Semi-supervised learning]
-#### 6.7.1.16. [Markov decision processes]
-#### 6.7.1.17. [Regret bounds]
-### 6.7.2. [Algorithmic game theory and mechanism design]
-#### 6.7.2.1. [Social networks]
-#### 6.7.2.2. [Algorithmic game theory]
-#### 6.7.2.3. [Algorithmic mechanism design]
-#### 6.7.2.4. [Solution concepts in game theory]
-#### 6.7.2.5. [Exact and approximate computation of equilibria]
-#### 6.7.2.6. [Quality of equilibria]
-#### 6.7.2.7. [Convergence and learning in games]
-#### 6.7.2.8. [Market equilibria]
-#### 6.7.2.9. [Computational pricing and auctions]
-#### 6.7.2.10. [Representations of games and their complexity]
-#### 6.7.2.11. [Network games]
-#### 6.7.2.12. [Network formation]
-#### 6.7.2.13. [Computational advertising theory]
-### 6.7.3. [Database theory]
-#### 6.7.3.1. [Data exchange]
-#### 6.7.3.2. [Data provenance]
-#### 6.7.3.3. [Data modeling]
-#### 6.7.3.4. [Database query languages (principles)]
-#### 6.7.3.5. [Database constraints theory]
-#### 6.7.3.6. [Database interoperability]
-#### 6.7.3.7. [Data structures and algorithms for data management]
-#### 6.7.3.8. [Database query processing and optimization (theory)]
-#### 6.7.3.9. [Data integration]
-#### 6.7.3.10. [Logic and databases]
-#### 6.7.3.11. [Theory of database privacy and security]
-#### 6.7.3.12. [Incomplete, inconsistent, and uncertain databases]
-### 6.7.4. [Theory of randomized search heuristics]
-## 6.8. [Semantics and reasoning]
-### 6.8.1. [Program constructs]
-#### 6.8.1.1. [Control primitives]
-#### 6.8.1.2. [Functional constructs]
-#### 6.8.1.3. [Object oriented constructs]
-#### 6.8.1.4. [Program schemes]
-#### 6.8.1.5. [Type structures]
-### 6.8.2. [Program semantics]
-#### 6.8.2.1. [Algebraic semantics]
-#### 6.8.2.2. [Denotational semantics]
-#### 6.8.2.3. [Operational semantics]
-#### 6.8.2.4. [Axiomatic semantics]
-#### 6.8.2.5. [Action semantics]
-#### 6.8.2.6. [Categorical semantics]
-### 6.8.3. [Program reasoning]
-#### 6.8.3.1. [Invariants]
-#### 6.8.3.2. [Program specifications]
-#### 6.8.3.3. [Pre- and post-conditions]
-#### 6.8.3.4. [Program verification]
-#### 6.8.3.5. [Program analysis]
-#### 6.8.3.6. [Assertions]
-#### 6.8.3.7. [Parsing]
-#### 6.8.3.8. [Abstraction]
-# 7. [Mathematics of computing]
-## 7.1. [Discrete mathematics]
-### 7.1.1. [Combinatorics]
-#### 7.1.1.1. [Combinatoric problems]
-#### 7.1.1.2. [Permutations and combinations]
-#### 7.1.1.3. [Combinatorial algorithms]
-#### 7.1.1.4. [Generating functions]
-#### 7.1.1.5. [Combinatorial optimization]
-#### 7.1.1.6. [Combinatorics on words]
-#### 7.1.1.7. [Enumeration]
-### 7.1.2. [Graph theory]
-#### 7.1.2.1. [Trees]
-#### 7.1.2.2. [Hypergraphs]
-#### 7.1.2.3. [Random graphs]
-#### 7.1.2.4. [Graph coloring]
-#### 7.1.2.5. [Paths and connectivity problems]
-#### 7.1.2.6. [Graph enumeration]
-#### 7.1.2.7. [Matchings and factors]
-#### 7.1.2.8. [Graphs and surfaces]
-#### 7.1.2.9. [Network flows]
-#### 7.1.2.10. [Spectra of graphs]
-#### 7.1.2.11. [Extremal graph theory]
-#### 7.1.2.12. [Matroids and greedoids]
-#### 7.1.2.13. [Graph algorithms]
-#### 7.1.2.14. [Approximation algorithms]
-## 7.2. [Probability and statistics]
-### 7.2.1. [Probabilistic representations]
-#### 7.2.1.1. [Bayesian networks]
-#### 7.2.1.2. [Markov networks]
-#### 7.2.1.3. [Factor graphs]
-#### 7.2.1.4. [Decision diagrams]
-#### 7.2.1.5. [Equational models]
-#### 7.2.1.6. [Causal networks]
-#### 7.2.1.7. [Stochastic differential equations]
-#### 7.2.1.8. [Nonparametric representations]
-##### 7.2.1.8.1. [Kernel density estimators]
-##### 7.2.1.8.2. [Spline models]
-##### 7.2.1.8.3. [Bayesian nonparametric models]
-### 7.2.2. [Probabilistic inference problems]
-#### 7.2.2.1. [Maximum likelihood estimation]
-#### 7.2.2.2. [Bayesian computation]
-#### 7.2.2.3. [Computing most probable explanation]
-#### 7.2.2.4. [Hypothesis testing and confidence interval computation]
-#### 7.2.2.5. [Density estimation]
-##### 7.2.2.5.1. [Quantile regression]
-#### 7.2.2.6. [Max marginal computation]
-### 7.2.3. [Probabilistic reasoning algorithms]
-#### 7.2.3.1. [Variable elimination]
-#### 7.2.3.2. [Loopy belief propagation]
-#### 7.2.3.3. [Variational methods]
-#### 7.2.3.4. [Expectation maximization]
-#### 7.2.3.5. [Markov-chain Monte Carlo methods]
-##### 7.2.3.5.1. [Gibbs sampling]
-##### 7.2.3.5.2. [Metropolis-Hastings algorithm]
-##### 7.2.3.5.3. [Simulated annealing]
-##### 7.2.3.5.4. [Markov-chain Monte Carlo convergence measures]
-#### 7.2.3.6. [Sequential Monte Carlo methods]
-#### 7.2.3.7. [Kalman filters and hidden Markov models]
-#### 7.2.3.8. [Resampling methods]
-##### 7.2.3.8.1. [Bootstrapping]
-##### 7.2.3.8.2. [Jackknifing]
-#### 7.2.3.9. [Random number generation]
-### 7.2.4. [Probabilistic algorithms]
-### 7.2.5. [Statistical paradigms]
-#### 7.2.5.1. [Queueing theory]
-#### 7.2.5.2. [Contingency table analysis]
-#### 7.2.5.3. [Regression analysis]
-##### 7.2.5.3.1. [Robust regression]
-#### 7.2.5.4. [Time series analysis]
-#### 7.2.5.5. [Survival analysis]
-#### 7.2.5.6. [Renewal theory]
-#### 7.2.5.7. [Dimensionality reduction]
-#### 7.2.5.8. [Cluster analysis]
-#### 7.2.5.9. [Statistical graphics]
-#### 7.2.5.10. [Exploratory data analysis]
-### 7.2.6. [Stochastic processes]
-#### 7.2.6.1. [Markov processes]
-### 7.2.7. [Nonparametric statistics]
-### 7.2.8. [Distribution functions]
-### 7.2.9. [Multivariate statistics]
-## 7.3. [Mathematical software]
-### 7.3.1. [Solvers]
-### 7.3.2. [Statistical software]
-### 7.3.3. [Mathematical software performance]
-## 7.4. [Information theory]
-### 7.4.1. [Coding theory]
-## 7.5. [Mathematical analysis]
-### 7.5.1. [Numerical analysis]
-#### 7.5.1.1. [Computation of transforms]
-#### 7.5.1.2. [Computations in finite fields]
-#### 7.5.1.3. [Computations on matrices]
-#### 7.5.1.4. [Computations on polynomials]
-##### 7.5.1.4.1. [Gröbner bases and other special bases]
-#### 7.5.1.5. [Number-theoretic computations]
-#### 7.5.1.6. [Interpolation]
-#### 7.5.1.7. [Numerical differentiation]
-#### 7.5.1.8. [Interval arithmetic]
-#### 7.5.1.9. [Arbitrary-precision arithmetic]
-#### 7.5.1.10. [Automatic differentiation]
-#### 7.5.1.11. [Mesh generation]
-#### 7.5.1.12. [Discretization]
-### 7.5.2. [Mathematical optimization]
-#### 7.5.2.1. [Discrete optimization]
-##### 7.5.2.1.1. [Network optimization]
-##### 7.5.2.1.2. [Optimization with randomized search heuristics]
-###### 7.5.2.1.2.1. [Simulated annealing]
-###### 7.5.2.1.2.2. [Evolutionary algorithms]
-###### 7.5.2.1.2.3. [Tabu search]
-###### 7.5.2.1.2.4. [Randomized local search]
-#### 7.5.2.2. [Continuous optimization]
-##### 7.5.2.2.1. [Linear programming]
-##### 7.5.2.2.2. [Semidefinite programming]
-##### 7.5.2.2.3. [Convex optimization]
-##### 7.5.2.2.4. [Quasiconvex programming and unimodality]
-##### 7.5.2.2.5. [Stochastic control and optimization]
-##### 7.5.2.2.6. [Quadratic programming]
-##### 7.5.2.2.7. [Nonconvex optimization]
-##### 7.5.2.2.8. [Bio-inspired optimization]
-#### 7.5.2.3. [Mixed discrete-continuous optimization]
-##### 7.5.2.3.1. [Submodular optimization and polymatroids]
-##### 7.5.2.3.2. [Integer programming]
-##### 7.5.2.3.3. [Bio-inspired optimization]
-#### 7.5.2.4. [Non-parametric optimization]
-##### 7.5.2.4.1. [Genetic programming]
-##### 7.5.2.4.2. [Developmental representations]
-### 7.5.3. [Differential equations]
-#### 7.5.3.1. [Ordinary differential equations]
-#### 7.5.3.2. [Partial differential equations]
-#### 7.5.3.3. [Differential algebraic equations]
-#### 7.5.3.4. [Differential variational inequalities]
-### 7.5.4. [Calculus]
-#### 7.5.4.1. [Lambda calculus]
-#### 7.5.4.2. [Differential calculus]
-#### 7.5.4.3. [Integral calculus]
-### 7.5.5. [Functional analysis]
-#### 7.5.5.1. [Approximation]
-### 7.5.6. [Integral equations]
-### 7.5.7. [Nonlinear equations]
-### 7.5.8. [Quadrature]
-## 7.6. [Continuous mathematics]
-### 7.6.1. [Calculus]
-#### 7.6.1.1. [Lambda calculus]
-#### 7.6.1.2. [Differential calculus]
-#### 7.6.1.3. [Integral calculus]
-### 7.6.2. [Topology]
-#### 7.6.2.1. [Point-set topology]
-#### 7.6.2.2. [Algebraic topology]
-#### 7.6.2.3. [Geometric topology]
-### 7.6.3. [Continuous functions]
-# 8. [Information systems]
-## 8.1. [Data management systems]
-### 8.1.1. [Database design and models]
-#### 8.1.1.1. [Relational database model]
-#### 8.1.1.2. [Entity relationship models]
-#### 8.1.1.3. [Graph-based database models]
-##### 8.1.1.3.1. [Hierarchical data models]
-##### 8.1.1.3.2. [Network data models]
-#### 8.1.1.4. [Physical data models]
-#### 8.1.1.5. [Data model extensions]
-##### 8.1.1.5.1. [Semi-structured data]
-##### 8.1.1.5.2. [Data streams]
-##### 8.1.1.5.3. [Data provenance]
-##### 8.1.1.5.4. [Incomplete data]
-##### 8.1.1.5.5. [Temporal data]
-##### 8.1.1.5.6. [Uncertainty]
-##### 8.1.1.5.7. [Inconsistent data]
-### 8.1.2. [Data structures]
-#### 8.1.2.1. [Data access methods]
-##### 8.1.2.1.1. [Multidimensional range search]
-##### 8.1.2.1.2. [Data scans]
-##### 8.1.2.1.3. [Point lookups]
-##### 8.1.2.1.4. [Unidimensional range search]
-##### 8.1.2.1.5. [Proximity search]
-#### 8.1.2.2. [Data layout]
-##### 8.1.2.2.1. [Data compression]
-##### 8.1.2.2.2. [Data encryption]
-##### 8.1.2.2.3. [Record and block layout]
-### 8.1.3. [Database management system engines]
-#### 8.1.3.1. [DBMS engine architectures]
-#### 8.1.3.2. [Database query processing]
-##### 8.1.3.2.1. [Query optimization]
-##### 8.1.3.2.2. [Query operators]
-##### 8.1.3.2.3. [Query planning]
-##### 8.1.3.2.4. [Join algorithms]
-#### 8.1.3.3. [Database transaction processing]
-##### 8.1.3.3.1. [Data locking]
-##### 8.1.3.3.2. [Transaction logging]
-##### 8.1.3.3.3. [Database recovery]
-#### 8.1.3.4. [Record and buffer management]
-#### 8.1.3.5. [Parallel and distributed DBMSs]
-##### 8.1.3.5.1. [Key-value stores]
-##### 8.1.3.5.2. [MapReduce-based systems]
-##### 8.1.3.5.3. [Relational parallel and distributed DBMSs]
-#### 8.1.3.6. [Triggers and rules]
-#### 8.1.3.7. [Database views]
-#### 8.1.3.8. [Integrity checking]
-#### 8.1.3.9. [Distributed database transactions]
-##### 8.1.3.9.1. [Distributed data locking]
-##### 8.1.3.9.2. [Deadlocks]
-##### 8.1.3.9.3. [Distributed database recovery]
-#### 8.1.3.10. [Main memory engines]
-#### 8.1.3.11. [Online analytical processing engines]
-#### 8.1.3.12. [Stream management]
-### 8.1.4. [Query languages]
-#### 8.1.4.1. [Relational database query languages]
-##### 8.1.4.1.1. [Structured Query Language]
-#### 8.1.4.2. [XML query languages]
-##### 8.1.4.2.1. [XPath]
-##### 8.1.4.2.2. [XQuery]
-#### 8.1.4.3. [Query languages for non-relational engines]
-##### 8.1.4.3.1. [MapReduce languages]
-#### 8.1.4.4. [Call level interfaces]
-### 8.1.5. [Database administration]
-#### 8.1.5.1. [Database utilities and tools]
-#### 8.1.5.2. [Database performance evaluation]
-#### 8.1.5.3. [Autonomous database administration]
-#### 8.1.5.4. [Data dictionaries]
-### 8.1.6. [Information integration]
-#### 8.1.6.1. [Deduplication]
-#### 8.1.6.2. [Extraction, transformation and loading]
-#### 8.1.6.3. [Data exchange]
-#### 8.1.6.4. [Data cleaning]
-#### 8.1.6.5. [Wrappers (data mining)]
-#### 8.1.6.6. [Mediators and data integration]
-#### 8.1.6.7. [Entity resolution]
-#### 8.1.6.8. [Data warehouses]
-#### 8.1.6.9. [Federated databases]
-### 8.1.7. [Middleware for databases]
-#### 8.1.7.1. [Database web servers]
-#### 8.1.7.2. [Application servers]
-#### 8.1.7.3. [Object-relational mapping facilities]
-#### 8.1.7.4. [Data federation tools]
-#### 8.1.7.5. [Data replication tools]
-#### 8.1.7.6. [Distributed transaction monitors]
-#### 8.1.7.7. [Message queues]
-#### 8.1.7.8. [Service buses]
-#### 8.1.7.9. [Enterprise application integration tools]
-#### 8.1.7.10. [Middleware business process managers]
-## 8.2. [Information storage systems]
-### 8.2.1. [Information storage technologies]
-#### 8.2.1.1. [Magnetic disks]
-#### 8.2.1.2. [Magnetic tapes]
-#### 8.2.1.3. [Optical / magneto-optical disks]
-#### 8.2.1.4. [Storage class memory]
-##### 8.2.1.4.1. [Flash memory]
-##### 8.2.1.4.2. [Phase change memory]
-#### 8.2.1.5. [Disk arrays]
-#### 8.2.1.6. [Tape libraries]
-### 8.2.2. [Record storage systems]
-#### 8.2.2.1. [Record storage alternatives]
-##### 8.2.2.1.1. [Heap (data structure)]
-##### 8.2.2.1.2. [Hashed file organization]
-##### 8.2.2.1.3. [Indexed file organization]
-##### 8.2.2.1.4. [Linked lists]
-#### 8.2.2.2. [Directory structures]
-##### 8.2.2.2.1. [B-trees]
-##### 8.2.2.2.2. [Vnodes]
-##### 8.2.2.2.3. [Inodes]
-##### 8.2.2.2.4. [Extent-based file structures]
-#### 8.2.2.3. [Block / page strategies]
-##### 8.2.2.3.1. [Slotted pages]
-##### 8.2.2.3.2. [Intrapage space management]
-##### 8.2.2.3.3. [Interpage free-space management]
-#### 8.2.2.4. [Record layout alternatives]
-##### 8.2.2.4.1. [Fixed length attributes]
-##### 8.2.2.4.2. [Variable length attributes]
-##### 8.2.2.4.3. [Null values in records]
-#### 8.2.2.5. [Relational storage]
-##### 8.2.2.5.1. [Horizontal partitioning]
-##### 8.2.2.5.2. [Vertical partitioning]
-##### 8.2.2.5.3. [Column based storage]
-##### 8.2.2.5.4. [Hybrid storage layouts]
-##### 8.2.2.5.5. [Compression strategies]
-### 8.2.3. [Storage replication]
-#### 8.2.3.1. [Mirroring]
-#### 8.2.3.2. [RAID]
-#### 8.2.3.3. [Point-in-time copies]
-#### 8.2.3.4. [Remote replication]
-#### 8.2.3.5. [Storage recovery strategies]
-### 8.2.4. [Storage architectures]
-#### 8.2.4.1. [Cloud based storage]
-#### 8.2.4.2. [Storage network architectures]
-##### 8.2.4.2.1. [Storage area networks]
-##### 8.2.4.2.2. [Direct attached storage]
-##### 8.2.4.2.3. [Network attached storage]
-#### 8.2.4.3. [Distributed storage]
-### 8.2.5. [Storage management]
-#### 8.2.5.1. [Hierarchical storage management]
-#### 8.2.5.2. [Storage virtualization]
-#### 8.2.5.3. [Information lifecycle management]
-#### 8.2.5.4. [Version management]
-#### 8.2.5.5. [Storage power management]
-#### 8.2.5.6. [Thin provisioning]
-## 8.3. [Information systems applications]
-### 8.3.1. [Enterprise information systems]
-#### 8.3.1.1. [Intranets]
-#### 8.3.1.2. [Extranets]
-#### 8.3.1.3. [Enterprise resource planning]
-#### 8.3.1.4. [Enterprise applications]
-#### 8.3.1.5. [Data centers]
-### 8.3.2. [Collaborative and social computing systems and tools]
-#### 8.3.2.1. [Blogs]
-#### 8.3.2.2. [Wikis]
-#### 8.3.2.3. [Reputation systems]
-#### 8.3.2.4. [Open source software]
-#### 8.3.2.5. [Social networking sites]
-#### 8.3.2.6. [Social tagging systems]
-#### 8.3.2.7. [Synchronous editors]
-#### 8.3.2.8. [Asynchronous editors]
-### 8.3.3. [Spatial-temporal systems]
-#### 8.3.3.1. [Location based services]
-#### 8.3.3.2. [Geographic information systems]
-#### 8.3.3.3. [Sensor networks]
-#### 8.3.3.4. [Data streaming]
-#### 8.3.3.5. [Global positioning systems]
-### 8.3.4. [Decision support systems]
-#### 8.3.4.1. [Data warehouses]
-#### 8.3.4.2. [Expert systems]
-#### 8.3.4.3. [Data analytics]
-#### 8.3.4.4. [Online analytical processing]
-### 8.3.5. [Mobile information processing systems]
-### 8.3.6. [Process control systems]
-### 8.3.7. [Multimedia information systems]
-#### 8.3.7.1. [Multimedia databases]
-#### 8.3.7.2. [Multimedia streaming]
-#### 8.3.7.3. [Multimedia content creation]
-#### 8.3.7.4. [Massively multiplayer online games]
-### 8.3.8. [Data mining]
-#### 8.3.8.1. [Data cleaning]
-#### 8.3.8.2. [Collaborative filtering]
-#### 8.3.8.3. [Association rules]
-#### 8.3.8.4. [Clustering]
-#### 8.3.8.5. [Nearest-neighbor search]
-#### 8.3.8.6. [Data stream mining]
-### 8.3.9. [Digital libraries and archives]
-### 8.3.10. [Computational advertising]
-### 8.3.11. [Computing platforms]
-## 8.4. [World Wide Web]
-### 8.4.1. [Web searching and information discovery]
-#### 8.4.1.1. [Web search engines]
-##### 8.4.1.1.1. [Web crawling]
-##### 8.4.1.1.2. [Web indexing]
-##### 8.4.1.1.3. [Page and site ranking]
-##### 8.4.1.1.4. [Spam detection]
-#### 8.4.1.2. [Content ranking]
-#### 8.4.1.3. [Collaborative filtering]
-#### 8.4.1.4. [Social recommendation]
-#### 8.4.1.5. [Personalization]
-#### 8.4.1.6. [Social tagging]
-### 8.4.2. [Online advertising]
-#### 8.4.2.1. [Sponsored search advertising]
-#### 8.4.2.2. [Content match advertising]
-#### 8.4.2.3. [Display advertising]
-#### 8.4.2.4. [Social advertising]
-### 8.4.3. [Web mining]
-#### 8.4.3.1. [Site wrapping]
-#### 8.4.3.2. [Data extraction and integration]
-##### 8.4.3.2.1. [Deep web]
-##### 8.4.3.2.2. [Surfacing]
-##### 8.4.3.2.3. [Search results deduplication]
-#### 8.4.3.3. [Web log analysis]
-#### 8.4.3.4. [Traffic analysis]
-### 8.4.4. [Web applications]
-#### 8.4.4.1. [Internet communications tools]
-##### 8.4.4.1.1. [Email]
-##### 8.4.4.1.2. [Blogs]
-##### 8.4.4.1.3. [Texting]
-##### 8.4.4.1.4. [Chat]
-##### 8.4.4.1.5. [Web conferencing]
-#### 8.4.4.2. [Social networks]
-#### 8.4.4.3. [Crowdsourcing]
-##### 8.4.4.3.1. [Answer ranking]
-##### 8.4.4.3.2. [Trust]
-##### 8.4.4.3.3. [Incentive schemes]
-##### 8.4.4.3.4. [Reputation systems]
-#### 8.4.4.4. [Electronic commerce]
-##### 8.4.4.4.1. [Digital cash]
-##### 8.4.4.4.2. [E-commerce infrastructure]
-##### 8.4.4.4.3. [Electronic data interchange]
-##### 8.4.4.4.4. [Electronic funds transfer]
-##### 8.4.4.4.5. [Online shopping]
-##### 8.4.4.4.6. [Online banking]
-##### 8.4.4.4.7. [Secure online transactions]
-##### 8.4.4.4.8. [Online auctions]
-### 8.4.5. [Web interfaces]
-#### 8.4.5.1. [Wikis]
-#### 8.4.5.2. [Browsers]
-#### 8.4.5.3. [Mashups]
-### 8.4.6. [Web services]
-#### 8.4.6.1. [Simple Object Access Protocol (SOAP)]
-#### 8.4.6.2. [RESTful web services]
-#### 8.4.6.3. [Web Services Description Language (WSDL)]
-#### 8.4.6.4. [Universal Description Discovery and Integration (UDDI)]
-#### 8.4.6.5. [Service discovery and interfaces]
-### 8.4.7. [Web data description languages]
-#### 8.4.7.1. [Semantic web description languages]
-##### 8.4.7.1.1. [Resource Description Framework (RDF)]
-##### 8.4.7.1.2. [Web Ontology Language (OWL)]
-#### 8.4.7.2. [Markup languages]
-##### 8.4.7.2.1. [Extensible Markup Language (XML)]
-##### 8.4.7.2.2. [Hypertext languages]
-## 8.5. [Information retrieval]
-### 8.5.1. [Document representation]
-#### 8.5.1.1. [Document structure]
-#### 8.5.1.2. [Document topic models]
-#### 8.5.1.3. [Content analysis and feature selection]
-#### 8.5.1.4. [Data encoding and canonicalization]
-#### 8.5.1.5. [Document collection models]
-#### 8.5.1.6. [Ontologies]
-#### 8.5.1.7. [Dictionaries]
-#### 8.5.1.8. [Thesauri]
-### 8.5.2. [Information retrieval query processing]
-#### 8.5.2.1. [Query representation]
-#### 8.5.2.2. [Query intent]
-#### 8.5.2.3. [Query log analysis]
-#### 8.5.2.4. [Query suggestion]
-#### 8.5.2.5. [Query reformulation]
-### 8.5.3. [Users and interactive retrieval]
-#### 8.5.3.1. [Personalization]
-#### 8.5.3.2. [Task models]
-#### 8.5.3.3. [Search interfaces]
-#### 8.5.3.4. [Collaborative search]
-### 8.5.4. [Retrieval models and ranking]
-#### 8.5.4.1. [Rank aggregation]
-#### 8.5.4.2. [Probabilistic retrieval models]
-#### 8.5.4.3. [Language models]
-#### 8.5.4.4. [Similarity measures]
-#### 8.5.4.5. [Learning to rank]
-#### 8.5.4.6. [Combination, fusion and federated search]
-#### 8.5.4.7. [Information retrieval diversity]
-#### 8.5.4.8. [Top-k retrieval in databases]
-#### 8.5.4.9. [Novelty in information retrieval]
-### 8.5.5. [Retrieval tasks and goals]
-#### 8.5.5.1. [Question answering]
-#### 8.5.5.2. [Document filtering]
-#### 8.5.5.3. [Recommender systems]
-#### 8.5.5.4. [Information extraction]
-#### 8.5.5.5. [Sentiment analysis]
-#### 8.5.5.6. [Expert search]
-#### 8.5.5.7. [Near-duplicate and plagiarism detection]
-#### 8.5.5.8. [Clustering and classification]
-#### 8.5.5.9. [Summarization]
-#### 8.5.5.10. [Business intelligence]
-### 8.5.6. [Evaluation of retrieval results]
-#### 8.5.6.1. [Test collections]
-#### 8.5.6.2. [Relevance assessment]
-#### 8.5.6.3. [Retrieval effectiveness]
-#### 8.5.6.4. [Retrieval efficiency]
-#### 8.5.6.5. [Presentation of retrieval results]
-### 8.5.7. [Search engine architectures and scalability]
-#### 8.5.7.1. [Search engine indexing]
-#### 8.5.7.2. [Search index compression]
-#### 8.5.7.3. [Distributed retrieval]
-#### 8.5.7.4. [Peer-to-peer retrieval]
-#### 8.5.7.5. [Retrieval on mobile devices]
-#### 8.5.7.6. [Adversarial retrieval]
-#### 8.5.7.7. [Link and co-citation analysis]
-#### 8.5.7.8. [Searching with auxiliary databases]
-### 8.5.8. [Specialized information retrieval]
-#### 8.5.8.1. [Structure and multilingual text search]
-##### 8.5.8.1.1. [Structured text search]
-##### 8.5.8.1.2. [Mathematics retrieval]
-##### 8.5.8.1.3. [Chemical and biochemical retrieval]
-##### 8.5.8.1.4. [Multilingual and cross-lingual retrieval]
-#### 8.5.8.2. [Multimedia and multimodal retrieval]
-##### 8.5.8.2.1. [Image search]
-##### 8.5.8.2.2. [Video search]
-##### 8.5.8.2.3. [Speech / audio search]
-##### 8.5.8.2.4. [Music retrieval]
-#### 8.5.8.3. [Environment-specific retrieval]
-##### 8.5.8.3.1. [Enterprise search]
-##### 8.5.8.3.2. [Desktop search]
-##### 8.5.8.3.3. [Web and social media search]
-# 9. [Security and privacy]
-## 9.1. [Cryptography]
-### 9.1.1. [Key management]
-### 9.1.2. [Public key (asymmetric) techniques]
-#### 9.1.2.1. [Digital signatures]
-#### 9.1.2.2. [Public key encryption]
-### 9.1.3. [Symmetric cryptography and hash functions]
-#### 9.1.3.1. [Block and stream ciphers]
-#### 9.1.3.2. [Hash functions and message authentication codes]
-### 9.1.4. [Cryptanalysis and other attacks]
-### 9.1.5. [Information-theoretic techniques]
-### 9.1.6. [Mathematical foundations of cryptography]
-## 9.2. [Formal methods and theory of security]
-### 9.2.1. [Trust frameworks]
-### 9.2.2. [Security requirements]
-### 9.2.3. [Formal security models]
-### 9.2.4. [Logic and verification]
-## 9.3. [Security services]
-### 9.3.1. [Authentication]
-#### 9.3.1.1. [Biometrics]
-#### 9.3.1.2. [Graphical / visual passwords]
-#### 9.3.1.3. [Multi-factor authentication]
-### 9.3.2. [Access control]
-### 9.3.3. [Pseudonymity, anonymity and untraceability]
-### 9.3.4. [Privacy-preserving protocols]
-### 9.3.5. [Digital rights management]
-### 9.3.6. [Authorization]
-## 9.4. [Intrusion/anomaly detection and malware mitigation]
-### 9.4.1. [Malware and its mitigation]
-### 9.4.2. [Intrusion detection systems]
-#### 9.4.2.1. [Artificial immune systems]
-### 9.4.3. [Social engineering attacks]
-#### 9.4.3.1. [Spoofing attacks]
-#### 9.4.3.2. [Phishing]
-## 9.5. [Security in hardware]
-### 9.5.1. [Tamper-proof and tamper-resistant designs]
-### 9.5.2. [Embedded systems security]
-### 9.5.3. [Hardware security implementation]
-#### 9.5.3.1. [Hardware-based security protocols]
-### 9.5.4. [Hardware attacks and countermeasures]
-#### 9.5.4.1. [Malicious design modifications]
-#### 9.5.4.2. [Side-channel analysis and countermeasures]
-### 9.5.5. [Hardware reverse engineering]
-## 9.6. [Systems security]
-### 9.6.1. [Operating systems security]
-#### 9.6.1.1. [Mobile platform security]
-#### 9.6.1.2. [Trusted computing]
-#### 9.6.1.3. [Virtualization and security]
-### 9.6.2. [Browser security]
-### 9.6.3. [Distributed systems security]
-### 9.6.4. [Information flow control]
-### 9.6.5. [Denial-of-service attacks]
-### 9.6.6. [Firewalls]
-### 9.6.7. [Vulnerability management]
-#### 9.6.7.1. [Penetration testing]
-#### 9.6.7.2. [Vulnerability scanners]
-### 9.6.8. [File system security]
-## 9.7. [Network security]
-### 9.7.1. [Security protocols]
-### 9.7.2. [Web protocol security]
-### 9.7.3. [Mobile and wireless security]
-### 9.7.4. [Denial-of-service attacks]
-### 9.7.5. [Firewalls]
-## 9.8. [Database and storage security]
-### 9.8.1. [Data anonymization and sanitization]
-### 9.8.2. [Management and querying of encrypted data]
-### 9.8.3. [Information accountability and usage control]
-### 9.8.4. [Database activity monitoring]
-## 9.9. [Software and application security]
-### 9.9.1. [Software security engineering]
-### 9.9.2. [Web application security]
-### 9.9.3. [Social network security and privacy]
-### 9.9.4. [Domain-specific security and privacy architectures]
-### 9.9.5. [Software reverse engineering]
-## 9.10. [Human and societal aspects of security and privacy]
-### 9.10.1. [Economics of security and privacy]
-### 9.10.2. [Social aspects of security and privacy]
-### 9.10.3. [Privacy protections]
-### 9.10.4. [Usability in security and privacy]
-# 10. [Human-centered computing]
-## 10.1. [Human computer interaction (HCI)]
-### 10.1.1. [HCI design and evaluation methods]
-#### 10.1.1.1. [User models]
-#### 10.1.1.2. [User studies]
-#### 10.1.1.3. [Usability testing]
-#### 10.1.1.4. [Heuristic evaluations]
-#### 10.1.1.5. [Walkthrough evaluations]
-#### 10.1.1.6. [Laboratory experiments]
-#### 10.1.1.7. [Field studies]
-### 10.1.2. [Interaction paradigms]
-#### 10.1.2.1. [Hypertext / hypermedia]
-#### 10.1.2.2. [Mixed / augmented reality]
-#### 10.1.2.3. [Command line interfaces]
-#### 10.1.2.4. [Graphical user interfaces]
-#### 10.1.2.5. [Virtual reality]
-#### 10.1.2.6. [Web-based interaction]
-#### 10.1.2.7. [Natural language interfaces]
-#### 10.1.2.8. [Collaborative interaction]
-### 10.1.3. [Interaction devices]
-#### 10.1.3.1. [Graphics input devices]
-#### 10.1.3.2. [Displays and imagers]
-#### 10.1.3.3. [Sound-based input / output]
-#### 10.1.3.4. [Keyboards]
-#### 10.1.3.5. [Pointing devices]
-#### 10.1.3.6. [Touch screens]
-#### 10.1.3.7. [Haptic devices]
-### 10.1.4. [HCI theory, concepts and models]
-### 10.1.5. [Interaction techniques]
-#### 10.1.5.1. [Auditory feedback]
-#### 10.1.5.2. [Text input]
-#### 10.1.5.3. [Pointing]
-#### 10.1.5.4. [Gestural input]
-### 10.1.6. [Interactive systems and tools]
-#### 10.1.6.1. [User interface management systems]
-#### 10.1.6.2. [User interface programming]
-#### 10.1.6.3. [User interface toolkits]
-### 10.1.7. [Empirical studies in HCI]
-## 10.2. [Interaction design]
-### 10.2.1. [Interaction design process and methods]
-#### 10.2.1.1. [User interface design]
-#### 10.2.1.2. [User centered design]
-#### 10.2.1.3. [Activity centered design]
-#### 10.2.1.4. [Scenario-based design]
-#### 10.2.1.5. [Participatory design]
-#### 10.2.1.6. [Contextual design]
-#### 10.2.1.7. [Interface design prototyping]
-### 10.2.2. [Interaction design theory, concepts and paradigms]
-### 10.2.3. [Empirical studies in interaction design]
-### 10.2.4. [Systems and tools for interaction design]
-#### 10.2.4.1. [Wireframes]
-## 10.3. [Collaborative and social computing]
-### 10.3.1. [Collaborative and social computing theory, concepts and paradigms]
-#### 10.3.1.1. [Social content sharing]
-#### 10.3.1.2. [Collaborative content creation]
-#### 10.3.1.3. [Collaborative filtering]
-#### 10.3.1.4. [Social recommendation]
-#### 10.3.1.5. [Social networks]
-#### 10.3.1.6. [Social tagging]
-#### 10.3.1.7. [Computer supported cooperative work]
-#### 10.3.1.8. [Social engineering (social sciences)]
-#### 10.3.1.9. [Social navigation]
-#### 10.3.1.10. [Social media]
-### 10.3.2. [Collaborative and social computing design and evaluation methods]
-#### 10.3.2.1. [Social network analysis]
-#### 10.3.2.2. [Ethnographic studies]
-### 10.3.3. [Collaborative and social computing systems and tools]
-#### 10.3.3.1. [Blogs]
-#### 10.3.3.2. [Wikis]
-#### 10.3.3.3. [Reputation systems]
-#### 10.3.3.4. [Open source software]
-#### 10.3.3.5. [Social networking sites]
-#### 10.3.3.6. [Social tagging systems]
-#### 10.3.3.7. [Synchronous editors]
-#### 10.3.3.8. [Asynchronous editors]
-### 10.3.4. [Empirical studies in collaborative and social computing]
-### 10.3.5. [Collaborative and social computing devices]
-## 10.4. [Ubiquitous and mobile computing]
-### 10.4.1. [Ubiquitous and mobile computing theory, concepts and paradigms]
-#### 10.4.1.1. [Ubiquitous computing]
-#### 10.4.1.2. [Mobile computing]
-#### 10.4.1.3. [Ambient intelligence]
-### 10.4.2. [Ubiquitous and mobile computing systems and tools]
-### 10.4.3. [Ubiquitous and mobile devices]
-#### 10.4.3.1. [Smartphones]
-#### 10.4.3.2. [Interactive whiteboards]
-#### 10.4.3.3. [Mobile phones]
-#### 10.4.3.4. [Mobile devices]
-#### 10.4.3.5. [Portable media players]
-#### 10.4.3.6. [Personal digital assistants]
-#### 10.4.3.7. [Handheld game consoles]
-#### 10.4.3.8. [E-book readers]
-#### 10.4.3.9. [Tablet computers]
-### 10.4.4. [Ubiquitous and mobile computing design and evaluation methods]
-### 10.4.5. [Empirical studies in ubiquitous and mobile computing]
-## 10.5. [Visualization]
-### 10.5.1. [Visualization techniques]
-#### 10.5.1.1. [Treemaps]
-#### 10.5.1.2. [Hyperbolic trees]
-#### 10.5.1.3. [Heat maps]
-#### 10.5.1.4. [Graph drawings]
-#### 10.5.1.5. [Dendrograms]
-#### 10.5.1.6. [Cladograms]
-### 10.5.2. [Visualization application domains]
-#### 10.5.2.1. [Scientific visualization]
-#### 10.5.2.2. [Visual analytics]
-#### 10.5.2.3. [Geographic visualization]
-#### 10.5.2.4. [Information visualization]
-### 10.5.3. [Visualization systems and tools]
-#### 10.5.3.1. [Visualization toolkits]
-### 10.5.4. [Visualization theory, concepts and paradigms]
-### 10.5.5. [Empirical studies in visualization]
-### 10.5.6. [Visualization design and evaluation methods]
-## 10.6. [Accessibility]
-### 10.6.1. [Accessibility theory, concepts and paradigms]
-### 10.6.2. [Empirical studies in accessibility]
-### 10.6.3. [Accessibility design and evaluation methods]
-### 10.6.4. [Accessibility technologies]
-### 10.6.5. [Accessibility systems and tools]
-# 11. [Computing methodologies]
-## 11.1. [Symbolic and algebraic manipulation]
-### 11.1.1. [Symbolic and algebraic algorithms]
-#### 11.1.1.1. [Combinatorial algorithms]
-#### 11.1.1.2. [Algebraic algorithms]
-#### 11.1.1.3. [Nonalgebraic algorithms]
-#### 11.1.1.4. [Symbolic calculus algorithms]
-#### 11.1.1.5. [Exact arithmetic algorithms]
-#### 11.1.1.6. [Hybrid symbolic-numeric methods]
-#### 11.1.1.7. [Discrete calculus algorithms]
-#### 11.1.1.8. [Number theory algorithms]
-#### 11.1.1.9. [Equation and inequality solving algorithms]
-#### 11.1.1.10. [Linear algebra algorithms]
-#### 11.1.1.11. [Theorem proving algorithms]
-#### 11.1.1.12. [Boolean algebra algorithms]
-#### 11.1.1.13. [Optimization algorithms]
-### 11.1.2. [Computer algebra systems]
-#### 11.1.2.1. [Special-purpose algebraic systems]
-### 11.1.3. [Representation of mathematical objects]
-#### 11.1.3.1. [Representation of exact numbers]
-#### 11.1.3.2. [Representation of mathematical functions]
-#### 11.1.3.3. [Representation of Boolean functions]
-#### 11.1.3.4. [Representation of polynomials]
-## 11.2. [Parallel computing methodologies]
-### 11.2.1. [Parallel algorithms]
-#### 11.2.1.1. [MapReduce algorithms]
-#### 11.2.1.2. [Self-organization]
-#### 11.2.1.3. [Shared memory algorithms]
-#### 11.2.1.4. [Vector / streaming algorithms]
-#### 11.2.1.5. [Massively parallel algorithms]
-### 11.2.2. [Parallel programming languages]
-## 11.3. [Artificial intelligence]
-### 11.3.1. [Natural language processing]
-#### 11.3.1.1. [Information extraction]
-#### 11.3.1.2. [Machine translation]
-#### 11.3.1.3. [Discourse, dialogue and pragmatics]
-#### 11.3.1.4. [Natural language generation]
-#### 11.3.1.5. [Speech recognition]
-#### 11.3.1.6. [Lexical semantics]
-#### 11.3.1.7. [Phonology / morphology]
-#### 11.3.1.8. [Language resources]
-### 11.3.2. [Knowledge representation and reasoning]
-#### 11.3.2.1. [Description logics]
-#### 11.3.2.2. [Semantic networks]
-#### 11.3.2.3. [Nonmonotonic, default reasoning and belief revision]
-#### 11.3.2.4. [Probabilistic reasoning]
-#### 11.3.2.5. [Vagueness and fuzzy logic]
-#### 11.3.2.6. [Causal reasoning and diagnostics]
-#### 11.3.2.7. [Temporal reasoning]
-#### 11.3.2.8. [Cognitive robotics]
-#### 11.3.2.9. [Ontology engineering]
-#### 11.3.2.10. [Logic programming and answer set programming]
-#### 11.3.2.11. [Spatial and physical reasoning]
-#### 11.3.2.12. [Reasoning about belief and knowledge]
-### 11.3.3. [Planning and scheduling]
-#### 11.3.3.1. [Planning for deterministic actions]
-#### 11.3.3.2. [Planning under uncertainty]
-#### 11.3.3.3. [Multi-agent planning]
-#### 11.3.3.4. [Planning with abstraction and generalization]
-#### 11.3.3.5. [Robotic planning]
-##### 11.3.3.5.1. [Evolutionary robotics]
-### 11.3.4. [Search methodologies]
-#### 11.3.4.1. [Heuristic function construction]
-#### 11.3.4.2. [Discrete space search]
-#### 11.3.4.3. [Continuous space search]
-#### 11.3.4.4. [Randomized search]
-#### 11.3.4.5. [Game tree search]
-#### 11.3.4.6. [Abstraction and micro-operators]
-#### 11.3.4.7. [Search with partial observations]
-### 11.3.5. [Control methods]
-#### 11.3.5.1. [Robotic planning]
-##### 11.3.5.1.1. [Evolutionary robotics]
-#### 11.3.5.2. [Computational control theory]
-#### 11.3.5.3. [Motion path planning]
-### 11.3.6. [Philosophical/theoretical foundations of artificial intelligence]
-#### 11.3.6.1. [Cognitive science]
-#### 11.3.6.2. [Theory of mind]
-### 11.3.7. [Distributed artificial intelligence]
-#### 11.3.7.1. [Multi-agent systems]
-#### 11.3.7.2. [Intelligent agents]
-#### 11.3.7.3. [Mobile agents]
-#### 11.3.7.4. [Cooperation and coordination]
-### 11.3.8. [Computer vision]
-#### 11.3.8.1. [Computer vision tasks]
-##### 11.3.8.1.1. [Biometrics]
-##### 11.3.8.1.2. [Scene understanding]
-##### 11.3.8.1.3. [Activity recognition and understanding]
-##### 11.3.8.1.4. [Video summarization]
-##### 11.3.8.1.5. [Visual content-based indexing and retrieval]
-##### 11.3.8.1.6. [Visual inspection]
-##### 11.3.8.1.7. [Vision for robotics]
-##### 11.3.8.1.8. [Scene anomaly detection]
-#### 11.3.8.2. [Image and video acquisition]
-##### 11.3.8.2.1. [Camera calibration]
-##### 11.3.8.2.2. [Epipolar geometry]
-##### 11.3.8.2.3. [Computational photography]
-##### 11.3.8.2.4. [Hyperspectral imaging]
-##### 11.3.8.2.5. [Motion capture]
-##### 11.3.8.2.6. [3D imaging]
-##### 11.3.8.2.7. [Active vision]
-#### 11.3.8.3. [Computer vision representations]
-##### 11.3.8.3.1. [Image representations]
-##### 11.3.8.3.2. [Shape representations]
-##### 11.3.8.3.3. [Appearance and texture representations]
-##### 11.3.8.3.4. [Hierarchical representations]
-#### 11.3.8.4. [Computer vision problems]
-##### 11.3.8.4.1. [Interest point and salient region detections]
-##### 11.3.8.4.2. [Image segmentation]
-##### 11.3.8.4.3. [Video segmentation]
-##### 11.3.8.4.4. [Shape inference]
-##### 11.3.8.4.5. [Object detection]
-##### 11.3.8.4.6. [Object recognition]
-##### 11.3.8.4.7. [Object identification]
-##### 11.3.8.4.8. [Tracking]
-##### 11.3.8.4.9. [Reconstruction]
-##### 11.3.8.4.10. [Matching]
-## 11.4. [Machine learning]
-### 11.4.1. [Learning paradigms]
-#### 11.4.1.1. [Supervised learning]
-##### 11.4.1.1.1. [Ranking]
-##### 11.4.1.1.2. [Learning to rank]
-##### 11.4.1.1.3. [Supervised learning by classification]
-##### 11.4.1.1.4. [Supervised learning by regression]
-##### 11.4.1.1.5. [Structured outputs]
-##### 11.4.1.1.6. [Cost-sensitive learning]
-#### 11.4.1.2. [Unsupervised learning]
-##### 11.4.1.2.1. [Cluster analysis]
-##### 11.4.1.2.2. [Anomaly detection]
-##### 11.4.1.2.3. [Mixture modeling]
-##### 11.4.1.2.4. [Topic modeling]
-##### 11.4.1.2.5. [Source separation]
-##### 11.4.1.2.6. [Motif discovery]
-##### 11.4.1.2.7. [Dimensionality reduction and manifold learning]
-#### 11.4.1.3. [Reinforcement learning]
-##### 11.4.1.3.1. [Sequential decision making]
-##### 11.4.1.3.2. [Inverse reinforcement learning]
-##### 11.4.1.3.3. [Apprenticeship learning]
-##### 11.4.1.3.4. [Multi-agent reinforcement learning]
-##### 11.4.1.3.5. [Adversarial learning]
-#### 11.4.1.4. [Multi-task learning]
-##### 11.4.1.4.1. [Transfer learning]
-##### 11.4.1.4.2. [Lifelong machine learning]
-##### 11.4.1.4.3. [Learning under covariate shift]
-### 11.4.2. [Learning settings]
-#### 11.4.2.1. [Batch learning]
-#### 11.4.2.2. [Online learning settings]
-#### 11.4.2.3. [Learning from demonstrations]
-#### 11.4.2.4. [Learning from critiques]
-#### 11.4.2.5. [Learning from implicit feedback]
-#### 11.4.2.6. [Active learning settings]
-#### 11.4.2.7. [Semi-supervised learning settings]
-### 11.4.3. [Machine learning approaches]
-#### 11.4.3.1. [Classification and regression trees]
-#### 11.4.3.2. [Kernel methods]
-##### 11.4.3.2.1. [Support vector machines]
-##### 11.4.3.2.2. [Gaussian processes]
-#### 11.4.3.3. [Neural networks]
-#### 11.4.3.4. [Logical and relational learning]
-##### 11.4.3.4.1. [Inductive logic learning]
-##### 11.4.3.4.2. [Statistical relational learning]
-#### 11.4.3.5. [Learning in probabilistic graphical models]
-##### 11.4.3.5.1. [Maximum likelihood modeling]
-##### 11.4.3.5.2. [Maximum entropy modeling]
-##### 11.4.3.5.3. [Maximum a posteriori modeling]
-##### 11.4.3.5.4. [Mixture models]
-##### 11.4.3.5.5. [Latent variable models]
-##### 11.4.3.5.6. [Bayesian network models]
-#### 11.4.3.6. [Learning linear models]
-##### 11.4.3.6.1. [Perceptron algorithm]
-#### 11.4.3.7. [Factorization methods]
-##### 11.4.3.7.1. [Non-negative matrix factorization]
-##### 11.4.3.7.2. [Factor analysis]
-##### 11.4.3.7.3. [Principal component analysis]
-##### 11.4.3.7.4. [Canonical correlation analysis]
-##### 11.4.3.7.5. [Latent Dirichlet allocation]
-#### 11.4.3.8. [Rule learning]
-#### 11.4.3.9. [Instance-based learning]
-#### 11.4.3.10. [Markov decision processes]
-#### 11.4.3.11. [Partially-observable Markov decision processes]
-#### 11.4.3.12. [Stochastic games]
-#### 11.4.3.13. [Learning latent representations]
-##### 11.4.3.13.1. [Deep belief networks]
-#### 11.4.3.14. [Bio-inspired approaches]
-##### 11.4.3.14.1. [Artificial life]
-##### 11.4.3.14.2. [Evolvable hardware]
-##### 11.4.3.14.3. [Genetic algorithms]
-##### 11.4.3.14.4. [Genetic programming]
-##### 11.4.3.14.5. [Evolutionary robotics]
-##### 11.4.3.14.6. [Generative and developmental approaches]
-### 11.4.4. [Machine learning algorithms]
-#### 11.4.4.1. [Dynamic programming for Markov decision processes]
-##### 11.4.4.1.1. [Value iteration]
-##### 11.4.4.1.2. [Q-learning]
-##### 11.4.4.1.3. [Policy iteration]
-##### 11.4.4.1.4. [Temporal difference learning]
-##### 11.4.4.1.5. [Approximate dynamic programming methods]
-#### 11.4.4.2. [Ensemble methods]
-##### 11.4.4.2.1. [Boosting]
-##### 11.4.4.2.2. [Bagging]
-#### 11.4.4.3. [Spectral methods]
-#### 11.4.4.4. [Feature selection]
-#### 11.4.4.5. [Regularization]
-### 11.4.5. [Cross-validation]
-## 11.5. [Modeling and simulation]
-### 11.5.1. [Model development and analysis]
-#### 11.5.1.1. [Modeling methodologies]
-#### 11.5.1.2. [Model verification and validation]
-#### 11.5.1.3. [Uncertainty quantification]
-### 11.5.2. [Simulation theory]
-#### 11.5.2.1. [Systems theory]
-#### 11.5.2.2. [Network science]
-### 11.5.3. [Simulation types and techniques]
-#### 11.5.3.1. [Uncertainty quantification]
-#### 11.5.3.2. [Quantum mechanic simulation]
-#### 11.5.3.3. [Molecular simulation]
-#### 11.5.3.4. [Rare-event simulation]
-#### 11.5.3.5. [Discrete-event simulation]
-#### 11.5.3.6. [Agent / discrete models]
-#### 11.5.3.7. [Distributed simulation]
-#### 11.5.3.8. [Continuous simulation]
-#### 11.5.3.9. [Continuous models]
-#### 11.5.3.10. [Real-time simulation]
-#### 11.5.3.11. [Interactive simulation]
-#### 11.5.3.12. [Multiscale systems]
-#### 11.5.3.13. [Massively parallel and high-performance simulations]
-#### 11.5.3.14. [Data assimilation]
-#### 11.5.3.15. [Scientific visualization]
-#### 11.5.3.16. [Visual analytics]
-#### 11.5.3.17. [Simulation by animation]
-#### 11.5.3.18. [Artificial life]
-### 11.5.4. [Simulation support systems]
-#### 11.5.4.1. [Simulation environments]
-#### 11.5.4.2. [Simulation languages]
-#### 11.5.4.3. [Simulation tools]
-### 11.5.5. [Simulation evaluation]
-## 11.6. [Computer graphics]
-### 11.6.1. [Animation]
-#### 11.6.1.1. [Motion capture]
-#### 11.6.1.2. [Procedural animation]
-#### 11.6.1.3. [Physical simulation]
-#### 11.6.1.4. [Motion processing]
-#### 11.6.1.5. [Collision detection]
-### 11.6.2. [Rendering]
-#### 11.6.2.1. [Rasterization]
-#### 11.6.2.2. [Ray tracing]
-#### 11.6.2.3. [Non-photorealistic rendering]
-#### 11.6.2.4. [Reflectance modeling]
-#### 11.6.2.5. [Visibility]
-### 11.6.3. [Image manipulation]
-#### 11.6.3.1. [Computational photography]
-#### 11.6.3.2. [Image processing]
-#### 11.6.3.3. [Texturing]
-#### 11.6.3.4. [Image-based rendering]
-#### 11.6.3.5. [Antialiasing]
-### 11.6.4. [Graphics systems and interfaces]
-#### 11.6.4.1. [Graphics processors]
-#### 11.6.4.2. [Graphics input devices]
-#### 11.6.4.3. [Mixed / augmented reality]
-#### 11.6.4.4. [Perception]
-#### 11.6.4.5. [Graphics file formats]
-#### 11.6.4.6. [Virtual reality]
-### 11.6.5. [Image compression]
-### 11.6.6. [Shape modeling]
-#### 11.6.6.1. [Mesh models]
-#### 11.6.6.2. [Mesh geometry models]
-#### 11.6.6.3. [Parametric curve and surface models]
-#### 11.6.6.4. [Point-based models]
-#### 11.6.6.5. [Volumetric models]
-#### 11.6.6.6. [Shape analysis]
-## 11.7. [Distributed computing methodologies]
-### 11.7.1. [Distributed algorithms]
-#### 11.7.1.1. [MapReduce algorithms]
-#### 11.7.1.2. [Self-organization]
-### 11.7.2. [Distributed programming languages]
-## 11.8. [Concurrent computing methodologies]
-### 11.8.1. [Concurrent programming languages]
-### 11.8.2. [Concurrent algorithms]
-# 12. [Applied computing]
-## 12.1. [Electronic commerce]
-### 12.1.1. [Digital cash]
-### 12.1.2. [E-commerce infrastructure]
-### 12.1.3. [Electronic data interchange]
-### 12.1.4. [Electronic funds transfer]
-### 12.1.5. [Online shopping]
-### 12.1.6. [Online banking]
-### 12.1.7. [Secure online transactions]
-### 12.1.8. [Online auctions]
-## 12.2. [Enterprise computing]
-### 12.2.1. [Enterprise information systems]
-#### 12.2.1.1. [Intranets]
-#### 12.2.1.2. [Extranets]
-#### 12.2.1.3. [Enterprise resource planning]
-#### 12.2.1.4. [Enterprise applications]
-#### 12.2.1.5. [Data centers]
-### 12.2.2. [Business process management]
-#### 12.2.2.1. [Business process modeling]
-#### 12.2.2.2. [Business process management systems]
-#### 12.2.2.3. [Business process monitoring]
-#### 12.2.2.4. [Cross-organizational business processes]
-#### 12.2.2.5. [Business intelligence]
-### 12.2.3. [Enterprise architectures]
-#### 12.2.3.1. [Enterprise architecture management]
-#### 12.2.3.2. [Enterprise architecture frameworks]
-#### 12.2.3.3. [Enterprise architecture modeling]
-### 12.2.4. [Service-oriented architectures]
-### 12.2.5. [Event-driven architectures]
-### 12.2.6. [Business rules]
-### 12.2.7. [Enterprise modeling]
-### 12.2.8. [Enterprise ontologies, taxonomies and vocabularies]
-### 12.2.9. [Enterprise data management]
-### 12.2.10. [Reference models]
-### 12.2.11. [Business-IT alignment]
-### 12.2.12. [IT architectures]
-### 12.2.13. [IT governance]
-### 12.2.14. [Enterprise computing infrastructures]
-### 12.2.15. [Enterprise interoperability]
-#### 12.2.15.1. [Enterprise application integration]
-#### 12.2.15.2. [Information integration and interoperability]
-## 12.3. [Physical sciences and engineering]
-### 12.3.1. [Aerospace]
-#### 12.3.1.1. [Avionics]
-### 12.3.2. [Archaeology]
-### 12.3.3. [Astronomy]
-### 12.3.4. [Chemistry]
-### 12.3.5. [Earth and atmospheric sciences]
-#### 12.3.5.1. [Environmental sciences]
-### 12.3.6. [Engineering]
-#### 12.3.6.1. [Computer-aided design]
-### 12.3.7. [Physics]
-### 12.3.8. [Mathematics and statistics]
-### 12.3.9. [Electronics]
-#### 12.3.9.1. [Avionics]
-### 12.3.10. [Telecommunications]
-#### 12.3.10.1. [Internet telephony]
-## 12.4. [Life and medical sciences]
-### 12.4.1. [Computational biology]
-#### 12.4.1.1. [Molecular sequence analysis]
-#### 12.4.1.2. [Recognition of genes and regulatory elements]
-#### 12.4.1.3. [Molecular evolution]
-#### 12.4.1.4. [Computational transcriptomics]
-#### 12.4.1.5. [Biological networks]
-#### 12.4.1.6. [Sequencing and genotyping technologies]
-#### 12.4.1.7. [Imaging]
-#### 12.4.1.8. [Computational proteomics]
-#### 12.4.1.9. [Molecular structural biology]
-#### 12.4.1.10. [Computational genomics]
-### 12.4.2. [Genomics]
-#### 12.4.2.1. [Computational genomics]
-### 12.4.3. [Systems biology]
-### 12.4.4. [Consumer health]
-### 12.4.5. [Health care information systems]
-### 12.4.6. [Health informatics]
-### 12.4.7. [Bioinformatics]
-### 12.4.8. [Metabolomics / metabonomics]
-### 12.4.9. [Genetics]
-#### 12.4.9.1. [Population genetics]
-#### 12.4.9.2. [Proteomics]
-##### 12.4.9.2.1. [Computational proteomics]
-#### 12.4.9.3. [Transcriptomics]
-## 12.5. [Law, social and behavioral sciences]
-### 12.5.1. [Anthropology]
-#### 12.5.1.1. [Ethnography]
-### 12.5.2. [Law]
-### 12.5.3. [Psychology]
-### 12.5.4. [Economics]
-### 12.5.5. [Sociology]
-## 12.6. [Computer forensics]
-### 12.6.1. [Surveillance mechanisms]
-### 12.6.2. [Investigation techniques]
-### 12.6.3. [Evidence collection, storage and analysis]
-### 12.6.4. [Network forensics]
-### 12.6.5. [System forensics]
-### 12.6.6. [Data recovery]
-## 12.7. [Arts and humanities]
-### 12.7.1. [Fine arts]
-### 12.7.2. [Performing arts]
-### 12.7.3. [Architecture (buildings)]
-#### 12.7.3.1. [Computer-aided design]
-### 12.7.4. [Language translation]
-### 12.7.5. [Media arts]
-### 12.7.6. [Sound and music computing]
-## 12.8. [Computers in other domains]
-### 12.8.1. [Digital libraries and archives]
-### 12.8.2. [Publishing]
-### 12.8.3. [Military]
-#### 12.8.3.1. [Cyberwarfare]
-### 12.8.4. [Cartography]
-### 12.8.5. [Agriculture]
-### 12.8.6. [Computing in government]
-#### 12.8.6.1. [Voting / election technologies]
-#### 12.8.6.2. [E-government]
-### 12.8.7. [Personal computers and PC applications]
-#### 12.8.7.1. [Word processors]
-#### 12.8.7.2. [Spreadsheets]
-#### 12.8.7.3. [Computer games]
-#### 12.8.7.4. [Microcomputers]
-## 12.9. [Operations research]
-### 12.9.1. [Consumer products]
-### 12.9.2. [Industry and manufacturing]
-#### 12.9.2.1. [Supply chain management]
-#### 12.9.2.2. [Command and control]
-### 12.9.3. [Computer-aided manufacturing]
-### 12.9.4. [Decision analysis]
-#### 12.9.4.1. [Multi-criterion optimization and decision-making]
-### 12.9.5. [Transportation]
-### 12.9.6. [Forecasting]
-### 12.9.7. [Marketing]
-## 12.10. [Education]
-### 12.10.1. [Digital libraries and archives]
-### 12.10.2. [Computer-assisted instruction]
-### 12.10.3. [Interactive learning environments]
-### 12.10.4. [Collaborative learning]
-### 12.10.5. [Learning management systems]
-### 12.10.6. [Distance learning]
-### 12.10.7. [E-learning]
-### 12.10.8. [Computer-managed instruction]
-## 12.11. [Document management and text processing]
-### 12.11.1. [Document searching]
-### 12.11.2. [Document management]
-#### 12.11.2.1. [Text editing]
-#### 12.11.2.2. [Version control]
-#### 12.11.2.3. [Document metadata]
-### 12.11.3. [Document capture]
-#### 12.11.3.1. [Document analysis]
-#### 12.11.3.2. [Document scanning]
-#### 12.11.3.3. [Graphics recognition and interpretation]
-#### 12.11.3.4. [Optical character recognition]
-#### 12.11.3.5. [Online handwriting recognition]
-### 12.11.4. [Document preparation]
-#### 12.11.4.1. [Markup languages]
-##### 12.11.4.1.1. [Extensible Markup Language (XML)]
-##### 12.11.4.1.2. [Hypertext languages]
-#### 12.11.4.2. [Annotation]
-#### 12.11.4.3. [Format and notation]
-#### 12.11.4.4. [Multi / mixed media creation]
-#### 12.11.4.5. [Image composition]
-#### 12.11.4.6. [Hypertext / hypermedia creation]
-#### 12.11.4.7. [Document scripting languages]
-# 13. [Social and professional topics]
-## 13.1. [Professional topics]
-### 13.1.1. [Computing industry]
-#### 13.1.1.1. [Industry statistics]
-#### 13.1.1.2. [Computer manufacturing]
-#### 13.1.1.3. [Sustainability]
-### 13.1.2. [Management of computing and information systems]
-#### 13.1.2.1. [Project and people management]
-##### 13.1.2.1.1. [Project management techniques]
-##### 13.1.2.1.2. [Project staffing]
-##### 13.1.2.1.3. [Systems planning]
-##### 13.1.2.1.4. [Systems analysis and design]
-##### 13.1.2.1.5. [Systems development]
-##### 13.1.2.1.6. [Computer and information systems training]
-#### 13.1.2.2. [Implementation management]
-##### 13.1.2.2.1. [Hardware selection]
-##### 13.1.2.2.2. [Computing equipment management]
-##### 13.1.2.2.3. [Pricing and resource allocation]
-#### 13.1.2.3. [Software management]
-##### 13.1.2.3.1. [Software maintenance]
-##### 13.1.2.3.2. [Software selection and adaptation]
-#### 13.1.2.4. [System management]
-##### 13.1.2.4.1. [Centralization / decentralization]
-##### 13.1.2.4.2. [Technology audits]
-##### 13.1.2.4.3. [Quality assurance]
-#### 13.1.2.5. [Network operations]
-#### 13.1.2.6. [File systems management]
-#### 13.1.2.7. [Information system economics]
-### 13.1.3. [History of computing]
-#### 13.1.3.1. [Historical people]
-#### 13.1.3.2. [History of hardware]
-#### 13.1.3.3. [History of software]
-#### 13.1.3.4. [History of programming languages]
-#### 13.1.3.5. [History of computing theory]
-### 13.1.4. [Computing education]
-#### 13.1.4.1. [Computational thinking]
-#### 13.1.4.2. [Accreditation]
-#### 13.1.4.3. [Model curricula]
-#### 13.1.4.4. [Computing education programs]
-##### 13.1.4.4.1. [Information systems education]
-##### 13.1.4.4.2. [Computer science education]
-###### 13.1.4.4.2.1. [CS1]
-##### 13.1.4.4.3. [Computer engineering education]
-##### 13.1.4.4.4. [Information technology education]
-##### 13.1.4.4.5. [Information science education]
-##### 13.1.4.4.6. [Computational science and engineering education]
-##### 13.1.4.4.7. [Software engineering education]
-#### 13.1.4.5. [Informal education]
-#### 13.1.4.6. [Computing literacy]
-#### 13.1.4.7. [Student assessment]
-#### 13.1.4.8. [K-12 education]
-#### 13.1.4.9. [Adult education]
-### 13.1.5. [Computing and business]
-#### 13.1.5.1. [Employment issues]
-#### 13.1.5.2. [Automation]
-#### 13.1.5.3. [Computer supported cooperative work]
-#### 13.1.5.4. [Economic impact]
-#### 13.1.5.5. [Offshoring]
-#### 13.1.5.6. [Reengineering]
-#### 13.1.5.7. [Socio-technical systems]
-### 13.1.6. [Computing profession]
-#### 13.1.6.1. [Codes of ethics]
-#### 13.1.6.2. [Employment issues]
-#### 13.1.6.3. [Funding]
-#### 13.1.6.4. [Computing occupations]
-#### 13.1.6.5. [Computing organizations]
-#### 13.1.6.6. [Testing, certification and licensing]
-#### 13.1.6.7. [Assistive technologies]
-## 13.2. [Computing / technology policy]
-### 13.2.1. [Intellectual property]
-#### 13.2.1.1. [Digital rights management]
-#### 13.2.1.2. [Copyrights]
-#### 13.2.1.3. [Software reverse engineering]
-#### 13.2.1.4. [Patents]
-#### 13.2.1.5. [Trademarks]
-#### 13.2.1.6. [Internet governance / domain names]
-#### 13.2.1.7. [Licensing]
-#### 13.2.1.8. [Treaties]
-#### 13.2.1.9. [Database protection laws]
-#### 13.2.1.10. [Secondary liability]
-#### 13.2.1.11. [Soft intellectual property]
-#### 13.2.1.12. [Hardware reverse engineering]
-### 13.2.2. [Privacy policies]
-### 13.2.3. [Censorship]
-#### 13.2.3.1. [Pornography]
-#### 13.2.3.2. [Hate speech]
-#### 13.2.3.3. [Political speech]
-#### 13.2.3.4. [Technology and censorship]
-#### 13.2.3.5. [Censoring filters]
-### 13.2.4. [Surveillance]
-#### 13.2.4.1. [Governmental surveillance]
-#### 13.2.4.2. [Corporate surveillance]
-### 13.2.5. [Commerce policy]
-#### 13.2.5.1. [Taxation]
-#### 13.2.5.2. [Transborder data flow]
-#### 13.2.5.3. [Antitrust and competition]
-#### 13.2.5.4. [Governmental regulations]
-#### 13.2.5.5. [Online auctions policy]
-#### 13.2.5.6. [Consumer products policy]
-### 13.2.6. [Network access control]
-#### 13.2.6.1. [Censoring filters]
-#### 13.2.6.2. [Broadband access]
-#### 13.2.6.3. [Net neutrality]
-#### 13.2.6.4. [Network access restrictions]
-##### 13.2.6.4.1. [Age-based restrictions]
-##### 13.2.6.4.2. [Acceptable use policy restrictions]
-#### 13.2.6.5. [Universal access]
-### 13.2.7. [Computer crime]
-#### 13.2.7.1. [Social engineering attacks]
-##### 13.2.7.1.1. [Spoofing attacks]
-##### 13.2.7.1.2. [Phishing]
-#### 13.2.7.2. [Identity theft]
-#### 13.2.7.3. [Financial crime]
-#### 13.2.7.4. [Malware / spyware crime]
-### 13.2.8. [Government technology policy]
-#### 13.2.8.1. [Governmental regulations]
-#### 13.2.8.2. [Import / export controls]
-### 13.2.9. [Medical information policy]
-#### 13.2.9.1. [Medical records]
-#### 13.2.9.2. [Personal health records]
-#### 13.2.9.3. [Genetic information]
-#### 13.2.9.4. [Patient privacy]
-#### 13.2.9.5. [Health information exchanges]
-#### 13.2.9.6. [Medical technologies]
-##### 13.2.9.6.1. [Remote medicine]
-## 13.3. [User characteristics]
-### 13.3.1. [Race and ethnicity]
-### 13.3.2. [Religious orientation]
-### 13.3.3. [Gender]
-#### 13.3.3.1. [Men]
-#### 13.3.3.2. [Women]
-### 13.3.4. [Sexual orientation]
-### 13.3.5. [People with disabilities]
-### 13.3.6. [Geographic characteristics]
-### 13.3.7. [Cultural characteristics]
-### 13.3.8. [Age]
-#### 13.3.8.1. [Children]
-#### 13.3.8.2. [Seniors]
-#### 13.3.8.3. [Adolescents]
+# 3. [Computer systems organization](https://github.com/cqlj/2020/wiki/Computer systems organization)
+## 3.1. [Architectures](https://github.com/cqlj/2020/wiki/Architectures)
+### 3.1.1. [Serial architectures](https://github.com/cqlj/2020/wiki/Serial architectures)
+#### 3.1.1.1. [Reduced instruction set computing](https://github.com/cqlj/2020/wiki/Reduced instruction set computing)
+#### 3.1.1.2. [Complex instruction set computing](https://github.com/cqlj/2020/wiki/Complex instruction set computing)
+#### 3.1.1.3. [Superscalar architectures](https://github.com/cqlj/2020/wiki/Superscalar architectures)
+#### 3.1.1.4. [Pipeline computing](https://github.com/cqlj/2020/wiki/Pipeline computing)
+#### 3.1.1.5. [Stack machines](https://github.com/cqlj/2020/wiki/Stack machines)
+### 3.1.2. [Parallel architectures](https://github.com/cqlj/2020/wiki/Parallel architectures)
+#### 3.1.2.1. [Very long instruction word](https://github.com/cqlj/2020/wiki/Very long instruction word)
+#### 3.1.2.2. [Interconnection architectures](https://github.com/cqlj/2020/wiki/Interconnection architectures)
+#### 3.1.2.3. [Multiple instruction, multiple data](https://github.com/cqlj/2020/wiki/Multiple instruction, multiple data)
+#### 3.1.2.4. [Cellular architectures](https://github.com/cqlj/2020/wiki/Cellular architectures)
+#### 3.1.2.5. [Multiple instruction, single data](https://github.com/cqlj/2020/wiki/Multiple instruction, single data)
+#### 3.1.2.6. [Single instruction, multiple data](https://github.com/cqlj/2020/wiki/Single instruction, multiple data)
+#### 3.1.2.7. [Systolic arrays](https://github.com/cqlj/2020/wiki/Systolic arrays)
+#### 3.1.2.8. [Multicore architectures](https://github.com/cqlj/2020/wiki/Multicore architectures)
+### 3.1.3. [Distributed architectures](https://github.com/cqlj/2020/wiki/Distributed architectures)
+#### 3.1.3.1. [Cloud computing](https://github.com/cqlj/2020/wiki/Cloud computing)
+#### 3.1.3.2. [Client-server architectures](https://github.com/cqlj/2020/wiki/Client-server architectures)
+#### 3.1.3.3. [n-tier architectures](https://github.com/cqlj/2020/wiki/n-tier architectures)
+#### 3.1.3.4. [Peer-to-peer architectures](https://github.com/cqlj/2020/wiki/Peer-to-peer architectures)
+#### 3.1.3.5. [Grid computing](https://github.com/cqlj/2020/wiki/Grid computing)
+### 3.1.4. [Other architectures](https://github.com/cqlj/2020/wiki/Other architectures)
+#### 3.1.4.1. [Neural networks](https://github.com/cqlj/2020/wiki/Neural networks)
+#### 3.1.4.2. [Reconfigurable computing](https://github.com/cqlj/2020/wiki/Reconfigurable computing)
+#### 3.1.4.3. [Analog computers](https://github.com/cqlj/2020/wiki/Analog computers)
+#### 3.1.4.4. [Data flow architectures](https://github.com/cqlj/2020/wiki/Data flow architectures)
+#### 3.1.4.5. [Heterogeneous (hybrid) systems](https://github.com/cqlj/2020/wiki/Heterogeneous (hybrid) systems)
+#### 3.1.4.6. [Self-organizing autonomic computing](https://github.com/cqlj/2020/wiki/Self-organizing autonomic computing)
+#### 3.1.4.7. [Optical computing](https://github.com/cqlj/2020/wiki/Optical computing)
+#### 3.1.4.8. [Quantum computing](https://github.com/cqlj/2020/wiki/Quantum computing)
+#### 3.1.4.9. [Molecular computing](https://github.com/cqlj/2020/wiki/Molecular computing)
+#### 3.1.4.10. [High-level language architectures](https://github.com/cqlj/2020/wiki/High-level language architectures)
+#### 3.1.4.11. [Special purpose systems](https://github.com/cqlj/2020/wiki/Special purpose systems)
+## 3.2. [Embedded and cyber-physical systems](https://github.com/cqlj/2020/wiki/Embedded and cyber-physical systems)
+### 3.2.1. [Sensor networks](https://github.com/cqlj/2020/wiki/Sensor networks)
+### 3.2.2. [Robotics](https://github.com/cqlj/2020/wiki/Robotics)
+#### 3.2.2.1. [Robotic components](https://github.com/cqlj/2020/wiki/Robotic components)
+#### 3.2.2.2. [Robotic control](https://github.com/cqlj/2020/wiki/Robotic control)
+##### 3.2.2.2.1. [Evolutionary robotics](https://github.com/cqlj/2020/wiki/Evolutionary robotics)
+#### 3.2.2.3. [Robotic autonomy](https://github.com/cqlj/2020/wiki/Robotic autonomy)
+#### 3.2.2.4. [External interfaces for robotics](https://github.com/cqlj/2020/wiki/External interfaces for robotics)
+### 3.2.3. [Sensors and actuators](https://github.com/cqlj/2020/wiki/Sensors and actuators)
+### 3.2.4. [System on a chip](https://github.com/cqlj/2020/wiki/System on a chip)
+### 3.2.5. [Embedded systems](https://github.com/cqlj/2020/wiki/Embedded systems)
+#### 3.2.5.1. [Firmware](https://github.com/cqlj/2020/wiki/Firmware)
+#### 3.2.5.2. [Embedded hardware](https://github.com/cqlj/2020/wiki/Embedded hardware)
+#### 3.2.5.3. [Embedded software](https://github.com/cqlj/2020/wiki/Embedded software)
+## 3.3. [Real-time systems](https://github.com/cqlj/2020/wiki/Real-time systems)
+### 3.3.1. [Real-time operating systems](https://github.com/cqlj/2020/wiki/Real-time operating systems)
+### 3.3.2. [Real-time languages](https://github.com/cqlj/2020/wiki/Real-time languages)
+### 3.3.3. [Real-time system specification](https://github.com/cqlj/2020/wiki/Real-time system specification)
+### 3.3.4. [Real-time system architecture](https://github.com/cqlj/2020/wiki/Real-time system architecture)
+## 3.4. [Dependable and fault-tolerant systems and networks](https://github.com/cqlj/2020/wiki/Dependable and fault-tolerant systems and networks)
+### 3.4.1. [Reliability](https://github.com/cqlj/2020/wiki/Reliability)
+### 3.4.2. [Availability](https://github.com/cqlj/2020/wiki/Availability)
+### 3.4.3. [Maintainability and maintenance](https://github.com/cqlj/2020/wiki/Maintainability and maintenance)
+### 3.4.4. [Processors and memory architectures](https://github.com/cqlj/2020/wiki/Processors and memory architectures)
+### 3.4.5. [Secondary storage organization](https://github.com/cqlj/2020/wiki/Secondary storage organization)
+### 3.4.6. [Redundancy](https://github.com/cqlj/2020/wiki/Redundancy)
+### 3.4.7. [Fault-tolerant network topologies](https://github.com/cqlj/2020/wiki/Fault-tolerant network topologies)
+# 4. [Networks](https://github.com/cqlj/2020/wiki/Networks)
+## 4.1. [Network architectures](https://github.com/cqlj/2020/wiki/Network architectures)
+### 4.1.1. [Network design principles](https://github.com/cqlj/2020/wiki/Network design principles)
+#### 4.1.1.1. [Layering](https://github.com/cqlj/2020/wiki/Layering)
+#### 4.1.1.2. [Naming and addressing](https://github.com/cqlj/2020/wiki/Naming and addressing)
+### 4.1.2. [Programming interfaces](https://github.com/cqlj/2020/wiki/Programming interfaces)
+## 4.2. [Network protocols](https://github.com/cqlj/2020/wiki/Network protocols)
+### 4.2.1. [Network protocol design](https://github.com/cqlj/2020/wiki/Network protocol design)
+### 4.2.2. [Protocol correctness](https://github.com/cqlj/2020/wiki/Protocol correctness)
+#### 4.2.2.1. [Protocol testing and verification](https://github.com/cqlj/2020/wiki/Protocol testing and verification)
+#### 4.2.2.2. [Formal specifications](https://github.com/cqlj/2020/wiki/Formal specifications)
+### 4.2.3. [Link-layer protocols](https://github.com/cqlj/2020/wiki/Link-layer protocols)
+### 4.2.4. [Network layer protocols](https://github.com/cqlj/2020/wiki/Network layer protocols)
+#### 4.2.4.1. [Routing protocols](https://github.com/cqlj/2020/wiki/Routing protocols)
+#### 4.2.4.2. [Signaling protocols](https://github.com/cqlj/2020/wiki/Signaling protocols)
+### 4.2.5. [Transport protocols](https://github.com/cqlj/2020/wiki/Transport protocols)
+### 4.2.6. [Session protocols](https://github.com/cqlj/2020/wiki/Session protocols)
+### 4.2.7. [Presentation protocols](https://github.com/cqlj/2020/wiki/Presentation protocols)
+### 4.2.8. [Application layer protocols](https://github.com/cqlj/2020/wiki/Application layer protocols)
+#### 4.2.8.1. [Peer-to-peer protocols](https://github.com/cqlj/2020/wiki/Peer-to-peer protocols)
+### 4.2.9. [OAM protocols](https://github.com/cqlj/2020/wiki/OAM protocols)
+#### 4.2.9.1. [Time synchronization protocols](https://github.com/cqlj/2020/wiki/Time synchronization protocols)
+#### 4.2.9.2. [Network policy](https://github.com/cqlj/2020/wiki/Network policy)
+### 4.2.10. [Cross-layer protocols](https://github.com/cqlj/2020/wiki/Cross-layer protocols)
+### 4.2.11. [Network File System (NFS) protocol](https://github.com/cqlj/2020/wiki/Network File System (NFS) protocol)
+## 4.3. [Network components](https://github.com/cqlj/2020/wiki/Network components)
+### 4.3.1. [Intermediate nodes](https://github.com/cqlj/2020/wiki/Intermediate nodes)
+#### 4.3.1.1. [Routers](https://github.com/cqlj/2020/wiki/Routers)
+#### 4.3.1.2. [Bridges and switches](https://github.com/cqlj/2020/wiki/Bridges and switches)
+### 4.3.2. [Physical links](https://github.com/cqlj/2020/wiki/Physical links)
+#### 4.3.2.1. [Repeaters](https://github.com/cqlj/2020/wiki/Repeaters)
+### 4.3.3. [Middle boxes / network appliances](https://github.com/cqlj/2020/wiki/Middle boxes / network appliances)
+### 4.3.4. [End nodes](https://github.com/cqlj/2020/wiki/End nodes)
+#### 4.3.4.1. [Network adapters](https://github.com/cqlj/2020/wiki/Network adapters)
+#### 4.3.4.2. [Network servers](https://github.com/cqlj/2020/wiki/Network servers)
+### 4.3.5. [Wireless access points, base stations and infrastructure](https://github.com/cqlj/2020/wiki/Wireless access points, base stations and infrastructure)
+#### 4.3.5.1. [Cognitive radios](https://github.com/cqlj/2020/wiki/Cognitive radios)
+### 4.3.6. [Logical nodes](https://github.com/cqlj/2020/wiki/Logical nodes)
+#### 4.3.6.1. [Network domains](https://github.com/cqlj/2020/wiki/Network domains)
+## 4.4. [Network algorithms](https://github.com/cqlj/2020/wiki/Network algorithms)
+### 4.4.1. [Data path algorithms](https://github.com/cqlj/2020/wiki/Data path algorithms)
+#### 4.4.1.1. [Packet classification](https://github.com/cqlj/2020/wiki/Packet classification)
+#### 4.4.1.2. [Deep packet inspection](https://github.com/cqlj/2020/wiki/Deep packet inspection)
+#### 4.4.1.3. [Packet scheduling](https://github.com/cqlj/2020/wiki/Packet scheduling)
+### 4.4.2. [Control path algorithms](https://github.com/cqlj/2020/wiki/Control path algorithms)
+#### 4.4.2.1. [Network resources allocation](https://github.com/cqlj/2020/wiki/Network resources allocation)
+#### 4.4.2.2. [Network control algorithms](https://github.com/cqlj/2020/wiki/Network control algorithms)
+#### 4.4.2.3. [Traffic engineering algorithms](https://github.com/cqlj/2020/wiki/Traffic engineering algorithms)
+#### 4.4.2.4. [Network design and planning algorithms](https://github.com/cqlj/2020/wiki/Network design and planning algorithms)
+### 4.4.3. [Network economics](https://github.com/cqlj/2020/wiki/Network economics)
+## 4.5. [Network performance evaluation](https://github.com/cqlj/2020/wiki/Network performance evaluation)
+### 4.5.1. [Network performance modeling](https://github.com/cqlj/2020/wiki/Network performance modeling)
+### 4.5.2. [Network simulations](https://github.com/cqlj/2020/wiki/Network simulations)
+### 4.5.3. [Network experimentation](https://github.com/cqlj/2020/wiki/Network experimentation)
+### 4.5.4. [Network performance analysis](https://github.com/cqlj/2020/wiki/Network performance analysis)
+### 4.5.5. [Network measurement](https://github.com/cqlj/2020/wiki/Network measurement)
+## 4.6. [Network properties](https://github.com/cqlj/2020/wiki/Network properties)
+### 4.6.1. [Network security](https://github.com/cqlj/2020/wiki/Network security)
+#### 4.6.1.1. [Security protocols](https://github.com/cqlj/2020/wiki/Security protocols)
+#### 4.6.1.2. [Web protocol security](https://github.com/cqlj/2020/wiki/Web protocol security)
+#### 4.6.1.3. [Mobile and wireless security](https://github.com/cqlj/2020/wiki/Mobile and wireless security)
+#### 4.6.1.4. [Denial-of-service attacks](https://github.com/cqlj/2020/wiki/Denial-of-service attacks)
+#### 4.6.1.5. [Firewalls](https://github.com/cqlj/2020/wiki/Firewalls)
+### 4.6.2. [Network range](https://github.com/cqlj/2020/wiki/Network range)
+#### 4.6.2.1. [Short-range networks](https://github.com/cqlj/2020/wiki/Short-range networks)
+#### 4.6.2.2. [Local area networks](https://github.com/cqlj/2020/wiki/Local area networks)
+#### 4.6.2.3. [Metropolitan area networks](https://github.com/cqlj/2020/wiki/Metropolitan area networks)
+#### 4.6.2.4. [Wide area networks](https://github.com/cqlj/2020/wiki/Wide area networks)
+#### 4.6.2.5. [Very long-range networks](https://github.com/cqlj/2020/wiki/Very long-range networks)
+### 4.6.3. [Network structure](https://github.com/cqlj/2020/wiki/Network structure)
+#### 4.6.3.1. [Topology analysis and generation](https://github.com/cqlj/2020/wiki/Topology analysis and generation)
+#### 4.6.3.2. [Physical topologies](https://github.com/cqlj/2020/wiki/Physical topologies)
+#### 4.6.3.3. [Logical / virtual topologies](https://github.com/cqlj/2020/wiki/Logical / virtual topologies)
+#### 4.6.3.4. [Network topology types](https://github.com/cqlj/2020/wiki/Network topology types)
+##### 4.6.3.4.1. [Point-to-point networks](https://github.com/cqlj/2020/wiki/Point-to-point networks)
+##### 4.6.3.4.2. [Bus networks](https://github.com/cqlj/2020/wiki/Bus networks)
+##### 4.6.3.4.3. [Star networks](https://github.com/cqlj/2020/wiki/Star networks)
+##### 4.6.3.4.4. [Ring networks](https://github.com/cqlj/2020/wiki/Ring networks)
+###### 4.6.3.4.4.1. [Token ring networks](https://github.com/cqlj/2020/wiki/Token ring networks)
+###### 4.6.3.4.4.2. [Fiber distributed data interface (FDDI)](https://github.com/cqlj/2020/wiki/Fiber distributed data interface (FDDI))
+##### 4.6.3.4.5. [Mesh networks](https://github.com/cqlj/2020/wiki/Mesh networks)
+###### 4.6.3.4.5.1. [Wireless mesh networks](https://github.com/cqlj/2020/wiki/Wireless mesh networks)
+##### 4.6.3.4.6. [Hybrid networks](https://github.com/cqlj/2020/wiki/Hybrid networks)
+### 4.6.4. [Network dynamics](https://github.com/cqlj/2020/wiki/Network dynamics)
+### 4.6.5. [Network reliability](https://github.com/cqlj/2020/wiki/Network reliability)
+#### 4.6.5.1. [Error detection and error correction](https://github.com/cqlj/2020/wiki/Error detection and error correction)
+### 4.6.6. [Network mobility](https://github.com/cqlj/2020/wiki/Network mobility)
+### 4.6.7. [Network manageability](https://github.com/cqlj/2020/wiki/Network manageability)
+### 4.6.8. [Network privacy and anonymity](https://github.com/cqlj/2020/wiki/Network privacy and anonymity)
+## 4.7. [Network services](https://github.com/cqlj/2020/wiki/Network services)
+### 4.7.1. [Naming and addressing](https://github.com/cqlj/2020/wiki/Naming and addressing)
+### 4.7.2. [Cloud computing](https://github.com/cqlj/2020/wiki/Cloud computing)
+### 4.7.3. [Location based services](https://github.com/cqlj/2020/wiki/Location based services)
+### 4.7.4. [Programmable networks](https://github.com/cqlj/2020/wiki/Programmable networks)
+### 4.7.5. [In-network processing](https://github.com/cqlj/2020/wiki/In-network processing)
+### 4.7.6. [Network management](https://github.com/cqlj/2020/wiki/Network management)
+### 4.7.7. [Network monitoring](https://github.com/cqlj/2020/wiki/Network monitoring)
+## 4.8. [Network types](https://github.com/cqlj/2020/wiki/Network types)
+### 4.8.1. [Network on chip](https://github.com/cqlj/2020/wiki/Network on chip)
+### 4.8.2. [Home networks](https://github.com/cqlj/2020/wiki/Home networks)
+### 4.8.3. [Storage area networks](https://github.com/cqlj/2020/wiki/Storage area networks)
+### 4.8.4. [Data center networks](https://github.com/cqlj/2020/wiki/Data center networks)
+### 4.8.5. [Wired access networks](https://github.com/cqlj/2020/wiki/Wired access networks)
+### 4.8.6. [Cyber-physical networks](https://github.com/cqlj/2020/wiki/Cyber-physical networks)
+#### 4.8.6.1. [Sensor networks](https://github.com/cqlj/2020/wiki/Sensor networks)
+### 4.8.7. [Mobile networks](https://github.com/cqlj/2020/wiki/Mobile networks)
+### 4.8.8. [Overlay and other logical network structures](https://github.com/cqlj/2020/wiki/Overlay and other logical network structures)
+#### 4.8.8.1. [Peer-to-peer networks](https://github.com/cqlj/2020/wiki/Peer-to-peer networks)
+#### 4.8.8.2. [World Wide Web (network structure)](https://github.com/cqlj/2020/wiki/World Wide Web (network structure))
+#### 4.8.8.3. [Social media networks](https://github.com/cqlj/2020/wiki/Social media networks)
+#### 4.8.8.4. [Online social networks](https://github.com/cqlj/2020/wiki/Online social networks)
+### 4.8.9. [Wireless access networks](https://github.com/cqlj/2020/wiki/Wireless access networks)
+#### 4.8.9.1. [Wireless local area networks](https://github.com/cqlj/2020/wiki/Wireless local area networks)
+#### 4.8.9.2. [Wireless personal area networks](https://github.com/cqlj/2020/wiki/Wireless personal area networks)
+### 4.8.10. [Ad hoc networks](https://github.com/cqlj/2020/wiki/Ad hoc networks)
+#### 4.8.10.1. [Mobile ad hoc networks](https://github.com/cqlj/2020/wiki/Mobile ad hoc networks)
+### 4.8.11. [Public Internet](https://github.com/cqlj/2020/wiki/Public Internet)
+### 4.8.12. [Packet-switching networks](https://github.com/cqlj/2020/wiki/Packet-switching networks)
+# 5. [Software and its engineering](https://github.com/cqlj/2020/wiki/Software and its engineering)
+## 5.1. [Software organization and properties](https://github.com/cqlj/2020/wiki/Software organization and properties)
+### 5.1.1. [Contextual software domains](https://github.com/cqlj/2020/wiki/Contextual software domains)
+#### 5.1.1.1. [E-commerce infrastructure](https://github.com/cqlj/2020/wiki/E-commerce infrastructure)
+#### 5.1.1.2. [Software infrastructure](https://github.com/cqlj/2020/wiki/Software infrastructure)
+##### 5.1.1.2.1. [Interpreters](https://github.com/cqlj/2020/wiki/Interpreters)
+##### 5.1.1.2.2. [Middleware](https://github.com/cqlj/2020/wiki/Middleware)
+###### 5.1.1.2.2.1. [Message oriented middleware](https://github.com/cqlj/2020/wiki/Message oriented middleware)
+###### 5.1.1.2.2.2. [Reflective middleware](https://github.com/cqlj/2020/wiki/Reflective middleware)
+###### 5.1.1.2.2.3. [Embedded middleware](https://github.com/cqlj/2020/wiki/Embedded middleware)
+##### 5.1.1.2.3. [Virtual machines](https://github.com/cqlj/2020/wiki/Virtual machines)
+#### 5.1.1.3. [Operating systems](https://github.com/cqlj/2020/wiki/Operating systems)
+##### 5.1.1.3.1. [File systems management](https://github.com/cqlj/2020/wiki/File systems management)
+##### 5.1.1.3.2. [Memory management](https://github.com/cqlj/2020/wiki/Memory management)
+###### 5.1.1.3.2.1. [Virtual memory](https://github.com/cqlj/2020/wiki/Virtual memory)
+###### 5.1.1.3.2.2. [Main memory](https://github.com/cqlj/2020/wiki/Main memory)
+###### 5.1.1.3.2.3. [Allocation / deallocation strategies](https://github.com/cqlj/2020/wiki/Allocation / deallocation strategies)
+###### 5.1.1.3.2.4. [Garbage collection](https://github.com/cqlj/2020/wiki/Garbage collection)
+###### 5.1.1.3.2.5. [Distributed memory](https://github.com/cqlj/2020/wiki/Distributed memory)
+###### 5.1.1.3.2.6. [Secondary storage](https://github.com/cqlj/2020/wiki/Secondary storage)
+##### 5.1.1.3.3. [Process management](https://github.com/cqlj/2020/wiki/Process management)
+###### 5.1.1.3.3.1. [Scheduling](https://github.com/cqlj/2020/wiki/Scheduling)
+###### 5.1.1.3.3.2. [Deadlocks](https://github.com/cqlj/2020/wiki/Deadlocks)
+###### 5.1.1.3.3.3. [Multithreading](https://github.com/cqlj/2020/wiki/Multithreading)
+###### 5.1.1.3.3.4. [Multiprocessing / multiprogramming / multitasking](https://github.com/cqlj/2020/wiki/Multiprocessing / multiprogramming / multitasking)
+###### 5.1.1.3.3.5. [Monitors](https://github.com/cqlj/2020/wiki/Monitors)
+###### 5.1.1.3.3.6. [Mutual exclusion](https://github.com/cqlj/2020/wiki/Mutual exclusion)
+###### 5.1.1.3.3.7. [Concurrency control](https://github.com/cqlj/2020/wiki/Concurrency control)
+###### 5.1.1.3.3.8. [Power management](https://github.com/cqlj/2020/wiki/Power management)
+###### 5.1.1.3.3.9. [Process synchronization](https://github.com/cqlj/2020/wiki/Process synchronization)
+##### 5.1.1.3.4. [Communications management](https://github.com/cqlj/2020/wiki/Communications management)
+###### 5.1.1.3.4.1. [Buffering](https://github.com/cqlj/2020/wiki/Buffering)
+###### 5.1.1.3.4.2. [Input / output](https://github.com/cqlj/2020/wiki/Input / output)
+###### 5.1.1.3.4.3. [Message passing](https://github.com/cqlj/2020/wiki/Message passing)
+#### 5.1.1.4. [Virtual worlds software](https://github.com/cqlj/2020/wiki/Virtual worlds software)
+##### 5.1.1.4.1. [Interactive games](https://github.com/cqlj/2020/wiki/Interactive games)
+##### 5.1.1.4.2. [Virtual worlds training simulations](https://github.com/cqlj/2020/wiki/Virtual worlds training simulations)
+### 5.1.2. [Software system structures](https://github.com/cqlj/2020/wiki/Software system structures)
+#### 5.1.2.1. [Embedded software](https://github.com/cqlj/2020/wiki/Embedded software)
+#### 5.1.2.2. [Software architectures](https://github.com/cqlj/2020/wiki/Software architectures)
+##### 5.1.2.2.1. [n-tier architectures](https://github.com/cqlj/2020/wiki/n-tier architectures)
+##### 5.1.2.2.2. [Peer-to-peer architectures](https://github.com/cqlj/2020/wiki/Peer-to-peer architectures)
+##### 5.1.2.2.3. [Data flow architectures](https://github.com/cqlj/2020/wiki/Data flow architectures)
+##### 5.1.2.2.4. [Cooperating communicating processes](https://github.com/cqlj/2020/wiki/Cooperating communicating processes)
+##### 5.1.2.2.5. [Layered systems](https://github.com/cqlj/2020/wiki/Layered systems)
+##### 5.1.2.2.6. [Publish-subscribe / event-based architectures](https://github.com/cqlj/2020/wiki/Publish-subscribe / event-based architectures)
+##### 5.1.2.2.7. [Electronic blackboards](https://github.com/cqlj/2020/wiki/Electronic blackboards)
+##### 5.1.2.2.8. [Simulator / interpreter](https://github.com/cqlj/2020/wiki/Simulator / interpreter)
+##### 5.1.2.2.9. [Object oriented architectures](https://github.com/cqlj/2020/wiki/Object oriented architectures)
+##### 5.1.2.2.10. [Tightly coupled architectures](https://github.com/cqlj/2020/wiki/Tightly coupled architectures)
+##### 5.1.2.2.11. [Space-based architectures](https://github.com/cqlj/2020/wiki/Space-based architectures)
+##### 5.1.2.2.12. [3-tier architectures](https://github.com/cqlj/2020/wiki/3-tier architectures)
+#### 5.1.2.3. [Software system models](https://github.com/cqlj/2020/wiki/Software system models)
+##### 5.1.2.3.1. [Petri nets](https://github.com/cqlj/2020/wiki/Petri nets)
+##### 5.1.2.3.2. [State systems](https://github.com/cqlj/2020/wiki/State systems)
+##### 5.1.2.3.3. [Entity relationship modeling](https://github.com/cqlj/2020/wiki/Entity relationship modeling)
+##### 5.1.2.3.4. [Model-driven software engineering](https://github.com/cqlj/2020/wiki/Model-driven software engineering)
+##### 5.1.2.3.5. [Feature interaction](https://github.com/cqlj/2020/wiki/Feature interaction)
+##### 5.1.2.3.6. [Massively parallel systems](https://github.com/cqlj/2020/wiki/Massively parallel systems)
+#### 5.1.2.4. [Ultra-large-scale systems](https://github.com/cqlj/2020/wiki/Ultra-large-scale systems)
+#### 5.1.2.5. [Distributed systems organizing principles](https://github.com/cqlj/2020/wiki/Distributed systems organizing principles)
+##### 5.1.2.5.1. [Cloud computing](https://github.com/cqlj/2020/wiki/Cloud computing)
+##### 5.1.2.5.2. [Client-server architectures](https://github.com/cqlj/2020/wiki/Client-server architectures)
+##### 5.1.2.5.3. [Grid computing](https://github.com/cqlj/2020/wiki/Grid computing)
+##### 5.1.2.5.4. [Organizing principles for web applications](https://github.com/cqlj/2020/wiki/Organizing principles for web applications)
+#### 5.1.2.6. [Real-time systems software](https://github.com/cqlj/2020/wiki/Real-time systems software)
+#### 5.1.2.7. [Abstraction, modeling and modularity](https://github.com/cqlj/2020/wiki/Abstraction, modeling and modularity)
+### 5.1.3. [Software functional properties](https://github.com/cqlj/2020/wiki/Software functional properties)
+#### 5.1.3.1. [Correctness](https://github.com/cqlj/2020/wiki/Correctness)
+##### 5.1.3.1.1. [Synchronization](https://github.com/cqlj/2020/wiki/Synchronization)
+##### 5.1.3.1.2. [Functionality](https://github.com/cqlj/2020/wiki/Functionality)
+##### 5.1.3.1.3. [Real-time schedulability](https://github.com/cqlj/2020/wiki/Real-time schedulability)
+##### 5.1.3.1.4. [Consistency](https://github.com/cqlj/2020/wiki/Consistency)
+##### 5.1.3.1.5. [Completeness](https://github.com/cqlj/2020/wiki/Completeness)
+##### 5.1.3.1.6. [Access protection](https://github.com/cqlj/2020/wiki/Access protection)
+#### 5.1.3.2. [Formal methods](https://github.com/cqlj/2020/wiki/Formal methods)
+##### 5.1.3.2.1. [Model checking](https://github.com/cqlj/2020/wiki/Model checking)
+##### 5.1.3.2.2. [Software verification](https://github.com/cqlj/2020/wiki/Software verification)
+##### 5.1.3.2.3. [Automated static analysis](https://github.com/cqlj/2020/wiki/Automated static analysis)
+##### 5.1.3.2.4. [Dynamic analysis](https://github.com/cqlj/2020/wiki/Dynamic analysis)
+### 5.1.4. [Extra-functional properties](https://github.com/cqlj/2020/wiki/Extra-functional properties)
+#### 5.1.4.1. [Interoperability](https://github.com/cqlj/2020/wiki/Interoperability)
+#### 5.1.4.2. [Software performance](https://github.com/cqlj/2020/wiki/Software performance)
+#### 5.1.4.3. [Software reliability](https://github.com/cqlj/2020/wiki/Software reliability)
+#### 5.1.4.4. [Software fault tolerance](https://github.com/cqlj/2020/wiki/Software fault tolerance)
+##### 5.1.4.4.1. [Checkpoint / restart](https://github.com/cqlj/2020/wiki/Checkpoint / restart)
+#### 5.1.4.5. [Software safety](https://github.com/cqlj/2020/wiki/Software safety)
+#### 5.1.4.6. [Software usability](https://github.com/cqlj/2020/wiki/Software usability)
+## 5.2. [Software notations and tools](https://github.com/cqlj/2020/wiki/Software notations and tools)
+### 5.2.1. [General programming languages](https://github.com/cqlj/2020/wiki/General programming languages)
+#### 5.2.1.1. [Language types](https://github.com/cqlj/2020/wiki/Language types)
+##### 5.2.1.1.1. [Parallel programming languages](https://github.com/cqlj/2020/wiki/Parallel programming languages)
+##### 5.2.1.1.2. [Distributed programming languages](https://github.com/cqlj/2020/wiki/Distributed programming languages)
+##### 5.2.1.1.3. [Imperative languages](https://github.com/cqlj/2020/wiki/Imperative languages)
+##### 5.2.1.1.4. [Object oriented languages](https://github.com/cqlj/2020/wiki/Object oriented languages)
+##### 5.2.1.1.5. [Functional languages](https://github.com/cqlj/2020/wiki/Functional languages)
+##### 5.2.1.1.6. [Concurrent programming languages](https://github.com/cqlj/2020/wiki/Concurrent programming languages)
+##### 5.2.1.1.7. [Constraint and logic languages](https://github.com/cqlj/2020/wiki/Constraint and logic languages)
+##### 5.2.1.1.8. [Data flow languages](https://github.com/cqlj/2020/wiki/Data flow languages)
+##### 5.2.1.1.9. [Extensible languages](https://github.com/cqlj/2020/wiki/Extensible languages)
+##### 5.2.1.1.10. [Assembly languages](https://github.com/cqlj/2020/wiki/Assembly languages)
+##### 5.2.1.1.11. [Multiparadigm languages](https://github.com/cqlj/2020/wiki/Multiparadigm languages)
+##### 5.2.1.1.12. [Very high level languages](https://github.com/cqlj/2020/wiki/Very high level languages)
+#### 5.2.1.2. [Language features](https://github.com/cqlj/2020/wiki/Language features)
+##### 5.2.1.2.1. [Abstract data types](https://github.com/cqlj/2020/wiki/Abstract data types)
+##### 5.2.1.2.2. [Polymorphism](https://github.com/cqlj/2020/wiki/Polymorphism)
+##### 5.2.1.2.3. [Inheritance](https://github.com/cqlj/2020/wiki/Inheritance)
+##### 5.2.1.2.4. [Control structures](https://github.com/cqlj/2020/wiki/Control structures)
+##### 5.2.1.2.5. [Data types and structures](https://github.com/cqlj/2020/wiki/Data types and structures)
+##### 5.2.1.2.6. [Classes and objects](https://github.com/cqlj/2020/wiki/Classes and objects)
+##### 5.2.1.2.7. [Modules / packages](https://github.com/cqlj/2020/wiki/Modules / packages)
+##### 5.2.1.2.8. [Constraints](https://github.com/cqlj/2020/wiki/Constraints)
+##### 5.2.1.2.9. [Recursion](https://github.com/cqlj/2020/wiki/Recursion)
+##### 5.2.1.2.10. [Concurrent programming structures](https://github.com/cqlj/2020/wiki/Concurrent programming structures)
+##### 5.2.1.2.11. [Procedures, functions and subroutines](https://github.com/cqlj/2020/wiki/Procedures, functions and subroutines)
+##### 5.2.1.2.12. [Patterns](https://github.com/cqlj/2020/wiki/Patterns)
+##### 5.2.1.2.13. [Coroutines](https://github.com/cqlj/2020/wiki/Coroutines)
+##### 5.2.1.2.14. [Frameworks](https://github.com/cqlj/2020/wiki/Frameworks)
+### 5.2.2. [Formal language definitions](https://github.com/cqlj/2020/wiki/Formal language definitions)
+#### 5.2.2.1. [Syntax](https://github.com/cqlj/2020/wiki/Syntax)
+#### 5.2.2.2. [Semantics](https://github.com/cqlj/2020/wiki/Semantics)
+### 5.2.3. [Compilers](https://github.com/cqlj/2020/wiki/Compilers)
+#### 5.2.3.1. [Interpreters](https://github.com/cqlj/2020/wiki/Interpreters)
+#### 5.2.3.2. [Incremental compilers](https://github.com/cqlj/2020/wiki/Incremental compilers)
+#### 5.2.3.3. [Retargetable compilers](https://github.com/cqlj/2020/wiki/Retargetable compilers)
+#### 5.2.3.4. [Just-in-time compilers](https://github.com/cqlj/2020/wiki/Just-in-time compilers)
+#### 5.2.3.5. [Dynamic compilers](https://github.com/cqlj/2020/wiki/Dynamic compilers)
+#### 5.2.3.6. [Translator writing systems and compiler generators](https://github.com/cqlj/2020/wiki/Translator writing systems and compiler generators)
+#### 5.2.3.7. [Source code generation](https://github.com/cqlj/2020/wiki/Source code generation)
+#### 5.2.3.8. [Runtime environments](https://github.com/cqlj/2020/wiki/Runtime environments)
+#### 5.2.3.9. [Preprocessors](https://github.com/cqlj/2020/wiki/Preprocessors)
+#### 5.2.3.10. [Parsers](https://github.com/cqlj/2020/wiki/Parsers)
+### 5.2.4. [Context specific languages](https://github.com/cqlj/2020/wiki/Context specific languages)
+#### 5.2.4.1. [Markup languages](https://github.com/cqlj/2020/wiki/Markup languages)
+##### 5.2.4.1.1. [Extensible Markup Language (XML)](https://github.com/cqlj/2020/wiki/Extensible Markup Language (XML))
+##### 5.2.4.1.2. [Hypertext languages](https://github.com/cqlj/2020/wiki/Hypertext languages)
+#### 5.2.4.2. [Scripting languages](https://github.com/cqlj/2020/wiki/Scripting languages)
+#### 5.2.4.3. [Domain specific languages](https://github.com/cqlj/2020/wiki/Domain specific languages)
+#### 5.2.4.4. [Specialized application languages](https://github.com/cqlj/2020/wiki/Specialized application languages)
+#### 5.2.4.5. [API languages](https://github.com/cqlj/2020/wiki/API languages)
+#### 5.2.4.6. [Graphical user interface languages](https://github.com/cqlj/2020/wiki/Graphical user interface languages)
+#### 5.2.4.7. [Window managers](https://github.com/cqlj/2020/wiki/Window managers)
+#### 5.2.4.8. [Command and control languages](https://github.com/cqlj/2020/wiki/Command and control languages)
+#### 5.2.4.9. [Macro languages](https://github.com/cqlj/2020/wiki/Macro languages)
+#### 5.2.4.10. [Programming by example](https://github.com/cqlj/2020/wiki/Programming by example)
+#### 5.2.4.11. [State based definitions](https://github.com/cqlj/2020/wiki/State based definitions)
+#### 5.2.4.12. [Visual languages](https://github.com/cqlj/2020/wiki/Visual languages)
+#### 5.2.4.13. [Interface definition languages](https://github.com/cqlj/2020/wiki/Interface definition languages)
+### 5.2.5. [System description languages](https://github.com/cqlj/2020/wiki/System description languages)
+#### 5.2.5.1. [Design languages](https://github.com/cqlj/2020/wiki/Design languages)
+#### 5.2.5.2. [Unified Modeling Language (UML)](https://github.com/cqlj/2020/wiki/Unified Modeling Language (UML))
+#### 5.2.5.3. [Architecture description languages](https://github.com/cqlj/2020/wiki/Architecture description languages)
+#### 5.2.5.4. [System modeling languages](https://github.com/cqlj/2020/wiki/System modeling languages)
+#### 5.2.5.5. [Orchestration languages](https://github.com/cqlj/2020/wiki/Orchestration languages)
+#### 5.2.5.6. [Integration frameworks](https://github.com/cqlj/2020/wiki/Integration frameworks)
+#### 5.2.5.7. [Specification languages](https://github.com/cqlj/2020/wiki/Specification languages)
+### 5.2.6. [Development frameworks and environments](https://github.com/cqlj/2020/wiki/Development frameworks and environments)
+#### 5.2.6.1. [Object oriented frameworks](https://github.com/cqlj/2020/wiki/Object oriented frameworks)
+#### 5.2.6.2. [Software as a service orchestration system](https://github.com/cqlj/2020/wiki/Software as a service orchestration system)
+#### 5.2.6.3. [Integrated and visual development environments](https://github.com/cqlj/2020/wiki/Integrated and visual development environments)
+#### 5.2.6.4. [Application specific development environments](https://github.com/cqlj/2020/wiki/Application specific development environments)
+### 5.2.7. [Software configuration management and version control systems](https://github.com/cqlj/2020/wiki/Software configuration management and version control systems)
+### 5.2.8. [Software libraries and repositories](https://github.com/cqlj/2020/wiki/Software libraries and repositories)
+### 5.2.9. [Software maintenance tools](https://github.com/cqlj/2020/wiki/Software maintenance tools)
+## 5.3. [Software creation and management](https://github.com/cqlj/2020/wiki/Software creation and management)
+### 5.3.1. [Designing software](https://github.com/cqlj/2020/wiki/Designing software)
+#### 5.3.1.1. [Requirements analysis](https://github.com/cqlj/2020/wiki/Requirements analysis)
+#### 5.3.1.2. [Software design engineering](https://github.com/cqlj/2020/wiki/Software design engineering)
+#### 5.3.1.3. [Software design tradeoffs](https://github.com/cqlj/2020/wiki/Software design tradeoffs)
+#### 5.3.1.4. [Software implementation planning](https://github.com/cqlj/2020/wiki/Software implementation planning)
+##### 5.3.1.4.1. [Software design techniques](https://github.com/cqlj/2020/wiki/Software design techniques)
+### 5.3.2. [Software development process management](https://github.com/cqlj/2020/wiki/Software development process management)
+#### 5.3.2.1. [Software development methods](https://github.com/cqlj/2020/wiki/Software development methods)
+##### 5.3.2.1.1. [Rapid application development](https://github.com/cqlj/2020/wiki/Rapid application development)
+##### 5.3.2.1.2. [Agile software development](https://github.com/cqlj/2020/wiki/Agile software development)
+##### 5.3.2.1.3. [Capability Maturity Model](https://github.com/cqlj/2020/wiki/Capability Maturity Model)
+##### 5.3.2.1.4. [Waterfall model](https://github.com/cqlj/2020/wiki/Waterfall model)
+##### 5.3.2.1.5. [Spiral model](https://github.com/cqlj/2020/wiki/Spiral model)
+##### 5.3.2.1.6. [V-model](https://github.com/cqlj/2020/wiki/V-model)
+##### 5.3.2.1.7. [Design patterns](https://github.com/cqlj/2020/wiki/Design patterns)
+#### 5.3.2.2. [Risk management](https://github.com/cqlj/2020/wiki/Risk management)
+### 5.3.3. [Software development techniques](https://github.com/cqlj/2020/wiki/Software development techniques)
+#### 5.3.3.1. [Software prototyping](https://github.com/cqlj/2020/wiki/Software prototyping)
+#### 5.3.3.2. [Object oriented development](https://github.com/cqlj/2020/wiki/Object oriented development)
+#### 5.3.3.3. [Flowcharts](https://github.com/cqlj/2020/wiki/Flowcharts)
+#### 5.3.3.4. [Reusability](https://github.com/cqlj/2020/wiki/Reusability)
+##### 5.3.3.4.1. [Software product lines](https://github.com/cqlj/2020/wiki/Software product lines)
+#### 5.3.3.5. [Error handling and recovery](https://github.com/cqlj/2020/wiki/Error handling and recovery)
+#### 5.3.3.6. [Automatic programming](https://github.com/cqlj/2020/wiki/Automatic programming)
+##### 5.3.3.6.1. [Genetic programming](https://github.com/cqlj/2020/wiki/Genetic programming)
+### 5.3.4. [Software verification and validation](https://github.com/cqlj/2020/wiki/Software verification and validation)
+#### 5.3.4.1. [Software prototyping](https://github.com/cqlj/2020/wiki/Software prototyping)
+#### 5.3.4.2. [Operational analysis](https://github.com/cqlj/2020/wiki/Operational analysis)
+#### 5.3.4.3. [Software defect analysis](https://github.com/cqlj/2020/wiki/Software defect analysis)
+##### 5.3.4.3.1. [Software testing and debugging](https://github.com/cqlj/2020/wiki/Software testing and debugging)
+#### 5.3.4.4. [Fault tree analysis](https://github.com/cqlj/2020/wiki/Fault tree analysis)
+#### 5.3.4.5. [Process validation](https://github.com/cqlj/2020/wiki/Process validation)
+##### 5.3.4.5.1. [Walkthroughs](https://github.com/cqlj/2020/wiki/Walkthroughs)
+##### 5.3.4.5.2. [Pair programming](https://github.com/cqlj/2020/wiki/Pair programming)
+##### 5.3.4.5.3. [Use cases](https://github.com/cqlj/2020/wiki/Use cases)
+##### 5.3.4.5.4. [Acceptance testing](https://github.com/cqlj/2020/wiki/Acceptance testing)
+##### 5.3.4.5.5. [Traceability](https://github.com/cqlj/2020/wiki/Traceability)
+#### 5.3.4.6. [Formal software verification](https://github.com/cqlj/2020/wiki/Formal software verification)
+#### 5.3.4.7. [Empirical software validation](https://github.com/cqlj/2020/wiki/Empirical software validation)
+### 5.3.5. [Software post-development issues](https://github.com/cqlj/2020/wiki/Software post-development issues)
+#### 5.3.5.1. [Software reverse engineering](https://github.com/cqlj/2020/wiki/Software reverse engineering)
+#### 5.3.5.2. [Documentation](https://github.com/cqlj/2020/wiki/Documentation)
+#### 5.3.5.3. [Backup procedures](https://github.com/cqlj/2020/wiki/Backup procedures)
+#### 5.3.5.4. [Software evolution](https://github.com/cqlj/2020/wiki/Software evolution)
+#### 5.3.5.5. [Software version control](https://github.com/cqlj/2020/wiki/Software version control)
+#### 5.3.5.6. [Maintaining software](https://github.com/cqlj/2020/wiki/Maintaining software)
+#### 5.3.5.7. [System administration](https://github.com/cqlj/2020/wiki/System administration)
+### 5.3.6. [Collaboration in software development](https://github.com/cqlj/2020/wiki/Collaboration in software development)
+#### 5.3.6.1. [Open source model](https://github.com/cqlj/2020/wiki/Open source model)
+#### 5.3.6.2. [Programming teams](https://github.com/cqlj/2020/wiki/Programming teams)
+### 5.3.7. [Search-based software engineering](https://github.com/cqlj/2020/wiki/Search-based software engineering)
+# 6. [Theory of computation](https://github.com/cqlj/2020/wiki/Theory of computation)
+## 6.1. [Models of computation](https://github.com/cqlj/2020/wiki/Models of computation)
+### 6.1.1. [Computability](https://github.com/cqlj/2020/wiki/Computability)
+#### 6.1.1.1. [Lambda calculus](https://github.com/cqlj/2020/wiki/Lambda calculus)
+#### 6.1.1.2. [Turing machines](https://github.com/cqlj/2020/wiki/Turing machines)
+#### 6.1.1.3. [Recursive functions](https://github.com/cqlj/2020/wiki/Recursive functions)
+### 6.1.2. [Probabilistic computation](https://github.com/cqlj/2020/wiki/Probabilistic computation)
+### 6.1.3. [Quantum computation theory](https://github.com/cqlj/2020/wiki/Quantum computation theory)
+#### 6.1.3.1. [Quantum complexity theory](https://github.com/cqlj/2020/wiki/Quantum complexity theory)
+#### 6.1.3.2. [Quantum communication complexity](https://github.com/cqlj/2020/wiki/Quantum communication complexity)
+#### 6.1.3.3. [Quantum query complexity](https://github.com/cqlj/2020/wiki/Quantum query complexity)
+#### 6.1.3.4. [Quantum information theory](https://github.com/cqlj/2020/wiki/Quantum information theory)
+### 6.1.4. [Interactive computation](https://github.com/cqlj/2020/wiki/Interactive computation)
+### 6.1.5. [Streaming models](https://github.com/cqlj/2020/wiki/Streaming models)
+### 6.1.6. [Concurrency](https://github.com/cqlj/2020/wiki/Concurrency)
+#### 6.1.6.1. [Parallel computing models](https://github.com/cqlj/2020/wiki/Parallel computing models)
+#### 6.1.6.2. [Distributed computing models](https://github.com/cqlj/2020/wiki/Distributed computing models)
+#### 6.1.6.3. [Process calculi](https://github.com/cqlj/2020/wiki/Process calculi)
+### 6.1.7. [Timed and hybrid models](https://github.com/cqlj/2020/wiki/Timed and hybrid models)
+### 6.1.8. [Abstract machines](https://github.com/cqlj/2020/wiki/Abstract machines)
+## 6.2. [Formal languages and automata theory](https://github.com/cqlj/2020/wiki/Formal languages and automata theory)
+### 6.2.1. [Formalisms](https://github.com/cqlj/2020/wiki/Formalisms)
+#### 6.2.1.1. [Algebraic language theory](https://github.com/cqlj/2020/wiki/Algebraic language theory)
+#### 6.2.1.2. [Rewrite systems](https://github.com/cqlj/2020/wiki/Rewrite systems)
+### 6.2.2. [Automata over infinite objects](https://github.com/cqlj/2020/wiki/Automata over infinite objects)
+### 6.2.3. [Grammars and context-free languages](https://github.com/cqlj/2020/wiki/Grammars and context-free languages)
+### 6.2.4. [Tree languages](https://github.com/cqlj/2020/wiki/Tree languages)
+### 6.2.5. [Automata extensions](https://github.com/cqlj/2020/wiki/Automata extensions)
+#### 6.2.5.1. [Transducers](https://github.com/cqlj/2020/wiki/Transducers)
+#### 6.2.5.2. [Quantitative automata](https://github.com/cqlj/2020/wiki/Quantitative automata)
+### 6.2.6. [Regular languages](https://github.com/cqlj/2020/wiki/Regular languages)
+## 6.3. [Computational complexity and cryptography](https://github.com/cqlj/2020/wiki/Computational complexity and cryptography)
+### 6.3.1. [Complexity classes](https://github.com/cqlj/2020/wiki/Complexity classes)
+### 6.3.2. [Problems, reductions and completeness](https://github.com/cqlj/2020/wiki/Problems, reductions and completeness)
+### 6.3.3. [Communication complexity](https://github.com/cqlj/2020/wiki/Communication complexity)
+### 6.3.4. [Circuit complexity](https://github.com/cqlj/2020/wiki/Circuit complexity)
+### 6.3.5. [Oracles and decision trees](https://github.com/cqlj/2020/wiki/Oracles and decision trees)
+### 6.3.6. [Algebraic complexity theory](https://github.com/cqlj/2020/wiki/Algebraic complexity theory)
+### 6.3.7. [Quantum complexity theory](https://github.com/cqlj/2020/wiki/Quantum complexity theory)
+### 6.3.8. [Proof complexity](https://github.com/cqlj/2020/wiki/Proof complexity)
+### 6.3.9. [Interactive proof systems](https://github.com/cqlj/2020/wiki/Interactive proof systems)
+### 6.3.10. [Complexity theory and logic](https://github.com/cqlj/2020/wiki/Complexity theory and logic)
+### 6.3.11. [Cryptographic primitives](https://github.com/cqlj/2020/wiki/Cryptographic primitives)
+### 6.3.12. [Cryptographic protocols](https://github.com/cqlj/2020/wiki/Cryptographic protocols)
+## 6.4. [Logic](https://github.com/cqlj/2020/wiki/Logic)
+### 6.4.1. [Logic and verification](https://github.com/cqlj/2020/wiki/Logic and verification)
+### 6.4.2. [Proof theory](https://github.com/cqlj/2020/wiki/Proof theory)
+### 6.4.3. [Modal and temporal logics](https://github.com/cqlj/2020/wiki/Modal and temporal logics)
+### 6.4.4. [Automated reasoning](https://github.com/cqlj/2020/wiki/Automated reasoning)
+### 6.4.5. [Constraint and logic programming](https://github.com/cqlj/2020/wiki/Constraint and logic programming)
+### 6.4.6. [Constructive mathematics](https://github.com/cqlj/2020/wiki/Constructive mathematics)
+### 6.4.7. [Description logics](https://github.com/cqlj/2020/wiki/Description logics)
+### 6.4.8. [Equational logic and rewriting](https://github.com/cqlj/2020/wiki/Equational logic and rewriting)
+### 6.4.9. [Finite Model Theory](https://github.com/cqlj/2020/wiki/Finite Model Theory)
+### 6.4.10. [Higher order logic](https://github.com/cqlj/2020/wiki/Higher order logic)
+### 6.4.11. [Linear logic](https://github.com/cqlj/2020/wiki/Linear logic)
+### 6.4.12. [Programming logic](https://github.com/cqlj/2020/wiki/Programming logic)
+### 6.4.13. [Abstraction](https://github.com/cqlj/2020/wiki/Abstraction)
+### 6.4.14. [Verification by model checking](https://github.com/cqlj/2020/wiki/Verification by model checking)
+### 6.4.15. [Type theory](https://github.com/cqlj/2020/wiki/Type theory)
+### 6.4.16. [Hoare logic](https://github.com/cqlj/2020/wiki/Hoare logic)
+### 6.4.17. [Separation logic](https://github.com/cqlj/2020/wiki/Separation logic)
+## 6.5. [Design and analysis of algorithms](https://github.com/cqlj/2020/wiki/Design and analysis of algorithms)
+### 6.5.1. [Graph algorithms analysis](https://github.com/cqlj/2020/wiki/Graph algorithms analysis)
+#### 6.5.1.1. [Network flows](https://github.com/cqlj/2020/wiki/Network flows)
+#### 6.5.1.2. [Sparsification and spanners](https://github.com/cqlj/2020/wiki/Sparsification and spanners)
+#### 6.5.1.3. [Shortest paths](https://github.com/cqlj/2020/wiki/Shortest paths)
+#### 6.5.1.4. [Dynamic graph algorithms](https://github.com/cqlj/2020/wiki/Dynamic graph algorithms)
+### 6.5.2. [Approximation algorithms analysis](https://github.com/cqlj/2020/wiki/Approximation algorithms analysis)
+#### 6.5.2.1. [Scheduling algorithms](https://github.com/cqlj/2020/wiki/Scheduling algorithms)
+#### 6.5.2.2. [Packing and covering problems](https://github.com/cqlj/2020/wiki/Packing and covering problems)
+#### 6.5.2.3. [Routing and network design problems](https://github.com/cqlj/2020/wiki/Routing and network design problems)
+#### 6.5.2.4. [Facility location and clustering](https://github.com/cqlj/2020/wiki/Facility location and clustering)
+#### 6.5.2.5. [Rounding techniques](https://github.com/cqlj/2020/wiki/Rounding techniques)
+#### 6.5.2.6. [Stochastic approximation](https://github.com/cqlj/2020/wiki/Stochastic approximation)
+#### 6.5.2.7. [Numeric approximation algorithms](https://github.com/cqlj/2020/wiki/Numeric approximation algorithms)
+### 6.5.3. [Mathematical optimization](https://github.com/cqlj/2020/wiki/Mathematical optimization)
+#### 6.5.3.1. [Discrete optimization](https://github.com/cqlj/2020/wiki/Discrete optimization)
+##### 6.5.3.1.1. [Network optimization](https://github.com/cqlj/2020/wiki/Network optimization)
+##### 6.5.3.1.2. [Optimization with randomized search heuristics](https://github.com/cqlj/2020/wiki/Optimization with randomized search heuristics)
+###### 6.5.3.1.2.1. [Simulated annealing](https://github.com/cqlj/2020/wiki/Simulated annealing)
+###### 6.5.3.1.2.2. [Evolutionary algorithms](https://github.com/cqlj/2020/wiki/Evolutionary algorithms)
+###### 6.5.3.1.2.3. [Tabu search](https://github.com/cqlj/2020/wiki/Tabu search)
+###### 6.5.3.1.2.4. [Randomized local search](https://github.com/cqlj/2020/wiki/Randomized local search)
+#### 6.5.3.2. [Continuous optimization](https://github.com/cqlj/2020/wiki/Continuous optimization)
+##### 6.5.3.2.1. [Linear programming](https://github.com/cqlj/2020/wiki/Linear programming)
+##### 6.5.3.2.2. [Semidefinite programming](https://github.com/cqlj/2020/wiki/Semidefinite programming)
+##### 6.5.3.2.3. [Convex optimization](https://github.com/cqlj/2020/wiki/Convex optimization)
+##### 6.5.3.2.4. [Quasiconvex programming and unimodality](https://github.com/cqlj/2020/wiki/Quasiconvex programming and unimodality)
+##### 6.5.3.2.5. [Stochastic control and optimization](https://github.com/cqlj/2020/wiki/Stochastic control and optimization)
+##### 6.5.3.2.6. [Quadratic programming](https://github.com/cqlj/2020/wiki/Quadratic programming)
+##### 6.5.3.2.7. [Nonconvex optimization](https://github.com/cqlj/2020/wiki/Nonconvex optimization)
+##### 6.5.3.2.8. [Bio-inspired optimization](https://github.com/cqlj/2020/wiki/Bio-inspired optimization)
+#### 6.5.3.3. [Mixed discrete-continuous optimization](https://github.com/cqlj/2020/wiki/Mixed discrete-continuous optimization)
+##### 6.5.3.3.1. [Submodular optimization and polymatroids](https://github.com/cqlj/2020/wiki/Submodular optimization and polymatroids)
+##### 6.5.3.3.2. [Integer programming](https://github.com/cqlj/2020/wiki/Integer programming)
+##### 6.5.3.3.3. [Bio-inspired optimization](https://github.com/cqlj/2020/wiki/Bio-inspired optimization)
+#### 6.5.3.4. [Non-parametric optimization](https://github.com/cqlj/2020/wiki/Non-parametric optimization)
+##### 6.5.3.4.1. [Genetic programming](https://github.com/cqlj/2020/wiki/Genetic programming)
+##### 6.5.3.4.2. [Developmental representations](https://github.com/cqlj/2020/wiki/Developmental representations)
+### 6.5.4. [Data structures design and analysis](https://github.com/cqlj/2020/wiki/Data structures design and analysis)
+#### 6.5.4.1. [Data compression](https://github.com/cqlj/2020/wiki/Data compression)
+#### 6.5.4.2. [Pattern matching](https://github.com/cqlj/2020/wiki/Pattern matching)
+#### 6.5.4.3. [Sorting and searching](https://github.com/cqlj/2020/wiki/Sorting and searching)
+#### 6.5.4.4. [Predecessor queries](https://github.com/cqlj/2020/wiki/Predecessor queries)
+#### 6.5.4.5. [Cell probe models and lower bounds](https://github.com/cqlj/2020/wiki/Cell probe models and lower bounds)
+### 6.5.5. [Online algorithms](https://github.com/cqlj/2020/wiki/Online algorithms)
+#### 6.5.5.1. [Online learning algorithms](https://github.com/cqlj/2020/wiki/Online learning algorithms)
+##### 6.5.5.1.1. [Scheduling algorithms](https://github.com/cqlj/2020/wiki/Scheduling algorithms)
+#### 6.5.5.2. [Caching and paging algorithms](https://github.com/cqlj/2020/wiki/Caching and paging algorithms)
+#### 6.5.5.3. [K-server algorithms](https://github.com/cqlj/2020/wiki/K-server algorithms)
+#### 6.5.5.4. [Adversary models](https://github.com/cqlj/2020/wiki/Adversary models)
+### 6.5.6. [Parameterized complexity and exact algorithms](https://github.com/cqlj/2020/wiki/Parameterized complexity and exact algorithms)
+#### 6.5.6.1. [Fixed parameter tractability](https://github.com/cqlj/2020/wiki/Fixed parameter tractability)
+#### 6.5.6.2. [W hierarchy](https://github.com/cqlj/2020/wiki/W hierarchy)
+### 6.5.7. [Streaming, sublinear and near linear time algorithms](https://github.com/cqlj/2020/wiki/Streaming, sublinear and near linear time algorithms)
+#### 6.5.7.1. [Bloom filters and hashing](https://github.com/cqlj/2020/wiki/Bloom filters and hashing)
+#### 6.5.7.2. [Sketching and sampling](https://github.com/cqlj/2020/wiki/Sketching and sampling)
+#### 6.5.7.3. [Lower bounds and information complexity](https://github.com/cqlj/2020/wiki/Lower bounds and information complexity)
+#### 6.5.7.4. [Random order and robust communication complexity](https://github.com/cqlj/2020/wiki/Random order and robust communication complexity)
+#### 6.5.7.5. [Nearest neighbor algorithms](https://github.com/cqlj/2020/wiki/Nearest neighbor algorithms)
+### 6.5.8. [Parallel algorithms](https://github.com/cqlj/2020/wiki/Parallel algorithms)
+#### 6.5.8.1. [MapReduce algorithms](https://github.com/cqlj/2020/wiki/MapReduce algorithms)
+#### 6.5.8.2. [Self-organization](https://github.com/cqlj/2020/wiki/Self-organization)
+#### 6.5.8.3. [Shared memory algorithms](https://github.com/cqlj/2020/wiki/Shared memory algorithms)
+#### 6.5.8.4. [Vector / streaming algorithms](https://github.com/cqlj/2020/wiki/Vector / streaming algorithms)
+#### 6.5.8.5. [Massively parallel algorithms](https://github.com/cqlj/2020/wiki/Massively parallel algorithms)
+### 6.5.9. [Distributed algorithms](https://github.com/cqlj/2020/wiki/Distributed algorithms)
+#### 6.5.9.1. [MapReduce algorithms](https://github.com/cqlj/2020/wiki/MapReduce algorithms)
+#### 6.5.9.2. [Self-organization](https://github.com/cqlj/2020/wiki/Self-organization)
+### 6.5.10. [Algorithm design techniques](https://github.com/cqlj/2020/wiki/Algorithm design techniques)
+#### 6.5.10.1. [Backtracking](https://github.com/cqlj/2020/wiki/Backtracking)
+#### 6.5.10.2. [Branch-and-bound](https://github.com/cqlj/2020/wiki/Branch-and-bound)
+#### 6.5.10.3. [Divide and conquer](https://github.com/cqlj/2020/wiki/Divide and conquer)
+#### 6.5.10.4. [Dynamic programming](https://github.com/cqlj/2020/wiki/Dynamic programming)
+#### 6.5.10.5. [Preconditioning](https://github.com/cqlj/2020/wiki/Preconditioning)
+### 6.5.11. [Concurrent algorithms](https://github.com/cqlj/2020/wiki/Concurrent algorithms)
+## 6.6. [Randomness, geometry and discrete structures](https://github.com/cqlj/2020/wiki/Randomness, geometry and discrete structures)
+### 6.6.1. [Pseudorandomness and derandomization](https://github.com/cqlj/2020/wiki/Pseudorandomness and derandomization)
+### 6.6.2. [Computational geometry](https://github.com/cqlj/2020/wiki/Computational geometry)
+### 6.6.3. [Generating random combinatorial structures](https://github.com/cqlj/2020/wiki/Generating random combinatorial structures)
+### 6.6.4. [Random walks and Markov chains](https://github.com/cqlj/2020/wiki/Random walks and Markov chains)
+### 6.6.5. [Expander graphs and randomness extractors](https://github.com/cqlj/2020/wiki/Expander graphs and randomness extractors)
+### 6.6.6. [Error-correcting codes](https://github.com/cqlj/2020/wiki/Error-correcting codes)
+### 6.6.7. [Random projections and metric embeddings](https://github.com/cqlj/2020/wiki/Random projections and metric embeddings)
+### 6.6.8. [Random network models](https://github.com/cqlj/2020/wiki/Random network models)
+### 6.6.9. [Random search heuristics](https://github.com/cqlj/2020/wiki/Random search heuristics)
+## 6.7. [Theory and algorithms for application domains](https://github.com/cqlj/2020/wiki/Theory and algorithms for application domains)
+### 6.7.1. [Machine learning theory](https://github.com/cqlj/2020/wiki/Machine learning theory)
+#### 6.7.1.1. [Sample complexity and generalization bounds](https://github.com/cqlj/2020/wiki/Sample complexity and generalization bounds)
+#### 6.7.1.2. [Boolean function learning](https://github.com/cqlj/2020/wiki/Boolean function learning)
+#### 6.7.1.3. [Unsupervised learning and clustering](https://github.com/cqlj/2020/wiki/Unsupervised learning and clustering)
+#### 6.7.1.4. [Kernel methods](https://github.com/cqlj/2020/wiki/Kernel methods)
+##### 6.7.1.4.1. [Support vector machines](https://github.com/cqlj/2020/wiki/Support vector machines)
+##### 6.7.1.4.2. [Gaussian processes](https://github.com/cqlj/2020/wiki/Gaussian processes)
+#### 6.7.1.5. [Boosting](https://github.com/cqlj/2020/wiki/Boosting)
+#### 6.7.1.6. [Bayesian analysis](https://github.com/cqlj/2020/wiki/Bayesian analysis)
+#### 6.7.1.7. [Inductive inference](https://github.com/cqlj/2020/wiki/Inductive inference)
+#### 6.7.1.8. [Online learning theory](https://github.com/cqlj/2020/wiki/Online learning theory)
+#### 6.7.1.9. [Multi-agent learning](https://github.com/cqlj/2020/wiki/Multi-agent learning)
+#### 6.7.1.10. [Models of learning](https://github.com/cqlj/2020/wiki/Models of learning)
+#### 6.7.1.11. [Query learning](https://github.com/cqlj/2020/wiki/Query learning)
+#### 6.7.1.12. [Structured prediction](https://github.com/cqlj/2020/wiki/Structured prediction)
+#### 6.7.1.13. [Reinforcement learning](https://github.com/cqlj/2020/wiki/Reinforcement learning)
+##### 6.7.1.13.1. [Sequential decision making](https://github.com/cqlj/2020/wiki/Sequential decision making)
+##### 6.7.1.13.2. [Inverse reinforcement learning](https://github.com/cqlj/2020/wiki/Inverse reinforcement learning)
+##### 6.7.1.13.3. [Apprenticeship learning](https://github.com/cqlj/2020/wiki/Apprenticeship learning)
+##### 6.7.1.13.4. [Multi-agent reinforcement learning](https://github.com/cqlj/2020/wiki/Multi-agent reinforcement learning)
+##### 6.7.1.13.5. [Adversarial learning](https://github.com/cqlj/2020/wiki/Adversarial learning)
+#### 6.7.1.14. [Active learning](https://github.com/cqlj/2020/wiki/Active learning)
+#### 6.7.1.15. [Semi-supervised learning](https://github.com/cqlj/2020/wiki/Semi-supervised learning)
+#### 6.7.1.16. [Markov decision processes](https://github.com/cqlj/2020/wiki/Markov decision processes)
+#### 6.7.1.17. [Regret bounds](https://github.com/cqlj/2020/wiki/Regret bounds)
+### 6.7.2. [Algorithmic game theory and mechanism design](https://github.com/cqlj/2020/wiki/Algorithmic game theory and mechanism design)
+#### 6.7.2.1. [Social networks](https://github.com/cqlj/2020/wiki/Social networks)
+#### 6.7.2.2. [Algorithmic game theory](https://github.com/cqlj/2020/wiki/Algorithmic game theory)
+#### 6.7.2.3. [Algorithmic mechanism design](https://github.com/cqlj/2020/wiki/Algorithmic mechanism design)
+#### 6.7.2.4. [Solution concepts in game theory](https://github.com/cqlj/2020/wiki/Solution concepts in game theory)
+#### 6.7.2.5. [Exact and approximate computation of equilibria](https://github.com/cqlj/2020/wiki/Exact and approximate computation of equilibria)
+#### 6.7.2.6. [Quality of equilibria](https://github.com/cqlj/2020/wiki/Quality of equilibria)
+#### 6.7.2.7. [Convergence and learning in games](https://github.com/cqlj/2020/wiki/Convergence and learning in games)
+#### 6.7.2.8. [Market equilibria](https://github.com/cqlj/2020/wiki/Market equilibria)
+#### 6.7.2.9. [Computational pricing and auctions](https://github.com/cqlj/2020/wiki/Computational pricing and auctions)
+#### 6.7.2.10. [Representations of games and their complexity](https://github.com/cqlj/2020/wiki/Representations of games and their complexity)
+#### 6.7.2.11. [Network games](https://github.com/cqlj/2020/wiki/Network games)
+#### 6.7.2.12. [Network formation](https://github.com/cqlj/2020/wiki/Network formation)
+#### 6.7.2.13. [Computational advertising theory](https://github.com/cqlj/2020/wiki/Computational advertising theory)
+### 6.7.3. [Database theory](https://github.com/cqlj/2020/wiki/Database theory)
+#### 6.7.3.1. [Data exchange](https://github.com/cqlj/2020/wiki/Data exchange)
+#### 6.7.3.2. [Data provenance](https://github.com/cqlj/2020/wiki/Data provenance)
+#### 6.7.3.3. [Data modeling](https://github.com/cqlj/2020/wiki/Data modeling)
+#### 6.7.3.4. [Database query languages (principles)](https://github.com/cqlj/2020/wiki/Database query languages (principles))
+#### 6.7.3.5. [Database constraints theory](https://github.com/cqlj/2020/wiki/Database constraints theory)
+#### 6.7.3.6. [Database interoperability](https://github.com/cqlj/2020/wiki/Database interoperability)
+#### 6.7.3.7. [Data structures and algorithms for data management](https://github.com/cqlj/2020/wiki/Data structures and algorithms for data management)
+#### 6.7.3.8. [Database query processing and optimization (theory)](https://github.com/cqlj/2020/wiki/Database query processing and optimization (theory))
+#### 6.7.3.9. [Data integration](https://github.com/cqlj/2020/wiki/Data integration)
+#### 6.7.3.10. [Logic and databases](https://github.com/cqlj/2020/wiki/Logic and databases)
+#### 6.7.3.11. [Theory of database privacy and security](https://github.com/cqlj/2020/wiki/Theory of database privacy and security)
+#### 6.7.3.12. [Incomplete, inconsistent, and uncertain databases](https://github.com/cqlj/2020/wiki/Incomplete, inconsistent, and uncertain databases)
+### 6.7.4. [Theory of randomized search heuristics](https://github.com/cqlj/2020/wiki/Theory of randomized search heuristics)
+## 6.8. [Semantics and reasoning](https://github.com/cqlj/2020/wiki/Semantics and reasoning)
+### 6.8.1. [Program constructs](https://github.com/cqlj/2020/wiki/Program constructs)
+#### 6.8.1.1. [Control primitives](https://github.com/cqlj/2020/wiki/Control primitives)
+#### 6.8.1.2. [Functional constructs](https://github.com/cqlj/2020/wiki/Functional constructs)
+#### 6.8.1.3. [Object oriented constructs](https://github.com/cqlj/2020/wiki/Object oriented constructs)
+#### 6.8.1.4. [Program schemes](https://github.com/cqlj/2020/wiki/Program schemes)
+#### 6.8.1.5. [Type structures](https://github.com/cqlj/2020/wiki/Type structures)
+### 6.8.2. [Program semantics](https://github.com/cqlj/2020/wiki/Program semantics)
+#### 6.8.2.1. [Algebraic semantics](https://github.com/cqlj/2020/wiki/Algebraic semantics)
+#### 6.8.2.2. [Denotational semantics](https://github.com/cqlj/2020/wiki/Denotational semantics)
+#### 6.8.2.3. [Operational semantics](https://github.com/cqlj/2020/wiki/Operational semantics)
+#### 6.8.2.4. [Axiomatic semantics](https://github.com/cqlj/2020/wiki/Axiomatic semantics)
+#### 6.8.2.5. [Action semantics](https://github.com/cqlj/2020/wiki/Action semantics)
+#### 6.8.2.6. [Categorical semantics](https://github.com/cqlj/2020/wiki/Categorical semantics)
+### 6.8.3. [Program reasoning](https://github.com/cqlj/2020/wiki/Program reasoning)
+#### 6.8.3.1. [Invariants](https://github.com/cqlj/2020/wiki/Invariants)
+#### 6.8.3.2. [Program specifications](https://github.com/cqlj/2020/wiki/Program specifications)
+#### 6.8.3.3. [Pre- and post-conditions](https://github.com/cqlj/2020/wiki/Pre- and post-conditions)
+#### 6.8.3.4. [Program verification](https://github.com/cqlj/2020/wiki/Program verification)
+#### 6.8.3.5. [Program analysis](https://github.com/cqlj/2020/wiki/Program analysis)
+#### 6.8.3.6. [Assertions](https://github.com/cqlj/2020/wiki/Assertions)
+#### 6.8.3.7. [Parsing](https://github.com/cqlj/2020/wiki/Parsing)
+#### 6.8.3.8. [Abstraction](https://github.com/cqlj/2020/wiki/Abstraction)
+# 7. [Mathematics of computing](https://github.com/cqlj/2020/wiki/Mathematics of computing)
+## 7.1. [Discrete mathematics](https://github.com/cqlj/2020/wiki/Discrete mathematics)
+### 7.1.1. [Combinatorics](https://github.com/cqlj/2020/wiki/Combinatorics)
+#### 7.1.1.1. [Combinatoric problems](https://github.com/cqlj/2020/wiki/Combinatoric problems)
+#### 7.1.1.2. [Permutations and combinations](https://github.com/cqlj/2020/wiki/Permutations and combinations)
+#### 7.1.1.3. [Combinatorial algorithms](https://github.com/cqlj/2020/wiki/Combinatorial algorithms)
+#### 7.1.1.4. [Generating functions](https://github.com/cqlj/2020/wiki/Generating functions)
+#### 7.1.1.5. [Combinatorial optimization](https://github.com/cqlj/2020/wiki/Combinatorial optimization)
+#### 7.1.1.6. [Combinatorics on words](https://github.com/cqlj/2020/wiki/Combinatorics on words)
+#### 7.1.1.7. [Enumeration](https://github.com/cqlj/2020/wiki/Enumeration)
+### 7.1.2. [Graph theory](https://github.com/cqlj/2020/wiki/Graph theory)
+#### 7.1.2.1. [Trees](https://github.com/cqlj/2020/wiki/Trees)
+#### 7.1.2.2. [Hypergraphs](https://github.com/cqlj/2020/wiki/Hypergraphs)
+#### 7.1.2.3. [Random graphs](https://github.com/cqlj/2020/wiki/Random graphs)
+#### 7.1.2.4. [Graph coloring](https://github.com/cqlj/2020/wiki/Graph coloring)
+#### 7.1.2.5. [Paths and connectivity problems](https://github.com/cqlj/2020/wiki/Paths and connectivity problems)
+#### 7.1.2.6. [Graph enumeration](https://github.com/cqlj/2020/wiki/Graph enumeration)
+#### 7.1.2.7. [Matchings and factors](https://github.com/cqlj/2020/wiki/Matchings and factors)
+#### 7.1.2.8. [Graphs and surfaces](https://github.com/cqlj/2020/wiki/Graphs and surfaces)
+#### 7.1.2.9. [Network flows](https://github.com/cqlj/2020/wiki/Network flows)
+#### 7.1.2.10. [Spectra of graphs](https://github.com/cqlj/2020/wiki/Spectra of graphs)
+#### 7.1.2.11. [Extremal graph theory](https://github.com/cqlj/2020/wiki/Extremal graph theory)
+#### 7.1.2.12. [Matroids and greedoids](https://github.com/cqlj/2020/wiki/Matroids and greedoids)
+#### 7.1.2.13. [Graph algorithms](https://github.com/cqlj/2020/wiki/Graph algorithms)
+#### 7.1.2.14. [Approximation algorithms](https://github.com/cqlj/2020/wiki/Approximation algorithms)
+## 7.2. [Probability and statistics](https://github.com/cqlj/2020/wiki/Probability and statistics)
+### 7.2.1. [Probabilistic representations](https://github.com/cqlj/2020/wiki/Probabilistic representations)
+#### 7.2.1.1. [Bayesian networks](https://github.com/cqlj/2020/wiki/Bayesian networks)
+#### 7.2.1.2. [Markov networks](https://github.com/cqlj/2020/wiki/Markov networks)
+#### 7.2.1.3. [Factor graphs](https://github.com/cqlj/2020/wiki/Factor graphs)
+#### 7.2.1.4. [Decision diagrams](https://github.com/cqlj/2020/wiki/Decision diagrams)
+#### 7.2.1.5. [Equational models](https://github.com/cqlj/2020/wiki/Equational models)
+#### 7.2.1.6. [Causal networks](https://github.com/cqlj/2020/wiki/Causal networks)
+#### 7.2.1.7. [Stochastic differential equations](https://github.com/cqlj/2020/wiki/Stochastic differential equations)
+#### 7.2.1.8. [Nonparametric representations](https://github.com/cqlj/2020/wiki/Nonparametric representations)
+##### 7.2.1.8.1. [Kernel density estimators](https://github.com/cqlj/2020/wiki/Kernel density estimators)
+##### 7.2.1.8.2. [Spline models](https://github.com/cqlj/2020/wiki/Spline models)
+##### 7.2.1.8.3. [Bayesian nonparametric models](https://github.com/cqlj/2020/wiki/Bayesian nonparametric models)
+### 7.2.2. [Probabilistic inference problems](https://github.com/cqlj/2020/wiki/Probabilistic inference problems)
+#### 7.2.2.1. [Maximum likelihood estimation](https://github.com/cqlj/2020/wiki/Maximum likelihood estimation)
+#### 7.2.2.2. [Bayesian computation](https://github.com/cqlj/2020/wiki/Bayesian computation)
+#### 7.2.2.3. [Computing most probable explanation](https://github.com/cqlj/2020/wiki/Computing most probable explanation)
+#### 7.2.2.4. [Hypothesis testing and confidence interval computation](https://github.com/cqlj/2020/wiki/Hypothesis testing and confidence interval computation)
+#### 7.2.2.5. [Density estimation](https://github.com/cqlj/2020/wiki/Density estimation)
+##### 7.2.2.5.1. [Quantile regression](https://github.com/cqlj/2020/wiki/Quantile regression)
+#### 7.2.2.6. [Max marginal computation](https://github.com/cqlj/2020/wiki/Max marginal computation)
+### 7.2.3. [Probabilistic reasoning algorithms](https://github.com/cqlj/2020/wiki/Probabilistic reasoning algorithms)
+#### 7.2.3.1. [Variable elimination](https://github.com/cqlj/2020/wiki/Variable elimination)
+#### 7.2.3.2. [Loopy belief propagation](https://github.com/cqlj/2020/wiki/Loopy belief propagation)
+#### 7.2.3.3. [Variational methods](https://github.com/cqlj/2020/wiki/Variational methods)
+#### 7.2.3.4. [Expectation maximization](https://github.com/cqlj/2020/wiki/Expectation maximization)
+#### 7.2.3.5. [Markov-chain Monte Carlo methods](https://github.com/cqlj/2020/wiki/Markov-chain Monte Carlo methods)
+##### 7.2.3.5.1. [Gibbs sampling](https://github.com/cqlj/2020/wiki/Gibbs sampling)
+##### 7.2.3.5.2. [Metropolis-Hastings algorithm](https://github.com/cqlj/2020/wiki/Metropolis-Hastings algorithm)
+##### 7.2.3.5.3. [Simulated annealing](https://github.com/cqlj/2020/wiki/Simulated annealing)
+##### 7.2.3.5.4. [Markov-chain Monte Carlo convergence measures](https://github.com/cqlj/2020/wiki/Markov-chain Monte Carlo convergence measures)
+#### 7.2.3.6. [Sequential Monte Carlo methods](https://github.com/cqlj/2020/wiki/Sequential Monte Carlo methods)
+#### 7.2.3.7. [Kalman filters and hidden Markov models](https://github.com/cqlj/2020/wiki/Kalman filters and hidden Markov models)
+#### 7.2.3.8. [Resampling methods](https://github.com/cqlj/2020/wiki/Resampling methods)
+##### 7.2.3.8.1. [Bootstrapping](https://github.com/cqlj/2020/wiki/Bootstrapping)
+##### 7.2.3.8.2. [Jackknifing](https://github.com/cqlj/2020/wiki/Jackknifing)
+#### 7.2.3.9. [Random number generation](https://github.com/cqlj/2020/wiki/Random number generation)
+### 7.2.4. [Probabilistic algorithms](https://github.com/cqlj/2020/wiki/Probabilistic algorithms)
+### 7.2.5. [Statistical paradigms](https://github.com/cqlj/2020/wiki/Statistical paradigms)
+#### 7.2.5.1. [Queueing theory](https://github.com/cqlj/2020/wiki/Queueing theory)
+#### 7.2.5.2. [Contingency table analysis](https://github.com/cqlj/2020/wiki/Contingency table analysis)
+#### 7.2.5.3. [Regression analysis](https://github.com/cqlj/2020/wiki/Regression analysis)
+##### 7.2.5.3.1. [Robust regression](https://github.com/cqlj/2020/wiki/Robust regression)
+#### 7.2.5.4. [Time series analysis](https://github.com/cqlj/2020/wiki/Time series analysis)
+#### 7.2.5.5. [Survival analysis](https://github.com/cqlj/2020/wiki/Survival analysis)
+#### 7.2.5.6. [Renewal theory](https://github.com/cqlj/2020/wiki/Renewal theory)
+#### 7.2.5.7. [Dimensionality reduction](https://github.com/cqlj/2020/wiki/Dimensionality reduction)
+#### 7.2.5.8. [Cluster analysis](https://github.com/cqlj/2020/wiki/Cluster analysis)
+#### 7.2.5.9. [Statistical graphics](https://github.com/cqlj/2020/wiki/Statistical graphics)
+#### 7.2.5.10. [Exploratory data analysis](https://github.com/cqlj/2020/wiki/Exploratory data analysis)
+### 7.2.6. [Stochastic processes](https://github.com/cqlj/2020/wiki/Stochastic processes)
+#### 7.2.6.1. [Markov processes](https://github.com/cqlj/2020/wiki/Markov processes)
+### 7.2.7. [Nonparametric statistics](https://github.com/cqlj/2020/wiki/Nonparametric statistics)
+### 7.2.8. [Distribution functions](https://github.com/cqlj/2020/wiki/Distribution functions)
+### 7.2.9. [Multivariate statistics](https://github.com/cqlj/2020/wiki/Multivariate statistics)
+## 7.3. [Mathematical software](https://github.com/cqlj/2020/wiki/Mathematical software)
+### 7.3.1. [Solvers](https://github.com/cqlj/2020/wiki/Solvers)
+### 7.3.2. [Statistical software](https://github.com/cqlj/2020/wiki/Statistical software)
+### 7.3.3. [Mathematical software performance](https://github.com/cqlj/2020/wiki/Mathematical software performance)
+## 7.4. [Information theory](https://github.com/cqlj/2020/wiki/Information theory)
+### 7.4.1. [Coding theory](https://github.com/cqlj/2020/wiki/Coding theory)
+## 7.5. [Mathematical analysis](https://github.com/cqlj/2020/wiki/Mathematical analysis)
+### 7.5.1. [Numerical analysis](https://github.com/cqlj/2020/wiki/Numerical analysis)
+#### 7.5.1.1. [Computation of transforms](https://github.com/cqlj/2020/wiki/Computation of transforms)
+#### 7.5.1.2. [Computations in finite fields](https://github.com/cqlj/2020/wiki/Computations in finite fields)
+#### 7.5.1.3. [Computations on matrices](https://github.com/cqlj/2020/wiki/Computations on matrices)
+#### 7.5.1.4. [Computations on polynomials](https://github.com/cqlj/2020/wiki/Computations on polynomials)
+##### 7.5.1.4.1. [Gröbner bases and other special bases](https://github.com/cqlj/2020/wiki/Gröbner bases and other special bases)
+#### 7.5.1.5. [Number-theoretic computations](https://github.com/cqlj/2020/wiki/Number-theoretic computations)
+#### 7.5.1.6. [Interpolation](https://github.com/cqlj/2020/wiki/Interpolation)
+#### 7.5.1.7. [Numerical differentiation](https://github.com/cqlj/2020/wiki/Numerical differentiation)
+#### 7.5.1.8. [Interval arithmetic](https://github.com/cqlj/2020/wiki/Interval arithmetic)
+#### 7.5.1.9. [Arbitrary-precision arithmetic](https://github.com/cqlj/2020/wiki/Arbitrary-precision arithmetic)
+#### 7.5.1.10. [Automatic differentiation](https://github.com/cqlj/2020/wiki/Automatic differentiation)
+#### 7.5.1.11. [Mesh generation](https://github.com/cqlj/2020/wiki/Mesh generation)
+#### 7.5.1.12. [Discretization](https://github.com/cqlj/2020/wiki/Discretization)
+### 7.5.2. [Mathematical optimization](https://github.com/cqlj/2020/wiki/Mathematical optimization)
+#### 7.5.2.1. [Discrete optimization](https://github.com/cqlj/2020/wiki/Discrete optimization)
+##### 7.5.2.1.1. [Network optimization](https://github.com/cqlj/2020/wiki/Network optimization)
+##### 7.5.2.1.2. [Optimization with randomized search heuristics](https://github.com/cqlj/2020/wiki/Optimization with randomized search heuristics)
+###### 7.5.2.1.2.1. [Simulated annealing](https://github.com/cqlj/2020/wiki/Simulated annealing)
+###### 7.5.2.1.2.2. [Evolutionary algorithms](https://github.com/cqlj/2020/wiki/Evolutionary algorithms)
+###### 7.5.2.1.2.3. [Tabu search](https://github.com/cqlj/2020/wiki/Tabu search)
+###### 7.5.2.1.2.4. [Randomized local search](https://github.com/cqlj/2020/wiki/Randomized local search)
+#### 7.5.2.2. [Continuous optimization](https://github.com/cqlj/2020/wiki/Continuous optimization)
+##### 7.5.2.2.1. [Linear programming](https://github.com/cqlj/2020/wiki/Linear programming)
+##### 7.5.2.2.2. [Semidefinite programming](https://github.com/cqlj/2020/wiki/Semidefinite programming)
+##### 7.5.2.2.3. [Convex optimization](https://github.com/cqlj/2020/wiki/Convex optimization)
+##### 7.5.2.2.4. [Quasiconvex programming and unimodality](https://github.com/cqlj/2020/wiki/Quasiconvex programming and unimodality)
+##### 7.5.2.2.5. [Stochastic control and optimization](https://github.com/cqlj/2020/wiki/Stochastic control and optimization)
+##### 7.5.2.2.6. [Quadratic programming](https://github.com/cqlj/2020/wiki/Quadratic programming)
+##### 7.5.2.2.7. [Nonconvex optimization](https://github.com/cqlj/2020/wiki/Nonconvex optimization)
+##### 7.5.2.2.8. [Bio-inspired optimization](https://github.com/cqlj/2020/wiki/Bio-inspired optimization)
+#### 7.5.2.3. [Mixed discrete-continuous optimization](https://github.com/cqlj/2020/wiki/Mixed discrete-continuous optimization)
+##### 7.5.2.3.1. [Submodular optimization and polymatroids](https://github.com/cqlj/2020/wiki/Submodular optimization and polymatroids)
+##### 7.5.2.3.2. [Integer programming](https://github.com/cqlj/2020/wiki/Integer programming)
+##### 7.5.2.3.3. [Bio-inspired optimization](https://github.com/cqlj/2020/wiki/Bio-inspired optimization)
+#### 7.5.2.4. [Non-parametric optimization](https://github.com/cqlj/2020/wiki/Non-parametric optimization)
+##### 7.5.2.4.1. [Genetic programming](https://github.com/cqlj/2020/wiki/Genetic programming)
+##### 7.5.2.4.2. [Developmental representations](https://github.com/cqlj/2020/wiki/Developmental representations)
+### 7.5.3. [Differential equations](https://github.com/cqlj/2020/wiki/Differential equations)
+#### 7.5.3.1. [Ordinary differential equations](https://github.com/cqlj/2020/wiki/Ordinary differential equations)
+#### 7.5.3.2. [Partial differential equations](https://github.com/cqlj/2020/wiki/Partial differential equations)
+#### 7.5.3.3. [Differential algebraic equations](https://github.com/cqlj/2020/wiki/Differential algebraic equations)
+#### 7.5.3.4. [Differential variational inequalities](https://github.com/cqlj/2020/wiki/Differential variational inequalities)
+### 7.5.4. [Calculus](https://github.com/cqlj/2020/wiki/Calculus)
+#### 7.5.4.1. [Lambda calculus](https://github.com/cqlj/2020/wiki/Lambda calculus)
+#### 7.5.4.2. [Differential calculus](https://github.com/cqlj/2020/wiki/Differential calculus)
+#### 7.5.4.3. [Integral calculus](https://github.com/cqlj/2020/wiki/Integral calculus)
+### 7.5.5. [Functional analysis](https://github.com/cqlj/2020/wiki/Functional analysis)
+#### 7.5.5.1. [Approximation](https://github.com/cqlj/2020/wiki/Approximation)
+### 7.5.6. [Integral equations](https://github.com/cqlj/2020/wiki/Integral equations)
+### 7.5.7. [Nonlinear equations](https://github.com/cqlj/2020/wiki/Nonlinear equations)
+### 7.5.8. [Quadrature](https://github.com/cqlj/2020/wiki/Quadrature)
+## 7.6. [Continuous mathematics](https://github.com/cqlj/2020/wiki/Continuous mathematics)
+### 7.6.1. [Calculus](https://github.com/cqlj/2020/wiki/Calculus)
+#### 7.6.1.1. [Lambda calculus](https://github.com/cqlj/2020/wiki/Lambda calculus)
+#### 7.6.1.2. [Differential calculus](https://github.com/cqlj/2020/wiki/Differential calculus)
+#### 7.6.1.3. [Integral calculus](https://github.com/cqlj/2020/wiki/Integral calculus)
+### 7.6.2. [Topology](https://github.com/cqlj/2020/wiki/Topology)
+#### 7.6.2.1. [Point-set topology](https://github.com/cqlj/2020/wiki/Point-set topology)
+#### 7.6.2.2. [Algebraic topology](https://github.com/cqlj/2020/wiki/Algebraic topology)
+#### 7.6.2.3. [Geometric topology](https://github.com/cqlj/2020/wiki/Geometric topology)
+### 7.6.3. [Continuous functions](https://github.com/cqlj/2020/wiki/Continuous functions)
+# 8. [Information systems](https://github.com/cqlj/2020/wiki/Information systems)
+## 8.1. [Data management systems](https://github.com/cqlj/2020/wiki/Data management systems)
+### 8.1.1. [Database design and models](https://github.com/cqlj/2020/wiki/Database design and models)
+#### 8.1.1.1. [Relational database model](https://github.com/cqlj/2020/wiki/Relational database model)
+#### 8.1.1.2. [Entity relationship models](https://github.com/cqlj/2020/wiki/Entity relationship models)
+#### 8.1.1.3. [Graph-based database models](https://github.com/cqlj/2020/wiki/Graph-based database models)
+##### 8.1.1.3.1. [Hierarchical data models](https://github.com/cqlj/2020/wiki/Hierarchical data models)
+##### 8.1.1.3.2. [Network data models](https://github.com/cqlj/2020/wiki/Network data models)
+#### 8.1.1.4. [Physical data models](https://github.com/cqlj/2020/wiki/Physical data models)
+#### 8.1.1.5. [Data model extensions](https://github.com/cqlj/2020/wiki/Data model extensions)
+##### 8.1.1.5.1. [Semi-structured data](https://github.com/cqlj/2020/wiki/Semi-structured data)
+##### 8.1.1.5.2. [Data streams](https://github.com/cqlj/2020/wiki/Data streams)
+##### 8.1.1.5.3. [Data provenance](https://github.com/cqlj/2020/wiki/Data provenance)
+##### 8.1.1.5.4. [Incomplete data](https://github.com/cqlj/2020/wiki/Incomplete data)
+##### 8.1.1.5.5. [Temporal data](https://github.com/cqlj/2020/wiki/Temporal data)
+##### 8.1.1.5.6. [Uncertainty](https://github.com/cqlj/2020/wiki/Uncertainty)
+##### 8.1.1.5.7. [Inconsistent data](https://github.com/cqlj/2020/wiki/Inconsistent data)
+### 8.1.2. [Data structures](https://github.com/cqlj/2020/wiki/Data structures)
+#### 8.1.2.1. [Data access methods](https://github.com/cqlj/2020/wiki/Data access methods)
+##### 8.1.2.1.1. [Multidimensional range search](https://github.com/cqlj/2020/wiki/Multidimensional range search)
+##### 8.1.2.1.2. [Data scans](https://github.com/cqlj/2020/wiki/Data scans)
+##### 8.1.2.1.3. [Point lookups](https://github.com/cqlj/2020/wiki/Point lookups)
+##### 8.1.2.1.4. [Unidimensional range search](https://github.com/cqlj/2020/wiki/Unidimensional range search)
+##### 8.1.2.1.5. [Proximity search](https://github.com/cqlj/2020/wiki/Proximity search)
+#### 8.1.2.2. [Data layout](https://github.com/cqlj/2020/wiki/Data layout)
+##### 8.1.2.2.1. [Data compression](https://github.com/cqlj/2020/wiki/Data compression)
+##### 8.1.2.2.2. [Data encryption](https://github.com/cqlj/2020/wiki/Data encryption)
+##### 8.1.2.2.3. [Record and block layout](https://github.com/cqlj/2020/wiki/Record and block layout)
+### 8.1.3. [Database management system engines](https://github.com/cqlj/2020/wiki/Database management system engines)
+#### 8.1.3.1. [DBMS engine architectures](https://github.com/cqlj/2020/wiki/DBMS engine architectures)
+#### 8.1.3.2. [Database query processing](https://github.com/cqlj/2020/wiki/Database query processing)
+##### 8.1.3.2.1. [Query optimization](https://github.com/cqlj/2020/wiki/Query optimization)
+##### 8.1.3.2.2. [Query operators](https://github.com/cqlj/2020/wiki/Query operators)
+##### 8.1.3.2.3. [Query planning](https://github.com/cqlj/2020/wiki/Query planning)
+##### 8.1.3.2.4. [Join algorithms](https://github.com/cqlj/2020/wiki/Join algorithms)
+#### 8.1.3.3. [Database transaction processing](https://github.com/cqlj/2020/wiki/Database transaction processing)
+##### 8.1.3.3.1. [Data locking](https://github.com/cqlj/2020/wiki/Data locking)
+##### 8.1.3.3.2. [Transaction logging](https://github.com/cqlj/2020/wiki/Transaction logging)
+##### 8.1.3.3.3. [Database recovery](https://github.com/cqlj/2020/wiki/Database recovery)
+#### 8.1.3.4. [Record and buffer management](https://github.com/cqlj/2020/wiki/Record and buffer management)
+#### 8.1.3.5. [Parallel and distributed DBMSs](https://github.com/cqlj/2020/wiki/Parallel and distributed DBMSs)
+##### 8.1.3.5.1. [Key-value stores](https://github.com/cqlj/2020/wiki/Key-value stores)
+##### 8.1.3.5.2. [MapReduce-based systems](https://github.com/cqlj/2020/wiki/MapReduce-based systems)
+##### 8.1.3.5.3. [Relational parallel and distributed DBMSs](https://github.com/cqlj/2020/wiki/Relational parallel and distributed DBMSs)
+#### 8.1.3.6. [Triggers and rules](https://github.com/cqlj/2020/wiki/Triggers and rules)
+#### 8.1.3.7. [Database views](https://github.com/cqlj/2020/wiki/Database views)
+#### 8.1.3.8. [Integrity checking](https://github.com/cqlj/2020/wiki/Integrity checking)
+#### 8.1.3.9. [Distributed database transactions](https://github.com/cqlj/2020/wiki/Distributed database transactions)
+##### 8.1.3.9.1. [Distributed data locking](https://github.com/cqlj/2020/wiki/Distributed data locking)
+##### 8.1.3.9.2. [Deadlocks](https://github.com/cqlj/2020/wiki/Deadlocks)
+##### 8.1.3.9.3. [Distributed database recovery](https://github.com/cqlj/2020/wiki/Distributed database recovery)
+#### 8.1.3.10. [Main memory engines](https://github.com/cqlj/2020/wiki/Main memory engines)
+#### 8.1.3.11. [Online analytical processing engines](https://github.com/cqlj/2020/wiki/Online analytical processing engines)
+#### 8.1.3.12. [Stream management](https://github.com/cqlj/2020/wiki/Stream management)
+### 8.1.4. [Query languages](https://github.com/cqlj/2020/wiki/Query languages)
+#### 8.1.4.1. [Relational database query languages](https://github.com/cqlj/2020/wiki/Relational database query languages)
+##### 8.1.4.1.1. [Structured Query Language](https://github.com/cqlj/2020/wiki/Structured Query Language)
+#### 8.1.4.2. [XML query languages](https://github.com/cqlj/2020/wiki/XML query languages)
+##### 8.1.4.2.1. [XPath](https://github.com/cqlj/2020/wiki/XPath)
+##### 8.1.4.2.2. [XQuery](https://github.com/cqlj/2020/wiki/XQuery)
+#### 8.1.4.3. [Query languages for non-relational engines](https://github.com/cqlj/2020/wiki/Query languages for non-relational engines)
+##### 8.1.4.3.1. [MapReduce languages](https://github.com/cqlj/2020/wiki/MapReduce languages)
+#### 8.1.4.4. [Call level interfaces](https://github.com/cqlj/2020/wiki/Call level interfaces)
+### 8.1.5. [Database administration](https://github.com/cqlj/2020/wiki/Database administration)
+#### 8.1.5.1. [Database utilities and tools](https://github.com/cqlj/2020/wiki/Database utilities and tools)
+#### 8.1.5.2. [Database performance evaluation](https://github.com/cqlj/2020/wiki/Database performance evaluation)
+#### 8.1.5.3. [Autonomous database administration](https://github.com/cqlj/2020/wiki/Autonomous database administration)
+#### 8.1.5.4. [Data dictionaries](https://github.com/cqlj/2020/wiki/Data dictionaries)
+### 8.1.6. [Information integration](https://github.com/cqlj/2020/wiki/Information integration)
+#### 8.1.6.1. [Deduplication](https://github.com/cqlj/2020/wiki/Deduplication)
+#### 8.1.6.2. [Extraction, transformation and loading](https://github.com/cqlj/2020/wiki/Extraction, transformation and loading)
+#### 8.1.6.3. [Data exchange](https://github.com/cqlj/2020/wiki/Data exchange)
+#### 8.1.6.4. [Data cleaning](https://github.com/cqlj/2020/wiki/Data cleaning)
+#### 8.1.6.5. [Wrappers (data mining)](https://github.com/cqlj/2020/wiki/Wrappers (data mining))
+#### 8.1.6.6. [Mediators and data integration](https://github.com/cqlj/2020/wiki/Mediators and data integration)
+#### 8.1.6.7. [Entity resolution](https://github.com/cqlj/2020/wiki/Entity resolution)
+#### 8.1.6.8. [Data warehouses](https://github.com/cqlj/2020/wiki/Data warehouses)
+#### 8.1.6.9. [Federated databases](https://github.com/cqlj/2020/wiki/Federated databases)
+### 8.1.7. [Middleware for databases](https://github.com/cqlj/2020/wiki/Middleware for databases)
+#### 8.1.7.1. [Database web servers](https://github.com/cqlj/2020/wiki/Database web servers)
+#### 8.1.7.2. [Application servers](https://github.com/cqlj/2020/wiki/Application servers)
+#### 8.1.7.3. [Object-relational mapping facilities](https://github.com/cqlj/2020/wiki/Object-relational mapping facilities)
+#### 8.1.7.4. [Data federation tools](https://github.com/cqlj/2020/wiki/Data federation tools)
+#### 8.1.7.5. [Data replication tools](https://github.com/cqlj/2020/wiki/Data replication tools)
+#### 8.1.7.6. [Distributed transaction monitors](https://github.com/cqlj/2020/wiki/Distributed transaction monitors)
+#### 8.1.7.7. [Message queues](https://github.com/cqlj/2020/wiki/Message queues)
+#### 8.1.7.8. [Service buses](https://github.com/cqlj/2020/wiki/Service buses)
+#### 8.1.7.9. [Enterprise application integration tools](https://github.com/cqlj/2020/wiki/Enterprise application integration tools)
+#### 8.1.7.10. [Middleware business process managers](https://github.com/cqlj/2020/wiki/Middleware business process managers)
+## 8.2. [Information storage systems](https://github.com/cqlj/2020/wiki/Information storage systems)
+### 8.2.1. [Information storage technologies](https://github.com/cqlj/2020/wiki/Information storage technologies)
+#### 8.2.1.1. [Magnetic disks](https://github.com/cqlj/2020/wiki/Magnetic disks)
+#### 8.2.1.2. [Magnetic tapes](https://github.com/cqlj/2020/wiki/Magnetic tapes)
+#### 8.2.1.3. [Optical / magneto-optical disks](https://github.com/cqlj/2020/wiki/Optical / magneto-optical disks)
+#### 8.2.1.4. [Storage class memory](https://github.com/cqlj/2020/wiki/Storage class memory)
+##### 8.2.1.4.1. [Flash memory](https://github.com/cqlj/2020/wiki/Flash memory)
+##### 8.2.1.4.2. [Phase change memory](https://github.com/cqlj/2020/wiki/Phase change memory)
+#### 8.2.1.5. [Disk arrays](https://github.com/cqlj/2020/wiki/Disk arrays)
+#### 8.2.1.6. [Tape libraries](https://github.com/cqlj/2020/wiki/Tape libraries)
+### 8.2.2. [Record storage systems](https://github.com/cqlj/2020/wiki/Record storage systems)
+#### 8.2.2.1. [Record storage alternatives](https://github.com/cqlj/2020/wiki/Record storage alternatives)
+##### 8.2.2.1.1. [Heap (data structure)](https://github.com/cqlj/2020/wiki/Heap (data structure))
+##### 8.2.2.1.2. [Hashed file organization](https://github.com/cqlj/2020/wiki/Hashed file organization)
+##### 8.2.2.1.3. [Indexed file organization](https://github.com/cqlj/2020/wiki/Indexed file organization)
+##### 8.2.2.1.4. [Linked lists](https://github.com/cqlj/2020/wiki/Linked lists)
+#### 8.2.2.2. [Directory structures](https://github.com/cqlj/2020/wiki/Directory structures)
+##### 8.2.2.2.1. [B-trees](https://github.com/cqlj/2020/wiki/B-trees)
+##### 8.2.2.2.2. [Vnodes](https://github.com/cqlj/2020/wiki/Vnodes)
+##### 8.2.2.2.3. [Inodes](https://github.com/cqlj/2020/wiki/Inodes)
+##### 8.2.2.2.4. [Extent-based file structures](https://github.com/cqlj/2020/wiki/Extent-based file structures)
+#### 8.2.2.3. [Block / page strategies](https://github.com/cqlj/2020/wiki/Block / page strategies)
+##### 8.2.2.3.1. [Slotted pages](https://github.com/cqlj/2020/wiki/Slotted pages)
+##### 8.2.2.3.2. [Intrapage space management](https://github.com/cqlj/2020/wiki/Intrapage space management)
+##### 8.2.2.3.3. [Interpage free-space management](https://github.com/cqlj/2020/wiki/Interpage free-space management)
+#### 8.2.2.4. [Record layout alternatives](https://github.com/cqlj/2020/wiki/Record layout alternatives)
+##### 8.2.2.4.1. [Fixed length attributes](https://github.com/cqlj/2020/wiki/Fixed length attributes)
+##### 8.2.2.4.2. [Variable length attributes](https://github.com/cqlj/2020/wiki/Variable length attributes)
+##### 8.2.2.4.3. [Null values in records](https://github.com/cqlj/2020/wiki/Null values in records)
+#### 8.2.2.5. [Relational storage](https://github.com/cqlj/2020/wiki/Relational storage)
+##### 8.2.2.5.1. [Horizontal partitioning](https://github.com/cqlj/2020/wiki/Horizontal partitioning)
+##### 8.2.2.5.2. [Vertical partitioning](https://github.com/cqlj/2020/wiki/Vertical partitioning)
+##### 8.2.2.5.3. [Column based storage](https://github.com/cqlj/2020/wiki/Column based storage)
+##### 8.2.2.5.4. [Hybrid storage layouts](https://github.com/cqlj/2020/wiki/Hybrid storage layouts)
+##### 8.2.2.5.5. [Compression strategies](https://github.com/cqlj/2020/wiki/Compression strategies)
+### 8.2.3. [Storage replication](https://github.com/cqlj/2020/wiki/Storage replication)
+#### 8.2.3.1. [Mirroring](https://github.com/cqlj/2020/wiki/Mirroring)
+#### 8.2.3.2. [RAID](https://github.com/cqlj/2020/wiki/RAID)
+#### 8.2.3.3. [Point-in-time copies](https://github.com/cqlj/2020/wiki/Point-in-time copies)
+#### 8.2.3.4. [Remote replication](https://github.com/cqlj/2020/wiki/Remote replication)
+#### 8.2.3.5. [Storage recovery strategies](https://github.com/cqlj/2020/wiki/Storage recovery strategies)
+### 8.2.4. [Storage architectures](https://github.com/cqlj/2020/wiki/Storage architectures)
+#### 8.2.4.1. [Cloud based storage](https://github.com/cqlj/2020/wiki/Cloud based storage)
+#### 8.2.4.2. [Storage network architectures](https://github.com/cqlj/2020/wiki/Storage network architectures)
+##### 8.2.4.2.1. [Storage area networks](https://github.com/cqlj/2020/wiki/Storage area networks)
+##### 8.2.4.2.2. [Direct attached storage](https://github.com/cqlj/2020/wiki/Direct attached storage)
+##### 8.2.4.2.3. [Network attached storage](https://github.com/cqlj/2020/wiki/Network attached storage)
+#### 8.2.4.3. [Distributed storage](https://github.com/cqlj/2020/wiki/Distributed storage)
+### 8.2.5. [Storage management](https://github.com/cqlj/2020/wiki/Storage management)
+#### 8.2.5.1. [Hierarchical storage management](https://github.com/cqlj/2020/wiki/Hierarchical storage management)
+#### 8.2.5.2. [Storage virtualization](https://github.com/cqlj/2020/wiki/Storage virtualization)
+#### 8.2.5.3. [Information lifecycle management](https://github.com/cqlj/2020/wiki/Information lifecycle management)
+#### 8.2.5.4. [Version management](https://github.com/cqlj/2020/wiki/Version management)
+#### 8.2.5.5. [Storage power management](https://github.com/cqlj/2020/wiki/Storage power management)
+#### 8.2.5.6. [Thin provisioning](https://github.com/cqlj/2020/wiki/Thin provisioning)
+## 8.3. [Information systems applications](https://github.com/cqlj/2020/wiki/Information systems applications)
+### 8.3.1. [Enterprise information systems](https://github.com/cqlj/2020/wiki/Enterprise information systems)
+#### 8.3.1.1. [Intranets](https://github.com/cqlj/2020/wiki/Intranets)
+#### 8.3.1.2. [Extranets](https://github.com/cqlj/2020/wiki/Extranets)
+#### 8.3.1.3. [Enterprise resource planning](https://github.com/cqlj/2020/wiki/Enterprise resource planning)
+#### 8.3.1.4. [Enterprise applications](https://github.com/cqlj/2020/wiki/Enterprise applications)
+#### 8.3.1.5. [Data centers](https://github.com/cqlj/2020/wiki/Data centers)
+### 8.3.2. [Collaborative and social computing systems and tools](https://github.com/cqlj/2020/wiki/Collaborative and social computing systems and tools)
+#### 8.3.2.1. [Blogs](https://github.com/cqlj/2020/wiki/Blogs)
+#### 8.3.2.2. [Wikis](https://github.com/cqlj/2020/wiki/Wikis)
+#### 8.3.2.3. [Reputation systems](https://github.com/cqlj/2020/wiki/Reputation systems)
+#### 8.3.2.4. [Open source software](https://github.com/cqlj/2020/wiki/Open source software)
+#### 8.3.2.5. [Social networking sites](https://github.com/cqlj/2020/wiki/Social networking sites)
+#### 8.3.2.6. [Social tagging systems](https://github.com/cqlj/2020/wiki/Social tagging systems)
+#### 8.3.2.7. [Synchronous editors](https://github.com/cqlj/2020/wiki/Synchronous editors)
+#### 8.3.2.8. [Asynchronous editors](https://github.com/cqlj/2020/wiki/Asynchronous editors)
+### 8.3.3. [Spatial-temporal systems](https://github.com/cqlj/2020/wiki/Spatial-temporal systems)
+#### 8.3.3.1. [Location based services](https://github.com/cqlj/2020/wiki/Location based services)
+#### 8.3.3.2. [Geographic information systems](https://github.com/cqlj/2020/wiki/Geographic information systems)
+#### 8.3.3.3. [Sensor networks](https://github.com/cqlj/2020/wiki/Sensor networks)
+#### 8.3.3.4. [Data streaming](https://github.com/cqlj/2020/wiki/Data streaming)
+#### 8.3.3.5. [Global positioning systems](https://github.com/cqlj/2020/wiki/Global positioning systems)
+### 8.3.4. [Decision support systems](https://github.com/cqlj/2020/wiki/Decision support systems)
+#### 8.3.4.1. [Data warehouses](https://github.com/cqlj/2020/wiki/Data warehouses)
+#### 8.3.4.2. [Expert systems](https://github.com/cqlj/2020/wiki/Expert systems)
+#### 8.3.4.3. [Data analytics](https://github.com/cqlj/2020/wiki/Data analytics)
+#### 8.3.4.4. [Online analytical processing](https://github.com/cqlj/2020/wiki/Online analytical processing)
+### 8.3.5. [Mobile information processing systems](https://github.com/cqlj/2020/wiki/Mobile information processing systems)
+### 8.3.6. [Process control systems](https://github.com/cqlj/2020/wiki/Process control systems)
+### 8.3.7. [Multimedia information systems](https://github.com/cqlj/2020/wiki/Multimedia information systems)
+#### 8.3.7.1. [Multimedia databases](https://github.com/cqlj/2020/wiki/Multimedia databases)
+#### 8.3.7.2. [Multimedia streaming](https://github.com/cqlj/2020/wiki/Multimedia streaming)
+#### 8.3.7.3. [Multimedia content creation](https://github.com/cqlj/2020/wiki/Multimedia content creation)
+#### 8.3.7.4. [Massively multiplayer online games](https://github.com/cqlj/2020/wiki/Massively multiplayer online games)
+### 8.3.8. [Data mining](https://github.com/cqlj/2020/wiki/Data mining)
+#### 8.3.8.1. [Data cleaning](https://github.com/cqlj/2020/wiki/Data cleaning)
+#### 8.3.8.2. [Collaborative filtering](https://github.com/cqlj/2020/wiki/Collaborative filtering)
+#### 8.3.8.3. [Association rules](https://github.com/cqlj/2020/wiki/Association rules)
+#### 8.3.8.4. [Clustering](https://github.com/cqlj/2020/wiki/Clustering)
+#### 8.3.8.5. [Nearest-neighbor search](https://github.com/cqlj/2020/wiki/Nearest-neighbor search)
+#### 8.3.8.6. [Data stream mining](https://github.com/cqlj/2020/wiki/Data stream mining)
+### 8.3.9. [Digital libraries and archives](https://github.com/cqlj/2020/wiki/Digital libraries and archives)
+### 8.3.10. [Computational advertising](https://github.com/cqlj/2020/wiki/Computational advertising)
+### 8.3.11. [Computing platforms](https://github.com/cqlj/2020/wiki/Computing platforms)
+## 8.4. [World Wide Web](https://github.com/cqlj/2020/wiki/World Wide Web)
+### 8.4.1. [Web searching and information discovery](https://github.com/cqlj/2020/wiki/Web searching and information discovery)
+#### 8.4.1.1. [Web search engines](https://github.com/cqlj/2020/wiki/Web search engines)
+##### 8.4.1.1.1. [Web crawling](https://github.com/cqlj/2020/wiki/Web crawling)
+##### 8.4.1.1.2. [Web indexing](https://github.com/cqlj/2020/wiki/Web indexing)
+##### 8.4.1.1.3. [Page and site ranking](https://github.com/cqlj/2020/wiki/Page and site ranking)
+##### 8.4.1.1.4. [Spam detection](https://github.com/cqlj/2020/wiki/Spam detection)
+#### 8.4.1.2. [Content ranking](https://github.com/cqlj/2020/wiki/Content ranking)
+#### 8.4.1.3. [Collaborative filtering](https://github.com/cqlj/2020/wiki/Collaborative filtering)
+#### 8.4.1.4. [Social recommendation](https://github.com/cqlj/2020/wiki/Social recommendation)
+#### 8.4.1.5. [Personalization](https://github.com/cqlj/2020/wiki/Personalization)
+#### 8.4.1.6. [Social tagging](https://github.com/cqlj/2020/wiki/Social tagging)
+### 8.4.2. [Online advertising](https://github.com/cqlj/2020/wiki/Online advertising)
+#### 8.4.2.1. [Sponsored search advertising](https://github.com/cqlj/2020/wiki/Sponsored search advertising)
+#### 8.4.2.2. [Content match advertising](https://github.com/cqlj/2020/wiki/Content match advertising)
+#### 8.4.2.3. [Display advertising](https://github.com/cqlj/2020/wiki/Display advertising)
+#### 8.4.2.4. [Social advertising](https://github.com/cqlj/2020/wiki/Social advertising)
+### 8.4.3. [Web mining](https://github.com/cqlj/2020/wiki/Web mining)
+#### 8.4.3.1. [Site wrapping](https://github.com/cqlj/2020/wiki/Site wrapping)
+#### 8.4.3.2. [Data extraction and integration](https://github.com/cqlj/2020/wiki/Data extraction and integration)
+##### 8.4.3.2.1. [Deep web](https://github.com/cqlj/2020/wiki/Deep web)
+##### 8.4.3.2.2. [Surfacing](https://github.com/cqlj/2020/wiki/Surfacing)
+##### 8.4.3.2.3. [Search results deduplication](https://github.com/cqlj/2020/wiki/Search results deduplication)
+#### 8.4.3.3. [Web log analysis](https://github.com/cqlj/2020/wiki/Web log analysis)
+#### 8.4.3.4. [Traffic analysis](https://github.com/cqlj/2020/wiki/Traffic analysis)
+### 8.4.4. [Web applications](https://github.com/cqlj/2020/wiki/Web applications)
+#### 8.4.4.1. [Internet communications tools](https://github.com/cqlj/2020/wiki/Internet communications tools)
+##### 8.4.4.1.1. [Email](https://github.com/cqlj/2020/wiki/Email)
+##### 8.4.4.1.2. [Blogs](https://github.com/cqlj/2020/wiki/Blogs)
+##### 8.4.4.1.3. [Texting](https://github.com/cqlj/2020/wiki/Texting)
+##### 8.4.4.1.4. [Chat](https://github.com/cqlj/2020/wiki/Chat)
+##### 8.4.4.1.5. [Web conferencing](https://github.com/cqlj/2020/wiki/Web conferencing)
+#### 8.4.4.2. [Social networks](https://github.com/cqlj/2020/wiki/Social networks)
+#### 8.4.4.3. [Crowdsourcing](https://github.com/cqlj/2020/wiki/Crowdsourcing)
+##### 8.4.4.3.1. [Answer ranking](https://github.com/cqlj/2020/wiki/Answer ranking)
+##### 8.4.4.3.2. [Trust](https://github.com/cqlj/2020/wiki/Trust)
+##### 8.4.4.3.3. [Incentive schemes](https://github.com/cqlj/2020/wiki/Incentive schemes)
+##### 8.4.4.3.4. [Reputation systems](https://github.com/cqlj/2020/wiki/Reputation systems)
+#### 8.4.4.4. [Electronic commerce](https://github.com/cqlj/2020/wiki/Electronic commerce)
+##### 8.4.4.4.1. [Digital cash](https://github.com/cqlj/2020/wiki/Digital cash)
+##### 8.4.4.4.2. [E-commerce infrastructure](https://github.com/cqlj/2020/wiki/E-commerce infrastructure)
+##### 8.4.4.4.3. [Electronic data interchange](https://github.com/cqlj/2020/wiki/Electronic data interchange)
+##### 8.4.4.4.4. [Electronic funds transfer](https://github.com/cqlj/2020/wiki/Electronic funds transfer)
+##### 8.4.4.4.5. [Online shopping](https://github.com/cqlj/2020/wiki/Online shopping)
+##### 8.4.4.4.6. [Online banking](https://github.com/cqlj/2020/wiki/Online banking)
+##### 8.4.4.4.7. [Secure online transactions](https://github.com/cqlj/2020/wiki/Secure online transactions)
+##### 8.4.4.4.8. [Online auctions](https://github.com/cqlj/2020/wiki/Online auctions)
+### 8.4.5. [Web interfaces](https://github.com/cqlj/2020/wiki/Web interfaces)
+#### 8.4.5.1. [Wikis](https://github.com/cqlj/2020/wiki/Wikis)
+#### 8.4.5.2. [Browsers](https://github.com/cqlj/2020/wiki/Browsers)
+#### 8.4.5.3. [Mashups](https://github.com/cqlj/2020/wiki/Mashups)
+### 8.4.6. [Web services](https://github.com/cqlj/2020/wiki/Web services)
+#### 8.4.6.1. [Simple Object Access Protocol (SOAP)](https://github.com/cqlj/2020/wiki/Simple Object Access Protocol (SOAP))
+#### 8.4.6.2. [RESTful web services](https://github.com/cqlj/2020/wiki/RESTful web services)
+#### 8.4.6.3. [Web Services Description Language (WSDL)](https://github.com/cqlj/2020/wiki/Web Services Description Language (WSDL))
+#### 8.4.6.4. [Universal Description Discovery and Integration (UDDI)](https://github.com/cqlj/2020/wiki/Universal Description Discovery and Integration (UDDI))
+#### 8.4.6.5. [Service discovery and interfaces](https://github.com/cqlj/2020/wiki/Service discovery and interfaces)
+### 8.4.7. [Web data description languages](https://github.com/cqlj/2020/wiki/Web data description languages)
+#### 8.4.7.1. [Semantic web description languages](https://github.com/cqlj/2020/wiki/Semantic web description languages)
+##### 8.4.7.1.1. [Resource Description Framework (RDF)](https://github.com/cqlj/2020/wiki/Resource Description Framework (RDF))
+##### 8.4.7.1.2. [Web Ontology Language (OWL)](https://github.com/cqlj/2020/wiki/Web Ontology Language (OWL))
+#### 8.4.7.2. [Markup languages](https://github.com/cqlj/2020/wiki/Markup languages)
+##### 8.4.7.2.1. [Extensible Markup Language (XML)](https://github.com/cqlj/2020/wiki/Extensible Markup Language (XML))
+##### 8.4.7.2.2. [Hypertext languages](https://github.com/cqlj/2020/wiki/Hypertext languages)
+## 8.5. [Information retrieval](https://github.com/cqlj/2020/wiki/Information retrieval)
+### 8.5.1. [Document representation](https://github.com/cqlj/2020/wiki/Document representation)
+#### 8.5.1.1. [Document structure](https://github.com/cqlj/2020/wiki/Document structure)
+#### 8.5.1.2. [Document topic models](https://github.com/cqlj/2020/wiki/Document topic models)
+#### 8.5.1.3. [Content analysis and feature selection](https://github.com/cqlj/2020/wiki/Content analysis and feature selection)
+#### 8.5.1.4. [Data encoding and canonicalization](https://github.com/cqlj/2020/wiki/Data encoding and canonicalization)
+#### 8.5.1.5. [Document collection models](https://github.com/cqlj/2020/wiki/Document collection models)
+#### 8.5.1.6. [Ontologies](https://github.com/cqlj/2020/wiki/Ontologies)
+#### 8.5.1.7. [Dictionaries](https://github.com/cqlj/2020/wiki/Dictionaries)
+#### 8.5.1.8. [Thesauri](https://github.com/cqlj/2020/wiki/Thesauri)
+### 8.5.2. [Information retrieval query processing](https://github.com/cqlj/2020/wiki/Information retrieval query processing)
+#### 8.5.2.1. [Query representation](https://github.com/cqlj/2020/wiki/Query representation)
+#### 8.5.2.2. [Query intent](https://github.com/cqlj/2020/wiki/Query intent)
+#### 8.5.2.3. [Query log analysis](https://github.com/cqlj/2020/wiki/Query log analysis)
+#### 8.5.2.4. [Query suggestion](https://github.com/cqlj/2020/wiki/Query suggestion)
+#### 8.5.2.5. [Query reformulation](https://github.com/cqlj/2020/wiki/Query reformulation)
+### 8.5.3. [Users and interactive retrieval](https://github.com/cqlj/2020/wiki/Users and interactive retrieval)
+#### 8.5.3.1. [Personalization](https://github.com/cqlj/2020/wiki/Personalization)
+#### 8.5.3.2. [Task models](https://github.com/cqlj/2020/wiki/Task models)
+#### 8.5.3.3. [Search interfaces](https://github.com/cqlj/2020/wiki/Search interfaces)
+#### 8.5.3.4. [Collaborative search](https://github.com/cqlj/2020/wiki/Collaborative search)
+### 8.5.4. [Retrieval models and ranking](https://github.com/cqlj/2020/wiki/Retrieval models and ranking)
+#### 8.5.4.1. [Rank aggregation](https://github.com/cqlj/2020/wiki/Rank aggregation)
+#### 8.5.4.2. [Probabilistic retrieval models](https://github.com/cqlj/2020/wiki/Probabilistic retrieval models)
+#### 8.5.4.3. [Language models](https://github.com/cqlj/2020/wiki/Language models)
+#### 8.5.4.4. [Similarity measures](https://github.com/cqlj/2020/wiki/Similarity measures)
+#### 8.5.4.5. [Learning to rank](https://github.com/cqlj/2020/wiki/Learning to rank)
+#### 8.5.4.6. [Combination, fusion and federated search](https://github.com/cqlj/2020/wiki/Combination, fusion and federated search)
+#### 8.5.4.7. [Information retrieval diversity](https://github.com/cqlj/2020/wiki/Information retrieval diversity)
+#### 8.5.4.8. [Top-k retrieval in databases](https://github.com/cqlj/2020/wiki/Top-k retrieval in databases)
+#### 8.5.4.9. [Novelty in information retrieval](https://github.com/cqlj/2020/wiki/Novelty in information retrieval)
+### 8.5.5. [Retrieval tasks and goals](https://github.com/cqlj/2020/wiki/Retrieval tasks and goals)
+#### 8.5.5.1. [Question answering](https://github.com/cqlj/2020/wiki/Question answering)
+#### 8.5.5.2. [Document filtering](https://github.com/cqlj/2020/wiki/Document filtering)
+#### 8.5.5.3. [Recommender systems](https://github.com/cqlj/2020/wiki/Recommender systems)
+#### 8.5.5.4. [Information extraction](https://github.com/cqlj/2020/wiki/Information extraction)
+#### 8.5.5.5. [Sentiment analysis](https://github.com/cqlj/2020/wiki/Sentiment analysis)
+#### 8.5.5.6. [Expert search](https://github.com/cqlj/2020/wiki/Expert search)
+#### 8.5.5.7. [Near-duplicate and plagiarism detection](https://github.com/cqlj/2020/wiki/Near-duplicate and plagiarism detection)
+#### 8.5.5.8. [Clustering and classification](https://github.com/cqlj/2020/wiki/Clustering and classification)
+#### 8.5.5.9. [Summarization](https://github.com/cqlj/2020/wiki/Summarization)
+#### 8.5.5.10. [Business intelligence](https://github.com/cqlj/2020/wiki/Business intelligence)
+### 8.5.6. [Evaluation of retrieval results](https://github.com/cqlj/2020/wiki/Evaluation of retrieval results)
+#### 8.5.6.1. [Test collections](https://github.com/cqlj/2020/wiki/Test collections)
+#### 8.5.6.2. [Relevance assessment](https://github.com/cqlj/2020/wiki/Relevance assessment)
+#### 8.5.6.3. [Retrieval effectiveness](https://github.com/cqlj/2020/wiki/Retrieval effectiveness)
+#### 8.5.6.4. [Retrieval efficiency](https://github.com/cqlj/2020/wiki/Retrieval efficiency)
+#### 8.5.6.5. [Presentation of retrieval results](https://github.com/cqlj/2020/wiki/Presentation of retrieval results)
+### 8.5.7. [Search engine architectures and scalability](https://github.com/cqlj/2020/wiki/Search engine architectures and scalability)
+#### 8.5.7.1. [Search engine indexing](https://github.com/cqlj/2020/wiki/Search engine indexing)
+#### 8.5.7.2. [Search index compression](https://github.com/cqlj/2020/wiki/Search index compression)
+#### 8.5.7.3. [Distributed retrieval](https://github.com/cqlj/2020/wiki/Distributed retrieval)
+#### 8.5.7.4. [Peer-to-peer retrieval](https://github.com/cqlj/2020/wiki/Peer-to-peer retrieval)
+#### 8.5.7.5. [Retrieval on mobile devices](https://github.com/cqlj/2020/wiki/Retrieval on mobile devices)
+#### 8.5.7.6. [Adversarial retrieval](https://github.com/cqlj/2020/wiki/Adversarial retrieval)
+#### 8.5.7.7. [Link and co-citation analysis](https://github.com/cqlj/2020/wiki/Link and co-citation analysis)
+#### 8.5.7.8. [Searching with auxiliary databases](https://github.com/cqlj/2020/wiki/Searching with auxiliary databases)
+### 8.5.8. [Specialized information retrieval](https://github.com/cqlj/2020/wiki/Specialized information retrieval)
+#### 8.5.8.1. [Structure and multilingual text search](https://github.com/cqlj/2020/wiki/Structure and multilingual text search)
+##### 8.5.8.1.1. [Structured text search](https://github.com/cqlj/2020/wiki/Structured text search)
+##### 8.5.8.1.2. [Mathematics retrieval](https://github.com/cqlj/2020/wiki/Mathematics retrieval)
+##### 8.5.8.1.3. [Chemical and biochemical retrieval](https://github.com/cqlj/2020/wiki/Chemical and biochemical retrieval)
+##### 8.5.8.1.4. [Multilingual and cross-lingual retrieval](https://github.com/cqlj/2020/wiki/Multilingual and cross-lingual retrieval)
+#### 8.5.8.2. [Multimedia and multimodal retrieval](https://github.com/cqlj/2020/wiki/Multimedia and multimodal retrieval)
+##### 8.5.8.2.1. [Image search](https://github.com/cqlj/2020/wiki/Image search)
+##### 8.5.8.2.2. [Video search](https://github.com/cqlj/2020/wiki/Video search)
+##### 8.5.8.2.3. [Speech / audio search](https://github.com/cqlj/2020/wiki/Speech / audio search)
+##### 8.5.8.2.4. [Music retrieval](https://github.com/cqlj/2020/wiki/Music retrieval)
+#### 8.5.8.3. [Environment-specific retrieval](https://github.com/cqlj/2020/wiki/Environment-specific retrieval)
+##### 8.5.8.3.1. [Enterprise search](https://github.com/cqlj/2020/wiki/Enterprise search)
+##### 8.5.8.3.2. [Desktop search](https://github.com/cqlj/2020/wiki/Desktop search)
+##### 8.5.8.3.3. [Web and social media search](https://github.com/cqlj/2020/wiki/Web and social media search)
+# 9. [Security and privacy](https://github.com/cqlj/2020/wiki/Security and privacy)
+## 9.1. [Cryptography](https://github.com/cqlj/2020/wiki/Cryptography)
+### 9.1.1. [Key management](https://github.com/cqlj/2020/wiki/Key management)
+### 9.1.2. [Public key (asymmetric) techniques](https://github.com/cqlj/2020/wiki/Public key (asymmetric) techniques)
+#### 9.1.2.1. [Digital signatures](https://github.com/cqlj/2020/wiki/Digital signatures)
+#### 9.1.2.2. [Public key encryption](https://github.com/cqlj/2020/wiki/Public key encryption)
+### 9.1.3. [Symmetric cryptography and hash functions](https://github.com/cqlj/2020/wiki/Symmetric cryptography and hash functions)
+#### 9.1.3.1. [Block and stream ciphers](https://github.com/cqlj/2020/wiki/Block and stream ciphers)
+#### 9.1.3.2. [Hash functions and message authentication codes](https://github.com/cqlj/2020/wiki/Hash functions and message authentication codes)
+### 9.1.4. [Cryptanalysis and other attacks](https://github.com/cqlj/2020/wiki/Cryptanalysis and other attacks)
+### 9.1.5. [Information-theoretic techniques](https://github.com/cqlj/2020/wiki/Information-theoretic techniques)
+### 9.1.6. [Mathematical foundations of cryptography](https://github.com/cqlj/2020/wiki/Mathematical foundations of cryptography)
+## 9.2. [Formal methods and theory of security](https://github.com/cqlj/2020/wiki/Formal methods and theory of security)
+### 9.2.1. [Trust frameworks](https://github.com/cqlj/2020/wiki/Trust frameworks)
+### 9.2.2. [Security requirements](https://github.com/cqlj/2020/wiki/Security requirements)
+### 9.2.3. [Formal security models](https://github.com/cqlj/2020/wiki/Formal security models)
+### 9.2.4. [Logic and verification](https://github.com/cqlj/2020/wiki/Logic and verification)
+## 9.3. [Security services](https://github.com/cqlj/2020/wiki/Security services)
+### 9.3.1. [Authentication](https://github.com/cqlj/2020/wiki/Authentication)
+#### 9.3.1.1. [Biometrics](https://github.com/cqlj/2020/wiki/Biometrics)
+#### 9.3.1.2. [Graphical / visual passwords](https://github.com/cqlj/2020/wiki/Graphical / visual passwords)
+#### 9.3.1.3. [Multi-factor authentication](https://github.com/cqlj/2020/wiki/Multi-factor authentication)
+### 9.3.2. [Access control](https://github.com/cqlj/2020/wiki/Access control)
+### 9.3.3. [Pseudonymity, anonymity and untraceability](https://github.com/cqlj/2020/wiki/Pseudonymity, anonymity and untraceability)
+### 9.3.4. [Privacy-preserving protocols](https://github.com/cqlj/2020/wiki/Privacy-preserving protocols)
+### 9.3.5. [Digital rights management](https://github.com/cqlj/2020/wiki/Digital rights management)
+### 9.3.6. [Authorization](https://github.com/cqlj/2020/wiki/Authorization)
+## 9.4. [Intrusion/anomaly detection and malware mitigation](https://github.com/cqlj/2020/wiki/Intrusion/anomaly detection and malware mitigation)
+### 9.4.1. [Malware and its mitigation](https://github.com/cqlj/2020/wiki/Malware and its mitigation)
+### 9.4.2. [Intrusion detection systems](https://github.com/cqlj/2020/wiki/Intrusion detection systems)
+#### 9.4.2.1. [Artificial immune systems](https://github.com/cqlj/2020/wiki/Artificial immune systems)
+### 9.4.3. [Social engineering attacks](https://github.com/cqlj/2020/wiki/Social engineering attacks)
+#### 9.4.3.1. [Spoofing attacks](https://github.com/cqlj/2020/wiki/Spoofing attacks)
+#### 9.4.3.2. [Phishing](https://github.com/cqlj/2020/wiki/Phishing)
+## 9.5. [Security in hardware](https://github.com/cqlj/2020/wiki/Security in hardware)
+### 9.5.1. [Tamper-proof and tamper-resistant designs](https://github.com/cqlj/2020/wiki/Tamper-proof and tamper-resistant designs)
+### 9.5.2. [Embedded systems security](https://github.com/cqlj/2020/wiki/Embedded systems security)
+### 9.5.3. [Hardware security implementation](https://github.com/cqlj/2020/wiki/Hardware security implementation)
+#### 9.5.3.1. [Hardware-based security protocols](https://github.com/cqlj/2020/wiki/Hardware-based security protocols)
+### 9.5.4. [Hardware attacks and countermeasures](https://github.com/cqlj/2020/wiki/Hardware attacks and countermeasures)
+#### 9.5.4.1. [Malicious design modifications](https://github.com/cqlj/2020/wiki/Malicious design modifications)
+#### 9.5.4.2. [Side-channel analysis and countermeasures](https://github.com/cqlj/2020/wiki/Side-channel analysis and countermeasures)
+### 9.5.5. [Hardware reverse engineering](https://github.com/cqlj/2020/wiki/Hardware reverse engineering)
+## 9.6. [Systems security](https://github.com/cqlj/2020/wiki/Systems security)
+### 9.6.1. [Operating systems security](https://github.com/cqlj/2020/wiki/Operating systems security)
+#### 9.6.1.1. [Mobile platform security](https://github.com/cqlj/2020/wiki/Mobile platform security)
+#### 9.6.1.2. [Trusted computing](https://github.com/cqlj/2020/wiki/Trusted computing)
+#### 9.6.1.3. [Virtualization and security](https://github.com/cqlj/2020/wiki/Virtualization and security)
+### 9.6.2. [Browser security](https://github.com/cqlj/2020/wiki/Browser security)
+### 9.6.3. [Distributed systems security](https://github.com/cqlj/2020/wiki/Distributed systems security)
+### 9.6.4. [Information flow control](https://github.com/cqlj/2020/wiki/Information flow control)
+### 9.6.5. [Denial-of-service attacks](https://github.com/cqlj/2020/wiki/Denial-of-service attacks)
+### 9.6.6. [Firewalls](https://github.com/cqlj/2020/wiki/Firewalls)
+### 9.6.7. [Vulnerability management](https://github.com/cqlj/2020/wiki/Vulnerability management)
+#### 9.6.7.1. [Penetration testing](https://github.com/cqlj/2020/wiki/Penetration testing)
+#### 9.6.7.2. [Vulnerability scanners](https://github.com/cqlj/2020/wiki/Vulnerability scanners)
+### 9.6.8. [File system security](https://github.com/cqlj/2020/wiki/File system security)
+## 9.7. [Network security](https://github.com/cqlj/2020/wiki/Network security)
+### 9.7.1. [Security protocols](https://github.com/cqlj/2020/wiki/Security protocols)
+### 9.7.2. [Web protocol security](https://github.com/cqlj/2020/wiki/Web protocol security)
+### 9.7.3. [Mobile and wireless security](https://github.com/cqlj/2020/wiki/Mobile and wireless security)
+### 9.7.4. [Denial-of-service attacks](https://github.com/cqlj/2020/wiki/Denial-of-service attacks)
+### 9.7.5. [Firewalls](https://github.com/cqlj/2020/wiki/Firewalls)
+## 9.8. [Database and storage security](https://github.com/cqlj/2020/wiki/Database and storage security)
+### 9.8.1. [Data anonymization and sanitization](https://github.com/cqlj/2020/wiki/Data anonymization and sanitization)
+### 9.8.2. [Management and querying of encrypted data](https://github.com/cqlj/2020/wiki/Management and querying of encrypted data)
+### 9.8.3. [Information accountability and usage control](https://github.com/cqlj/2020/wiki/Information accountability and usage control)
+### 9.8.4. [Database activity monitoring](https://github.com/cqlj/2020/wiki/Database activity monitoring)
+## 9.9. [Software and application security](https://github.com/cqlj/2020/wiki/Software and application security)
+### 9.9.1. [Software security engineering](https://github.com/cqlj/2020/wiki/Software security engineering)
+### 9.9.2. [Web application security](https://github.com/cqlj/2020/wiki/Web application security)
+### 9.9.3. [Social network security and privacy](https://github.com/cqlj/2020/wiki/Social network security and privacy)
+### 9.9.4. [Domain-specific security and privacy architectures](https://github.com/cqlj/2020/wiki/Domain-specific security and privacy architectures)
+### 9.9.5. [Software reverse engineering](https://github.com/cqlj/2020/wiki/Software reverse engineering)
+## 9.10. [Human and societal aspects of security and privacy](https://github.com/cqlj/2020/wiki/Human and societal aspects of security and privacy)
+### 9.10.1. [Economics of security and privacy](https://github.com/cqlj/2020/wiki/Economics of security and privacy)
+### 9.10.2. [Social aspects of security and privacy](https://github.com/cqlj/2020/wiki/Social aspects of security and privacy)
+### 9.10.3. [Privacy protections](https://github.com/cqlj/2020/wiki/Privacy protections)
+### 9.10.4. [Usability in security and privacy](https://github.com/cqlj/2020/wiki/Usability in security and privacy)
+# 10. [Human-centered computing](https://github.com/cqlj/2020/wiki/Human-centered computing)
+## 10.1. [Human computer interaction (HCI)](https://github.com/cqlj/2020/wiki/Human computer interaction (HCI))
+### 10.1.1. [HCI design and evaluation methods](https://github.com/cqlj/2020/wiki/HCI design and evaluation methods)
+#### 10.1.1.1. [User models](https://github.com/cqlj/2020/wiki/User models)
+#### 10.1.1.2. [User studies](https://github.com/cqlj/2020/wiki/User studies)
+#### 10.1.1.3. [Usability testing](https://github.com/cqlj/2020/wiki/Usability testing)
+#### 10.1.1.4. [Heuristic evaluations](https://github.com/cqlj/2020/wiki/Heuristic evaluations)
+#### 10.1.1.5. [Walkthrough evaluations](https://github.com/cqlj/2020/wiki/Walkthrough evaluations)
+#### 10.1.1.6. [Laboratory experiments](https://github.com/cqlj/2020/wiki/Laboratory experiments)
+#### 10.1.1.7. [Field studies](https://github.com/cqlj/2020/wiki/Field studies)
+### 10.1.2. [Interaction paradigms](https://github.com/cqlj/2020/wiki/Interaction paradigms)
+#### 10.1.2.1. [Hypertext / hypermedia](https://github.com/cqlj/2020/wiki/Hypertext / hypermedia)
+#### 10.1.2.2. [Mixed / augmented reality](https://github.com/cqlj/2020/wiki/Mixed / augmented reality)
+#### 10.1.2.3. [Command line interfaces](https://github.com/cqlj/2020/wiki/Command line interfaces)
+#### 10.1.2.4. [Graphical user interfaces](https://github.com/cqlj/2020/wiki/Graphical user interfaces)
+#### 10.1.2.5. [Virtual reality](https://github.com/cqlj/2020/wiki/Virtual reality)
+#### 10.1.2.6. [Web-based interaction](https://github.com/cqlj/2020/wiki/Web-based interaction)
+#### 10.1.2.7. [Natural language interfaces](https://github.com/cqlj/2020/wiki/Natural language interfaces)
+#### 10.1.2.8. [Collaborative interaction](https://github.com/cqlj/2020/wiki/Collaborative interaction)
+### 10.1.3. [Interaction devices](https://github.com/cqlj/2020/wiki/Interaction devices)
+#### 10.1.3.1. [Graphics input devices](https://github.com/cqlj/2020/wiki/Graphics input devices)
+#### 10.1.3.2. [Displays and imagers](https://github.com/cqlj/2020/wiki/Displays and imagers)
+#### 10.1.3.3. [Sound-based input / output](https://github.com/cqlj/2020/wiki/Sound-based input / output)
+#### 10.1.3.4. [Keyboards](https://github.com/cqlj/2020/wiki/Keyboards)
+#### 10.1.3.5. [Pointing devices](https://github.com/cqlj/2020/wiki/Pointing devices)
+#### 10.1.3.6. [Touch screens](https://github.com/cqlj/2020/wiki/Touch screens)
+#### 10.1.3.7. [Haptic devices](https://github.com/cqlj/2020/wiki/Haptic devices)
+### 10.1.4. [HCI theory, concepts and models](https://github.com/cqlj/2020/wiki/HCI theory, concepts and models)
+### 10.1.5. [Interaction techniques](https://github.com/cqlj/2020/wiki/Interaction techniques)
+#### 10.1.5.1. [Auditory feedback](https://github.com/cqlj/2020/wiki/Auditory feedback)
+#### 10.1.5.2. [Text input](https://github.com/cqlj/2020/wiki/Text input)
+#### 10.1.5.3. [Pointing](https://github.com/cqlj/2020/wiki/Pointing)
+#### 10.1.5.4. [Gestural input](https://github.com/cqlj/2020/wiki/Gestural input)
+### 10.1.6. [Interactive systems and tools](https://github.com/cqlj/2020/wiki/Interactive systems and tools)
+#### 10.1.6.1. [User interface management systems](https://github.com/cqlj/2020/wiki/User interface management systems)
+#### 10.1.6.2. [User interface programming](https://github.com/cqlj/2020/wiki/User interface programming)
+#### 10.1.6.3. [User interface toolkits](https://github.com/cqlj/2020/wiki/User interface toolkits)
+### 10.1.7. [Empirical studies in HCI](https://github.com/cqlj/2020/wiki/Empirical studies in HCI)
+## 10.2. [Interaction design](https://github.com/cqlj/2020/wiki/Interaction design)
+### 10.2.1. [Interaction design process and methods](https://github.com/cqlj/2020/wiki/Interaction design process and methods)
+#### 10.2.1.1. [User interface design](https://github.com/cqlj/2020/wiki/User interface design)
+#### 10.2.1.2. [User centered design](https://github.com/cqlj/2020/wiki/User centered design)
+#### 10.2.1.3. [Activity centered design](https://github.com/cqlj/2020/wiki/Activity centered design)
+#### 10.2.1.4. [Scenario-based design](https://github.com/cqlj/2020/wiki/Scenario-based design)
+#### 10.2.1.5. [Participatory design](https://github.com/cqlj/2020/wiki/Participatory design)
+#### 10.2.1.6. [Contextual design](https://github.com/cqlj/2020/wiki/Contextual design)
+#### 10.2.1.7. [Interface design prototyping](https://github.com/cqlj/2020/wiki/Interface design prototyping)
+### 10.2.2. [Interaction design theory, concepts and paradigms](https://github.com/cqlj/2020/wiki/Interaction design theory, concepts and paradigms)
+### 10.2.3. [Empirical studies in interaction design](https://github.com/cqlj/2020/wiki/Empirical studies in interaction design)
+### 10.2.4. [Systems and tools for interaction design](https://github.com/cqlj/2020/wiki/Systems and tools for interaction design)
+#### 10.2.4.1. [Wireframes](https://github.com/cqlj/2020/wiki/Wireframes)
+## 10.3. [Collaborative and social computing](https://github.com/cqlj/2020/wiki/Collaborative and social computing)
+### 10.3.1. [Collaborative and social computing theory, concepts and paradigms](https://github.com/cqlj/2020/wiki/Collaborative and social computing theory, concepts and paradigms)
+#### 10.3.1.1. [Social content sharing](https://github.com/cqlj/2020/wiki/Social content sharing)
+#### 10.3.1.2. [Collaborative content creation](https://github.com/cqlj/2020/wiki/Collaborative content creation)
+#### 10.3.1.3. [Collaborative filtering](https://github.com/cqlj/2020/wiki/Collaborative filtering)
+#### 10.3.1.4. [Social recommendation](https://github.com/cqlj/2020/wiki/Social recommendation)
+#### 10.3.1.5. [Social networks](https://github.com/cqlj/2020/wiki/Social networks)
+#### 10.3.1.6. [Social tagging](https://github.com/cqlj/2020/wiki/Social tagging)
+#### 10.3.1.7. [Computer supported cooperative work](https://github.com/cqlj/2020/wiki/Computer supported cooperative work)
+#### 10.3.1.8. [Social engineering (social sciences)](https://github.com/cqlj/2020/wiki/Social engineering (social sciences))
+#### 10.3.1.9. [Social navigation](https://github.com/cqlj/2020/wiki/Social navigation)
+#### 10.3.1.10. [Social media](https://github.com/cqlj/2020/wiki/Social media)
+### 10.3.2. [Collaborative and social computing design and evaluation methods](https://github.com/cqlj/2020/wiki/Collaborative and social computing design and evaluation methods)
+#### 10.3.2.1. [Social network analysis](https://github.com/cqlj/2020/wiki/Social network analysis)
+#### 10.3.2.2. [Ethnographic studies](https://github.com/cqlj/2020/wiki/Ethnographic studies)
+### 10.3.3. [Collaborative and social computing systems and tools](https://github.com/cqlj/2020/wiki/Collaborative and social computing systems and tools)
+#### 10.3.3.1. [Blogs](https://github.com/cqlj/2020/wiki/Blogs)
+#### 10.3.3.2. [Wikis](https://github.com/cqlj/2020/wiki/Wikis)
+#### 10.3.3.3. [Reputation systems](https://github.com/cqlj/2020/wiki/Reputation systems)
+#### 10.3.3.4. [Open source software](https://github.com/cqlj/2020/wiki/Open source software)
+#### 10.3.3.5. [Social networking sites](https://github.com/cqlj/2020/wiki/Social networking sites)
+#### 10.3.3.6. [Social tagging systems](https://github.com/cqlj/2020/wiki/Social tagging systems)
+#### 10.3.3.7. [Synchronous editors](https://github.com/cqlj/2020/wiki/Synchronous editors)
+#### 10.3.3.8. [Asynchronous editors](https://github.com/cqlj/2020/wiki/Asynchronous editors)
+### 10.3.4. [Empirical studies in collaborative and social computing](https://github.com/cqlj/2020/wiki/Empirical studies in collaborative and social computing)
+### 10.3.5. [Collaborative and social computing devices](https://github.com/cqlj/2020/wiki/Collaborative and social computing devices)
+## 10.4. [Ubiquitous and mobile computing](https://github.com/cqlj/2020/wiki/Ubiquitous and mobile computing)
+### 10.4.1. [Ubiquitous and mobile computing theory, concepts and paradigms](https://github.com/cqlj/2020/wiki/Ubiquitous and mobile computing theory, concepts and paradigms)
+#### 10.4.1.1. [Ubiquitous computing](https://github.com/cqlj/2020/wiki/Ubiquitous computing)
+#### 10.4.1.2. [Mobile computing](https://github.com/cqlj/2020/wiki/Mobile computing)
+#### 10.4.1.3. [Ambient intelligence](https://github.com/cqlj/2020/wiki/Ambient intelligence)
+### 10.4.2. [Ubiquitous and mobile computing systems and tools](https://github.com/cqlj/2020/wiki/Ubiquitous and mobile computing systems and tools)
+### 10.4.3. [Ubiquitous and mobile devices](https://github.com/cqlj/2020/wiki/Ubiquitous and mobile devices)
+#### 10.4.3.1. [Smartphones](https://github.com/cqlj/2020/wiki/Smartphones)
+#### 10.4.3.2. [Interactive whiteboards](https://github.com/cqlj/2020/wiki/Interactive whiteboards)
+#### 10.4.3.3. [Mobile phones](https://github.com/cqlj/2020/wiki/Mobile phones)
+#### 10.4.3.4. [Mobile devices](https://github.com/cqlj/2020/wiki/Mobile devices)
+#### 10.4.3.5. [Portable media players](https://github.com/cqlj/2020/wiki/Portable media players)
+#### 10.4.3.6. [Personal digital assistants](https://github.com/cqlj/2020/wiki/Personal digital assistants)
+#### 10.4.3.7. [Handheld game consoles](https://github.com/cqlj/2020/wiki/Handheld game consoles)
+#### 10.4.3.8. [E-book readers](https://github.com/cqlj/2020/wiki/E-book readers)
+#### 10.4.3.9. [Tablet computers](https://github.com/cqlj/2020/wiki/Tablet computers)
+### 10.4.4. [Ubiquitous and mobile computing design and evaluation methods](https://github.com/cqlj/2020/wiki/Ubiquitous and mobile computing design and evaluation methods)
+### 10.4.5. [Empirical studies in ubiquitous and mobile computing](https://github.com/cqlj/2020/wiki/Empirical studies in ubiquitous and mobile computing)
+## 10.5. [Visualization](https://github.com/cqlj/2020/wiki/Visualization)
+### 10.5.1. [Visualization techniques](https://github.com/cqlj/2020/wiki/Visualization techniques)
+#### 10.5.1.1. [Treemaps](https://github.com/cqlj/2020/wiki/Treemaps)
+#### 10.5.1.2. [Hyperbolic trees](https://github.com/cqlj/2020/wiki/Hyperbolic trees)
+#### 10.5.1.3. [Heat maps](https://github.com/cqlj/2020/wiki/Heat maps)
+#### 10.5.1.4. [Graph drawings](https://github.com/cqlj/2020/wiki/Graph drawings)
+#### 10.5.1.5. [Dendrograms](https://github.com/cqlj/2020/wiki/Dendrograms)
+#### 10.5.1.6. [Cladograms](https://github.com/cqlj/2020/wiki/Cladograms)
+### 10.5.2. [Visualization application domains](https://github.com/cqlj/2020/wiki/Visualization application domains)
+#### 10.5.2.1. [Scientific visualization](https://github.com/cqlj/2020/wiki/Scientific visualization)
+#### 10.5.2.2. [Visual analytics](https://github.com/cqlj/2020/wiki/Visual analytics)
+#### 10.5.2.3. [Geographic visualization](https://github.com/cqlj/2020/wiki/Geographic visualization)
+#### 10.5.2.4. [Information visualization](https://github.com/cqlj/2020/wiki/Information visualization)
+### 10.5.3. [Visualization systems and tools](https://github.com/cqlj/2020/wiki/Visualization systems and tools)
+#### 10.5.3.1. [Visualization toolkits](https://github.com/cqlj/2020/wiki/Visualization toolkits)
+### 10.5.4. [Visualization theory, concepts and paradigms](https://github.com/cqlj/2020/wiki/Visualization theory, concepts and paradigms)
+### 10.5.5. [Empirical studies in visualization](https://github.com/cqlj/2020/wiki/Empirical studies in visualization)
+### 10.5.6. [Visualization design and evaluation methods](https://github.com/cqlj/2020/wiki/Visualization design and evaluation methods)
+## 10.6. [Accessibility](https://github.com/cqlj/2020/wiki/Accessibility)
+### 10.6.1. [Accessibility theory, concepts and paradigms](https://github.com/cqlj/2020/wiki/Accessibility theory, concepts and paradigms)
+### 10.6.2. [Empirical studies in accessibility](https://github.com/cqlj/2020/wiki/Empirical studies in accessibility)
+### 10.6.3. [Accessibility design and evaluation methods](https://github.com/cqlj/2020/wiki/Accessibility design and evaluation methods)
+### 10.6.4. [Accessibility technologies](https://github.com/cqlj/2020/wiki/Accessibility technologies)
+### 10.6.5. [Accessibility systems and tools](https://github.com/cqlj/2020/wiki/Accessibility systems and tools)
+# 11. [Computing methodologies](https://github.com/cqlj/2020/wiki/Computing methodologies)
+## 11.1. [Symbolic and algebraic manipulation](https://github.com/cqlj/2020/wiki/Symbolic and algebraic manipulation)
+### 11.1.1. [Symbolic and algebraic algorithms](https://github.com/cqlj/2020/wiki/Symbolic and algebraic algorithms)
+#### 11.1.1.1. [Combinatorial algorithms](https://github.com/cqlj/2020/wiki/Combinatorial algorithms)
+#### 11.1.1.2. [Algebraic algorithms](https://github.com/cqlj/2020/wiki/Algebraic algorithms)
+#### 11.1.1.3. [Nonalgebraic algorithms](https://github.com/cqlj/2020/wiki/Nonalgebraic algorithms)
+#### 11.1.1.4. [Symbolic calculus algorithms](https://github.com/cqlj/2020/wiki/Symbolic calculus algorithms)
+#### 11.1.1.5. [Exact arithmetic algorithms](https://github.com/cqlj/2020/wiki/Exact arithmetic algorithms)
+#### 11.1.1.6. [Hybrid symbolic-numeric methods](https://github.com/cqlj/2020/wiki/Hybrid symbolic-numeric methods)
+#### 11.1.1.7. [Discrete calculus algorithms](https://github.com/cqlj/2020/wiki/Discrete calculus algorithms)
+#### 11.1.1.8. [Number theory algorithms](https://github.com/cqlj/2020/wiki/Number theory algorithms)
+#### 11.1.1.9. [Equation and inequality solving algorithms](https://github.com/cqlj/2020/wiki/Equation and inequality solving algorithms)
+#### 11.1.1.10. [Linear algebra algorithms](https://github.com/cqlj/2020/wiki/Linear algebra algorithms)
+#### 11.1.1.11. [Theorem proving algorithms](https://github.com/cqlj/2020/wiki/Theorem proving algorithms)
+#### 11.1.1.12. [Boolean algebra algorithms](https://github.com/cqlj/2020/wiki/Boolean algebra algorithms)
+#### 11.1.1.13. [Optimization algorithms](https://github.com/cqlj/2020/wiki/Optimization algorithms)
+### 11.1.2. [Computer algebra systems](https://github.com/cqlj/2020/wiki/Computer algebra systems)
+#### 11.1.2.1. [Special-purpose algebraic systems](https://github.com/cqlj/2020/wiki/Special-purpose algebraic systems)
+### 11.1.3. [Representation of mathematical objects](https://github.com/cqlj/2020/wiki/Representation of mathematical objects)
+#### 11.1.3.1. [Representation of exact numbers](https://github.com/cqlj/2020/wiki/Representation of exact numbers)
+#### 11.1.3.2. [Representation of mathematical functions](https://github.com/cqlj/2020/wiki/Representation of mathematical functions)
+#### 11.1.3.3. [Representation of Boolean functions](https://github.com/cqlj/2020/wiki/Representation of Boolean functions)
+#### 11.1.3.4. [Representation of polynomials](https://github.com/cqlj/2020/wiki/Representation of polynomials)
+## 11.2. [Parallel computing methodologies](https://github.com/cqlj/2020/wiki/Parallel computing methodologies)
+### 11.2.1. [Parallel algorithms](https://github.com/cqlj/2020/wiki/Parallel algorithms)
+#### 11.2.1.1. [MapReduce algorithms](https://github.com/cqlj/2020/wiki/MapReduce algorithms)
+#### 11.2.1.2. [Self-organization](https://github.com/cqlj/2020/wiki/Self-organization)
+#### 11.2.1.3. [Shared memory algorithms](https://github.com/cqlj/2020/wiki/Shared memory algorithms)
+#### 11.2.1.4. [Vector / streaming algorithms](https://github.com/cqlj/2020/wiki/Vector / streaming algorithms)
+#### 11.2.1.5. [Massively parallel algorithms](https://github.com/cqlj/2020/wiki/Massively parallel algorithms)
+### 11.2.2. [Parallel programming languages](https://github.com/cqlj/2020/wiki/Parallel programming languages)
+## 11.3. [Artificial intelligence](https://github.com/cqlj/2020/wiki/Artificial intelligence)
+### 11.3.1. [Natural language processing](https://github.com/cqlj/2020/wiki/Natural language processing)
+#### 11.3.1.1. [Information extraction](https://github.com/cqlj/2020/wiki/Information extraction)
+#### 11.3.1.2. [Machine translation](https://github.com/cqlj/2020/wiki/Machine translation)
+#### 11.3.1.3. [Discourse, dialogue and pragmatics](https://github.com/cqlj/2020/wiki/Discourse, dialogue and pragmatics)
+#### 11.3.1.4. [Natural language generation](https://github.com/cqlj/2020/wiki/Natural language generation)
+#### 11.3.1.5. [Speech recognition](https://github.com/cqlj/2020/wiki/Speech recognition)
+#### 11.3.1.6. [Lexical semantics](https://github.com/cqlj/2020/wiki/Lexical semantics)
+#### 11.3.1.7. [Phonology / morphology](https://github.com/cqlj/2020/wiki/Phonology / morphology)
+#### 11.3.1.8. [Language resources](https://github.com/cqlj/2020/wiki/Language resources)
+### 11.3.2. [Knowledge representation and reasoning](https://github.com/cqlj/2020/wiki/Knowledge representation and reasoning)
+#### 11.3.2.1. [Description logics](https://github.com/cqlj/2020/wiki/Description logics)
+#### 11.3.2.2. [Semantic networks](https://github.com/cqlj/2020/wiki/Semantic networks)
+#### 11.3.2.3. [Nonmonotonic, default reasoning and belief revision](https://github.com/cqlj/2020/wiki/Nonmonotonic, default reasoning and belief revision)
+#### 11.3.2.4. [Probabilistic reasoning](https://github.com/cqlj/2020/wiki/Probabilistic reasoning)
+#### 11.3.2.5. [Vagueness and fuzzy logic](https://github.com/cqlj/2020/wiki/Vagueness and fuzzy logic)
+#### 11.3.2.6. [Causal reasoning and diagnostics](https://github.com/cqlj/2020/wiki/Causal reasoning and diagnostics)
+#### 11.3.2.7. [Temporal reasoning](https://github.com/cqlj/2020/wiki/Temporal reasoning)
+#### 11.3.2.8. [Cognitive robotics](https://github.com/cqlj/2020/wiki/Cognitive robotics)
+#### 11.3.2.9. [Ontology engineering](https://github.com/cqlj/2020/wiki/Ontology engineering)
+#### 11.3.2.10. [Logic programming and answer set programming](https://github.com/cqlj/2020/wiki/Logic programming and answer set programming)
+#### 11.3.2.11. [Spatial and physical reasoning](https://github.com/cqlj/2020/wiki/Spatial and physical reasoning)
+#### 11.3.2.12. [Reasoning about belief and knowledge](https://github.com/cqlj/2020/wiki/Reasoning about belief and knowledge)
+### 11.3.3. [Planning and scheduling](https://github.com/cqlj/2020/wiki/Planning and scheduling)
+#### 11.3.3.1. [Planning for deterministic actions](https://github.com/cqlj/2020/wiki/Planning for deterministic actions)
+#### 11.3.3.2. [Planning under uncertainty](https://github.com/cqlj/2020/wiki/Planning under uncertainty)
+#### 11.3.3.3. [Multi-agent planning](https://github.com/cqlj/2020/wiki/Multi-agent planning)
+#### 11.3.3.4. [Planning with abstraction and generalization](https://github.com/cqlj/2020/wiki/Planning with abstraction and generalization)
+#### 11.3.3.5. [Robotic planning](https://github.com/cqlj/2020/wiki/Robotic planning)
+##### 11.3.3.5.1. [Evolutionary robotics](https://github.com/cqlj/2020/wiki/Evolutionary robotics)
+### 11.3.4. [Search methodologies](https://github.com/cqlj/2020/wiki/Search methodologies)
+#### 11.3.4.1. [Heuristic function construction](https://github.com/cqlj/2020/wiki/Heuristic function construction)
+#### 11.3.4.2. [Discrete space search](https://github.com/cqlj/2020/wiki/Discrete space search)
+#### 11.3.4.3. [Continuous space search](https://github.com/cqlj/2020/wiki/Continuous space search)
+#### 11.3.4.4. [Randomized search](https://github.com/cqlj/2020/wiki/Randomized search)
+#### 11.3.4.5. [Game tree search](https://github.com/cqlj/2020/wiki/Game tree search)
+#### 11.3.4.6. [Abstraction and micro-operators](https://github.com/cqlj/2020/wiki/Abstraction and micro-operators)
+#### 11.3.4.7. [Search with partial observations](https://github.com/cqlj/2020/wiki/Search with partial observations)
+### 11.3.5. [Control methods](https://github.com/cqlj/2020/wiki/Control methods)
+#### 11.3.5.1. [Robotic planning](https://github.com/cqlj/2020/wiki/Robotic planning)
+##### 11.3.5.1.1. [Evolutionary robotics](https://github.com/cqlj/2020/wiki/Evolutionary robotics)
+#### 11.3.5.2. [Computational control theory](https://github.com/cqlj/2020/wiki/Computational control theory)
+#### 11.3.5.3. [Motion path planning](https://github.com/cqlj/2020/wiki/Motion path planning)
+### 11.3.6. [Philosophical/theoretical foundations of artificial intelligence](https://github.com/cqlj/2020/wiki/Philosophical/theoretical foundations of artificial intelligence)
+#### 11.3.6.1. [Cognitive science](https://github.com/cqlj/2020/wiki/Cognitive science)
+#### 11.3.6.2. [Theory of mind](https://github.com/cqlj/2020/wiki/Theory of mind)
+### 11.3.7. [Distributed artificial intelligence](https://github.com/cqlj/2020/wiki/Distributed artificial intelligence)
+#### 11.3.7.1. [Multi-agent systems](https://github.com/cqlj/2020/wiki/Multi-agent systems)
+#### 11.3.7.2. [Intelligent agents](https://github.com/cqlj/2020/wiki/Intelligent agents)
+#### 11.3.7.3. [Mobile agents](https://github.com/cqlj/2020/wiki/Mobile agents)
+#### 11.3.7.4. [Cooperation and coordination](https://github.com/cqlj/2020/wiki/Cooperation and coordination)
+### 11.3.8. [Computer vision](https://github.com/cqlj/2020/wiki/Computer vision)
+#### 11.3.8.1. [Computer vision tasks](https://github.com/cqlj/2020/wiki/Computer vision tasks)
+##### 11.3.8.1.1. [Biometrics](https://github.com/cqlj/2020/wiki/Biometrics)
+##### 11.3.8.1.2. [Scene understanding](https://github.com/cqlj/2020/wiki/Scene understanding)
+##### 11.3.8.1.3. [Activity recognition and understanding](https://github.com/cqlj/2020/wiki/Activity recognition and understanding)
+##### 11.3.8.1.4. [Video summarization](https://github.com/cqlj/2020/wiki/Video summarization)
+##### 11.3.8.1.5. [Visual content-based indexing and retrieval](https://github.com/cqlj/2020/wiki/Visual content-based indexing and retrieval)
+##### 11.3.8.1.6. [Visual inspection](https://github.com/cqlj/2020/wiki/Visual inspection)
+##### 11.3.8.1.7. [Vision for robotics](https://github.com/cqlj/2020/wiki/Vision for robotics)
+##### 11.3.8.1.8. [Scene anomaly detection](https://github.com/cqlj/2020/wiki/Scene anomaly detection)
+#### 11.3.8.2. [Image and video acquisition](https://github.com/cqlj/2020/wiki/Image and video acquisition)
+##### 11.3.8.2.1. [Camera calibration](https://github.com/cqlj/2020/wiki/Camera calibration)
+##### 11.3.8.2.2. [Epipolar geometry](https://github.com/cqlj/2020/wiki/Epipolar geometry)
+##### 11.3.8.2.3. [Computational photography](https://github.com/cqlj/2020/wiki/Computational photography)
+##### 11.3.8.2.4. [Hyperspectral imaging](https://github.com/cqlj/2020/wiki/Hyperspectral imaging)
+##### 11.3.8.2.5. [Motion capture](https://github.com/cqlj/2020/wiki/Motion capture)
+##### 11.3.8.2.6. [3D imaging](https://github.com/cqlj/2020/wiki/3D imaging)
+##### 11.3.8.2.7. [Active vision](https://github.com/cqlj/2020/wiki/Active vision)
+#### 11.3.8.3. [Computer vision representations](https://github.com/cqlj/2020/wiki/Computer vision representations)
+##### 11.3.8.3.1. [Image representations](https://github.com/cqlj/2020/wiki/Image representations)
+##### 11.3.8.3.2. [Shape representations](https://github.com/cqlj/2020/wiki/Shape representations)
+##### 11.3.8.3.3. [Appearance and texture representations](https://github.com/cqlj/2020/wiki/Appearance and texture representations)
+##### 11.3.8.3.4. [Hierarchical representations](https://github.com/cqlj/2020/wiki/Hierarchical representations)
+#### 11.3.8.4. [Computer vision problems](https://github.com/cqlj/2020/wiki/Computer vision problems)
+##### 11.3.8.4.1. [Interest point and salient region detections](https://github.com/cqlj/2020/wiki/Interest point and salient region detections)
+##### 11.3.8.4.2. [Image segmentation](https://github.com/cqlj/2020/wiki/Image segmentation)
+##### 11.3.8.4.3. [Video segmentation](https://github.com/cqlj/2020/wiki/Video segmentation)
+##### 11.3.8.4.4. [Shape inference](https://github.com/cqlj/2020/wiki/Shape inference)
+##### 11.3.8.4.5. [Object detection](https://github.com/cqlj/2020/wiki/Object detection)
+##### 11.3.8.4.6. [Object recognition](https://github.com/cqlj/2020/wiki/Object recognition)
+##### 11.3.8.4.7. [Object identification](https://github.com/cqlj/2020/wiki/Object identification)
+##### 11.3.8.4.8. [Tracking](https://github.com/cqlj/2020/wiki/Tracking)
+##### 11.3.8.4.9. [Reconstruction](https://github.com/cqlj/2020/wiki/Reconstruction)
+##### 11.3.8.4.10. [Matching](https://github.com/cqlj/2020/wiki/Matching)
+## 11.4. [Machine learning](https://github.com/cqlj/2020/wiki/Machine learning)
+### 11.4.1. [Learning paradigms](https://github.com/cqlj/2020/wiki/Learning paradigms)
+#### 11.4.1.1. [Supervised learning](https://github.com/cqlj/2020/wiki/Supervised learning)
+##### 11.4.1.1.1. [Ranking](https://github.com/cqlj/2020/wiki/Ranking)
+##### 11.4.1.1.2. [Learning to rank](https://github.com/cqlj/2020/wiki/Learning to rank)
+##### 11.4.1.1.3. [Supervised learning by classification](https://github.com/cqlj/2020/wiki/Supervised learning by classification)
+##### 11.4.1.1.4. [Supervised learning by regression](https://github.com/cqlj/2020/wiki/Supervised learning by regression)
+##### 11.4.1.1.5. [Structured outputs](https://github.com/cqlj/2020/wiki/Structured outputs)
+##### 11.4.1.1.6. [Cost-sensitive learning](https://github.com/cqlj/2020/wiki/Cost-sensitive learning)
+#### 11.4.1.2. [Unsupervised learning](https://github.com/cqlj/2020/wiki/Unsupervised learning)
+##### 11.4.1.2.1. [Cluster analysis](https://github.com/cqlj/2020/wiki/Cluster analysis)
+##### 11.4.1.2.2. [Anomaly detection](https://github.com/cqlj/2020/wiki/Anomaly detection)
+##### 11.4.1.2.3. [Mixture modeling](https://github.com/cqlj/2020/wiki/Mixture modeling)
+##### 11.4.1.2.4. [Topic modeling](https://github.com/cqlj/2020/wiki/Topic modeling)
+##### 11.4.1.2.5. [Source separation](https://github.com/cqlj/2020/wiki/Source separation)
+##### 11.4.1.2.6. [Motif discovery](https://github.com/cqlj/2020/wiki/Motif discovery)
+##### 11.4.1.2.7. [Dimensionality reduction and manifold learning](https://github.com/cqlj/2020/wiki/Dimensionality reduction and manifold learning)
+#### 11.4.1.3. [Reinforcement learning](https://github.com/cqlj/2020/wiki/Reinforcement learning)
+##### 11.4.1.3.1. [Sequential decision making](https://github.com/cqlj/2020/wiki/Sequential decision making)
+##### 11.4.1.3.2. [Inverse reinforcement learning](https://github.com/cqlj/2020/wiki/Inverse reinforcement learning)
+##### 11.4.1.3.3. [Apprenticeship learning](https://github.com/cqlj/2020/wiki/Apprenticeship learning)
+##### 11.4.1.3.4. [Multi-agent reinforcement learning](https://github.com/cqlj/2020/wiki/Multi-agent reinforcement learning)
+##### 11.4.1.3.5. [Adversarial learning](https://github.com/cqlj/2020/wiki/Adversarial learning)
+#### 11.4.1.4. [Multi-task learning](https://github.com/cqlj/2020/wiki/Multi-task learning)
+##### 11.4.1.4.1. [Transfer learning](https://github.com/cqlj/2020/wiki/Transfer learning)
+##### 11.4.1.4.2. [Lifelong machine learning](https://github.com/cqlj/2020/wiki/Lifelong machine learning)
+##### 11.4.1.4.3. [Learning under covariate shift](https://github.com/cqlj/2020/wiki/Learning under covariate shift)
+### 11.4.2. [Learning settings](https://github.com/cqlj/2020/wiki/Learning settings)
+#### 11.4.2.1. [Batch learning](https://github.com/cqlj/2020/wiki/Batch learning)
+#### 11.4.2.2. [Online learning settings](https://github.com/cqlj/2020/wiki/Online learning settings)
+#### 11.4.2.3. [Learning from demonstrations](https://github.com/cqlj/2020/wiki/Learning from demonstrations)
+#### 11.4.2.4. [Learning from critiques](https://github.com/cqlj/2020/wiki/Learning from critiques)
+#### 11.4.2.5. [Learning from implicit feedback](https://github.com/cqlj/2020/wiki/Learning from implicit feedback)
+#### 11.4.2.6. [Active learning settings](https://github.com/cqlj/2020/wiki/Active learning settings)
+#### 11.4.2.7. [Semi-supervised learning settings](https://github.com/cqlj/2020/wiki/Semi-supervised learning settings)
+### 11.4.3. [Machine learning approaches](https://github.com/cqlj/2020/wiki/Machine learning approaches)
+#### 11.4.3.1. [Classification and regression trees](https://github.com/cqlj/2020/wiki/Classification and regression trees)
+#### 11.4.3.2. [Kernel methods](https://github.com/cqlj/2020/wiki/Kernel methods)
+##### 11.4.3.2.1. [Support vector machines](https://github.com/cqlj/2020/wiki/Support vector machines)
+##### 11.4.3.2.2. [Gaussian processes](https://github.com/cqlj/2020/wiki/Gaussian processes)
+#### 11.4.3.3. [Neural networks](https://github.com/cqlj/2020/wiki/Neural networks)
+#### 11.4.3.4. [Logical and relational learning](https://github.com/cqlj/2020/wiki/Logical and relational learning)
+##### 11.4.3.4.1. [Inductive logic learning](https://github.com/cqlj/2020/wiki/Inductive logic learning)
+##### 11.4.3.4.2. [Statistical relational learning](https://github.com/cqlj/2020/wiki/Statistical relational learning)
+#### 11.4.3.5. [Learning in probabilistic graphical models](https://github.com/cqlj/2020/wiki/Learning in probabilistic graphical models)
+##### 11.4.3.5.1. [Maximum likelihood modeling](https://github.com/cqlj/2020/wiki/Maximum likelihood modeling)
+##### 11.4.3.5.2. [Maximum entropy modeling](https://github.com/cqlj/2020/wiki/Maximum entropy modeling)
+##### 11.4.3.5.3. [Maximum a posteriori modeling](https://github.com/cqlj/2020/wiki/Maximum a posteriori modeling)
+##### 11.4.3.5.4. [Mixture models](https://github.com/cqlj/2020/wiki/Mixture models)
+##### 11.4.3.5.5. [Latent variable models](https://github.com/cqlj/2020/wiki/Latent variable models)
+##### 11.4.3.5.6. [Bayesian network models](https://github.com/cqlj/2020/wiki/Bayesian network models)
+#### 11.4.3.6. [Learning linear models](https://github.com/cqlj/2020/wiki/Learning linear models)
+##### 11.4.3.6.1. [Perceptron algorithm](https://github.com/cqlj/2020/wiki/Perceptron algorithm)
+#### 11.4.3.7. [Factorization methods](https://github.com/cqlj/2020/wiki/Factorization methods)
+##### 11.4.3.7.1. [Non-negative matrix factorization](https://github.com/cqlj/2020/wiki/Non-negative matrix factorization)
+##### 11.4.3.7.2. [Factor analysis](https://github.com/cqlj/2020/wiki/Factor analysis)
+##### 11.4.3.7.3. [Principal component analysis](https://github.com/cqlj/2020/wiki/Principal component analysis)
+##### 11.4.3.7.4. [Canonical correlation analysis](https://github.com/cqlj/2020/wiki/Canonical correlation analysis)
+##### 11.4.3.7.5. [Latent Dirichlet allocation](https://github.com/cqlj/2020/wiki/Latent Dirichlet allocation)
+#### 11.4.3.8. [Rule learning](https://github.com/cqlj/2020/wiki/Rule learning)
+#### 11.4.3.9. [Instance-based learning](https://github.com/cqlj/2020/wiki/Instance-based learning)
+#### 11.4.3.10. [Markov decision processes](https://github.com/cqlj/2020/wiki/Markov decision processes)
+#### 11.4.3.11. [Partially-observable Markov decision processes](https://github.com/cqlj/2020/wiki/Partially-observable Markov decision processes)
+#### 11.4.3.12. [Stochastic games](https://github.com/cqlj/2020/wiki/Stochastic games)
+#### 11.4.3.13. [Learning latent representations](https://github.com/cqlj/2020/wiki/Learning latent representations)
+##### 11.4.3.13.1. [Deep belief networks](https://github.com/cqlj/2020/wiki/Deep belief networks)
+#### 11.4.3.14. [Bio-inspired approaches](https://github.com/cqlj/2020/wiki/Bio-inspired approaches)
+##### 11.4.3.14.1. [Artificial life](https://github.com/cqlj/2020/wiki/Artificial life)
+##### 11.4.3.14.2. [Evolvable hardware](https://github.com/cqlj/2020/wiki/Evolvable hardware)
+##### 11.4.3.14.3. [Genetic algorithms](https://github.com/cqlj/2020/wiki/Genetic algorithms)
+##### 11.4.3.14.4. [Genetic programming](https://github.com/cqlj/2020/wiki/Genetic programming)
+##### 11.4.3.14.5. [Evolutionary robotics](https://github.com/cqlj/2020/wiki/Evolutionary robotics)
+##### 11.4.3.14.6. [Generative and developmental approaches](https://github.com/cqlj/2020/wiki/Generative and developmental approaches)
+### 11.4.4. [Machine learning algorithms](https://github.com/cqlj/2020/wiki/Machine learning algorithms)
+#### 11.4.4.1. [Dynamic programming for Markov decision processes](https://github.com/cqlj/2020/wiki/Dynamic programming for Markov decision processes)
+##### 11.4.4.1.1. [Value iteration](https://github.com/cqlj/2020/wiki/Value iteration)
+##### 11.4.4.1.2. [Q-learning](https://github.com/cqlj/2020/wiki/Q-learning)
+##### 11.4.4.1.3. [Policy iteration](https://github.com/cqlj/2020/wiki/Policy iteration)
+##### 11.4.4.1.4. [Temporal difference learning](https://github.com/cqlj/2020/wiki/Temporal difference learning)
+##### 11.4.4.1.5. [Approximate dynamic programming methods](https://github.com/cqlj/2020/wiki/Approximate dynamic programming methods)
+#### 11.4.4.2. [Ensemble methods](https://github.com/cqlj/2020/wiki/Ensemble methods)
+##### 11.4.4.2.1. [Boosting](https://github.com/cqlj/2020/wiki/Boosting)
+##### 11.4.4.2.2. [Bagging](https://github.com/cqlj/2020/wiki/Bagging)
+#### 11.4.4.3. [Spectral methods](https://github.com/cqlj/2020/wiki/Spectral methods)
+#### 11.4.4.4. [Feature selection](https://github.com/cqlj/2020/wiki/Feature selection)
+#### 11.4.4.5. [Regularization](https://github.com/cqlj/2020/wiki/Regularization)
+### 11.4.5. [Cross-validation](https://github.com/cqlj/2020/wiki/Cross-validation)
+## 11.5. [Modeling and simulation](https://github.com/cqlj/2020/wiki/Modeling and simulation)
+### 11.5.1. [Model development and analysis](https://github.com/cqlj/2020/wiki/Model development and analysis)
+#### 11.5.1.1. [Modeling methodologies](https://github.com/cqlj/2020/wiki/Modeling methodologies)
+#### 11.5.1.2. [Model verification and validation](https://github.com/cqlj/2020/wiki/Model verification and validation)
+#### 11.5.1.3. [Uncertainty quantification](https://github.com/cqlj/2020/wiki/Uncertainty quantification)
+### 11.5.2. [Simulation theory](https://github.com/cqlj/2020/wiki/Simulation theory)
+#### 11.5.2.1. [Systems theory](https://github.com/cqlj/2020/wiki/Systems theory)
+#### 11.5.2.2. [Network science](https://github.com/cqlj/2020/wiki/Network science)
+### 11.5.3. [Simulation types and techniques](https://github.com/cqlj/2020/wiki/Simulation types and techniques)
+#### 11.5.3.1. [Uncertainty quantification](https://github.com/cqlj/2020/wiki/Uncertainty quantification)
+#### 11.5.3.2. [Quantum mechanic simulation](https://github.com/cqlj/2020/wiki/Quantum mechanic simulation)
+#### 11.5.3.3. [Molecular simulation](https://github.com/cqlj/2020/wiki/Molecular simulation)
+#### 11.5.3.4. [Rare-event simulation](https://github.com/cqlj/2020/wiki/Rare-event simulation)
+#### 11.5.3.5. [Discrete-event simulation](https://github.com/cqlj/2020/wiki/Discrete-event simulation)
+#### 11.5.3.6. [Agent / discrete models](https://github.com/cqlj/2020/wiki/Agent / discrete models)
+#### 11.5.3.7. [Distributed simulation](https://github.com/cqlj/2020/wiki/Distributed simulation)
+#### 11.5.3.8. [Continuous simulation](https://github.com/cqlj/2020/wiki/Continuous simulation)
+#### 11.5.3.9. [Continuous models](https://github.com/cqlj/2020/wiki/Continuous models)
+#### 11.5.3.10. [Real-time simulation](https://github.com/cqlj/2020/wiki/Real-time simulation)
+#### 11.5.3.11. [Interactive simulation](https://github.com/cqlj/2020/wiki/Interactive simulation)
+#### 11.5.3.12. [Multiscale systems](https://github.com/cqlj/2020/wiki/Multiscale systems)
+#### 11.5.3.13. [Massively parallel and high-performance simulations](https://github.com/cqlj/2020/wiki/Massively parallel and high-performance simulations)
+#### 11.5.3.14. [Data assimilation](https://github.com/cqlj/2020/wiki/Data assimilation)
+#### 11.5.3.15. [Scientific visualization](https://github.com/cqlj/2020/wiki/Scientific visualization)
+#### 11.5.3.16. [Visual analytics](https://github.com/cqlj/2020/wiki/Visual analytics)
+#### 11.5.3.17. [Simulation by animation](https://github.com/cqlj/2020/wiki/Simulation by animation)
+#### 11.5.3.18. [Artificial life](https://github.com/cqlj/2020/wiki/Artificial life)
+### 11.5.4. [Simulation support systems](https://github.com/cqlj/2020/wiki/Simulation support systems)
+#### 11.5.4.1. [Simulation environments](https://github.com/cqlj/2020/wiki/Simulation environments)
+#### 11.5.4.2. [Simulation languages](https://github.com/cqlj/2020/wiki/Simulation languages)
+#### 11.5.4.3. [Simulation tools](https://github.com/cqlj/2020/wiki/Simulation tools)
+### 11.5.5. [Simulation evaluation](https://github.com/cqlj/2020/wiki/Simulation evaluation)
+## 11.6. [Computer graphics](https://github.com/cqlj/2020/wiki/Computer graphics)
+### 11.6.1. [Animation](https://github.com/cqlj/2020/wiki/Animation)
+#### 11.6.1.1. [Motion capture](https://github.com/cqlj/2020/wiki/Motion capture)
+#### 11.6.1.2. [Procedural animation](https://github.com/cqlj/2020/wiki/Procedural animation)
+#### 11.6.1.3. [Physical simulation](https://github.com/cqlj/2020/wiki/Physical simulation)
+#### 11.6.1.4. [Motion processing](https://github.com/cqlj/2020/wiki/Motion processing)
+#### 11.6.1.5. [Collision detection](https://github.com/cqlj/2020/wiki/Collision detection)
+### 11.6.2. [Rendering](https://github.com/cqlj/2020/wiki/Rendering)
+#### 11.6.2.1. [Rasterization](https://github.com/cqlj/2020/wiki/Rasterization)
+#### 11.6.2.2. [Ray tracing](https://github.com/cqlj/2020/wiki/Ray tracing)
+#### 11.6.2.3. [Non-photorealistic rendering](https://github.com/cqlj/2020/wiki/Non-photorealistic rendering)
+#### 11.6.2.4. [Reflectance modeling](https://github.com/cqlj/2020/wiki/Reflectance modeling)
+#### 11.6.2.5. [Visibility](https://github.com/cqlj/2020/wiki/Visibility)
+### 11.6.3. [Image manipulation](https://github.com/cqlj/2020/wiki/Image manipulation)
+#### 11.6.3.1. [Computational photography](https://github.com/cqlj/2020/wiki/Computational photography)
+#### 11.6.3.2. [Image processing](https://github.com/cqlj/2020/wiki/Image processing)
+#### 11.6.3.3. [Texturing](https://github.com/cqlj/2020/wiki/Texturing)
+#### 11.6.3.4. [Image-based rendering](https://github.com/cqlj/2020/wiki/Image-based rendering)
+#### 11.6.3.5. [Antialiasing](https://github.com/cqlj/2020/wiki/Antialiasing)
+### 11.6.4. [Graphics systems and interfaces](https://github.com/cqlj/2020/wiki/Graphics systems and interfaces)
+#### 11.6.4.1. [Graphics processors](https://github.com/cqlj/2020/wiki/Graphics processors)
+#### 11.6.4.2. [Graphics input devices](https://github.com/cqlj/2020/wiki/Graphics input devices)
+#### 11.6.4.3. [Mixed / augmented reality](https://github.com/cqlj/2020/wiki/Mixed / augmented reality)
+#### 11.6.4.4. [Perception](https://github.com/cqlj/2020/wiki/Perception)
+#### 11.6.4.5. [Graphics file formats](https://github.com/cqlj/2020/wiki/Graphics file formats)
+#### 11.6.4.6. [Virtual reality](https://github.com/cqlj/2020/wiki/Virtual reality)
+### 11.6.5. [Image compression](https://github.com/cqlj/2020/wiki/Image compression)
+### 11.6.6. [Shape modeling](https://github.com/cqlj/2020/wiki/Shape modeling)
+#### 11.6.6.1. [Mesh models](https://github.com/cqlj/2020/wiki/Mesh models)
+#### 11.6.6.2. [Mesh geometry models](https://github.com/cqlj/2020/wiki/Mesh geometry models)
+#### 11.6.6.3. [Parametric curve and surface models](https://github.com/cqlj/2020/wiki/Parametric curve and surface models)
+#### 11.6.6.4. [Point-based models](https://github.com/cqlj/2020/wiki/Point-based models)
+#### 11.6.6.5. [Volumetric models](https://github.com/cqlj/2020/wiki/Volumetric models)
+#### 11.6.6.6. [Shape analysis](https://github.com/cqlj/2020/wiki/Shape analysis)
+## 11.7. [Distributed computing methodologies](https://github.com/cqlj/2020/wiki/Distributed computing methodologies)
+### 11.7.1. [Distributed algorithms](https://github.com/cqlj/2020/wiki/Distributed algorithms)
+#### 11.7.1.1. [MapReduce algorithms](https://github.com/cqlj/2020/wiki/MapReduce algorithms)
+#### 11.7.1.2. [Self-organization](https://github.com/cqlj/2020/wiki/Self-organization)
+### 11.7.2. [Distributed programming languages](https://github.com/cqlj/2020/wiki/Distributed programming languages)
+## 11.8. [Concurrent computing methodologies](https://github.com/cqlj/2020/wiki/Concurrent computing methodologies)
+### 11.8.1. [Concurrent programming languages](https://github.com/cqlj/2020/wiki/Concurrent programming languages)
+### 11.8.2. [Concurrent algorithms](https://github.com/cqlj/2020/wiki/Concurrent algorithms)
+# 12. [Applied computing](https://github.com/cqlj/2020/wiki/Applied computing)
+## 12.1. [Electronic commerce](https://github.com/cqlj/2020/wiki/Electronic commerce)
+### 12.1.1. [Digital cash](https://github.com/cqlj/2020/wiki/Digital cash)
+### 12.1.2. [E-commerce infrastructure](https://github.com/cqlj/2020/wiki/E-commerce infrastructure)
+### 12.1.3. [Electronic data interchange](https://github.com/cqlj/2020/wiki/Electronic data interchange)
+### 12.1.4. [Electronic funds transfer](https://github.com/cqlj/2020/wiki/Electronic funds transfer)
+### 12.1.5. [Online shopping](https://github.com/cqlj/2020/wiki/Online shopping)
+### 12.1.6. [Online banking](https://github.com/cqlj/2020/wiki/Online banking)
+### 12.1.7. [Secure online transactions](https://github.com/cqlj/2020/wiki/Secure online transactions)
+### 12.1.8. [Online auctions](https://github.com/cqlj/2020/wiki/Online auctions)
+## 12.2. [Enterprise computing](https://github.com/cqlj/2020/wiki/Enterprise computing)
+### 12.2.1. [Enterprise information systems](https://github.com/cqlj/2020/wiki/Enterprise information systems)
+#### 12.2.1.1. [Intranets](https://github.com/cqlj/2020/wiki/Intranets)
+#### 12.2.1.2. [Extranets](https://github.com/cqlj/2020/wiki/Extranets)
+#### 12.2.1.3. [Enterprise resource planning](https://github.com/cqlj/2020/wiki/Enterprise resource planning)
+#### 12.2.1.4. [Enterprise applications](https://github.com/cqlj/2020/wiki/Enterprise applications)
+#### 12.2.1.5. [Data centers](https://github.com/cqlj/2020/wiki/Data centers)
+### 12.2.2. [Business process management](https://github.com/cqlj/2020/wiki/Business process management)
+#### 12.2.2.1. [Business process modeling](https://github.com/cqlj/2020/wiki/Business process modeling)
+#### 12.2.2.2. [Business process management systems](https://github.com/cqlj/2020/wiki/Business process management systems)
+#### 12.2.2.3. [Business process monitoring](https://github.com/cqlj/2020/wiki/Business process monitoring)
+#### 12.2.2.4. [Cross-organizational business processes](https://github.com/cqlj/2020/wiki/Cross-organizational business processes)
+#### 12.2.2.5. [Business intelligence](https://github.com/cqlj/2020/wiki/Business intelligence)
+### 12.2.3. [Enterprise architectures](https://github.com/cqlj/2020/wiki/Enterprise architectures)
+#### 12.2.3.1. [Enterprise architecture management](https://github.com/cqlj/2020/wiki/Enterprise architecture management)
+#### 12.2.3.2. [Enterprise architecture frameworks](https://github.com/cqlj/2020/wiki/Enterprise architecture frameworks)
+#### 12.2.3.3. [Enterprise architecture modeling](https://github.com/cqlj/2020/wiki/Enterprise architecture modeling)
+### 12.2.4. [Service-oriented architectures](https://github.com/cqlj/2020/wiki/Service-oriented architectures)
+### 12.2.5. [Event-driven architectures](https://github.com/cqlj/2020/wiki/Event-driven architectures)
+### 12.2.6. [Business rules](https://github.com/cqlj/2020/wiki/Business rules)
+### 12.2.7. [Enterprise modeling](https://github.com/cqlj/2020/wiki/Enterprise modeling)
+### 12.2.8. [Enterprise ontologies, taxonomies and vocabularies](https://github.com/cqlj/2020/wiki/Enterprise ontologies, taxonomies and vocabularies)
+### 12.2.9. [Enterprise data management](https://github.com/cqlj/2020/wiki/Enterprise data management)
+### 12.2.10. [Reference models](https://github.com/cqlj/2020/wiki/Reference models)
+### 12.2.11. [Business-IT alignment](https://github.com/cqlj/2020/wiki/Business-IT alignment)
+### 12.2.12. [IT architectures](https://github.com/cqlj/2020/wiki/IT architectures)
+### 12.2.13. [IT governance](https://github.com/cqlj/2020/wiki/IT governance)
+### 12.2.14. [Enterprise computing infrastructures](https://github.com/cqlj/2020/wiki/Enterprise computing infrastructures)
+### 12.2.15. [Enterprise interoperability](https://github.com/cqlj/2020/wiki/Enterprise interoperability)
+#### 12.2.15.1. [Enterprise application integration](https://github.com/cqlj/2020/wiki/Enterprise application integration)
+#### 12.2.15.2. [Information integration and interoperability](https://github.com/cqlj/2020/wiki/Information integration and interoperability)
+## 12.3. [Physical sciences and engineering](https://github.com/cqlj/2020/wiki/Physical sciences and engineering)
+### 12.3.1. [Aerospace](https://github.com/cqlj/2020/wiki/Aerospace)
+#### 12.3.1.1. [Avionics](https://github.com/cqlj/2020/wiki/Avionics)
+### 12.3.2. [Archaeology](https://github.com/cqlj/2020/wiki/Archaeology)
+### 12.3.3. [Astronomy](https://github.com/cqlj/2020/wiki/Astronomy)
+### 12.3.4. [Chemistry](https://github.com/cqlj/2020/wiki/Chemistry)
+### 12.3.5. [Earth and atmospheric sciences](https://github.com/cqlj/2020/wiki/Earth and atmospheric sciences)
+#### 12.3.5.1. [Environmental sciences](https://github.com/cqlj/2020/wiki/Environmental sciences)
+### 12.3.6. [Engineering](https://github.com/cqlj/2020/wiki/Engineering)
+#### 12.3.6.1. [Computer-aided design](https://github.com/cqlj/2020/wiki/Computer-aided design)
+### 12.3.7. [Physics](https://github.com/cqlj/2020/wiki/Physics)
+### 12.3.8. [Mathematics and statistics](https://github.com/cqlj/2020/wiki/Mathematics and statistics)
+### 12.3.9. [Electronics](https://github.com/cqlj/2020/wiki/Electronics)
+#### 12.3.9.1. [Avionics](https://github.com/cqlj/2020/wiki/Avionics)
+### 12.3.10. [Telecommunications](https://github.com/cqlj/2020/wiki/Telecommunications)
+#### 12.3.10.1. [Internet telephony](https://github.com/cqlj/2020/wiki/Internet telephony)
+## 12.4. [Life and medical sciences](https://github.com/cqlj/2020/wiki/Life and medical sciences)
+### 12.4.1. [Computational biology](https://github.com/cqlj/2020/wiki/Computational biology)
+#### 12.4.1.1. [Molecular sequence analysis](https://github.com/cqlj/2020/wiki/Molecular sequence analysis)
+#### 12.4.1.2. [Recognition of genes and regulatory elements](https://github.com/cqlj/2020/wiki/Recognition of genes and regulatory elements)
+#### 12.4.1.3. [Molecular evolution](https://github.com/cqlj/2020/wiki/Molecular evolution)
+#### 12.4.1.4. [Computational transcriptomics](https://github.com/cqlj/2020/wiki/Computational transcriptomics)
+#### 12.4.1.5. [Biological networks](https://github.com/cqlj/2020/wiki/Biological networks)
+#### 12.4.1.6. [Sequencing and genotyping technologies](https://github.com/cqlj/2020/wiki/Sequencing and genotyping technologies)
+#### 12.4.1.7. [Imaging](https://github.com/cqlj/2020/wiki/Imaging)
+#### 12.4.1.8. [Computational proteomics](https://github.com/cqlj/2020/wiki/Computational proteomics)
+#### 12.4.1.9. [Molecular structural biology](https://github.com/cqlj/2020/wiki/Molecular structural biology)
+#### 12.4.1.10. [Computational genomics](https://github.com/cqlj/2020/wiki/Computational genomics)
+### 12.4.2. [Genomics](https://github.com/cqlj/2020/wiki/Genomics)
+#### 12.4.2.1. [Computational genomics](https://github.com/cqlj/2020/wiki/Computational genomics)
+### 12.4.3. [Systems biology](https://github.com/cqlj/2020/wiki/Systems biology)
+### 12.4.4. [Consumer health](https://github.com/cqlj/2020/wiki/Consumer health)
+### 12.4.5. [Health care information systems](https://github.com/cqlj/2020/wiki/Health care information systems)
+### 12.4.6. [Health informatics](https://github.com/cqlj/2020/wiki/Health informatics)
+### 12.4.7. [Bioinformatics](https://github.com/cqlj/2020/wiki/Bioinformatics)
+### 12.4.8. [Metabolomics / metabonomics](https://github.com/cqlj/2020/wiki/Metabolomics / metabonomics)
+### 12.4.9. [Genetics](https://github.com/cqlj/2020/wiki/Genetics)
+#### 12.4.9.1. [Population genetics](https://github.com/cqlj/2020/wiki/Population genetics)
+#### 12.4.9.2. [Proteomics](https://github.com/cqlj/2020/wiki/Proteomics)
+##### 12.4.9.2.1. [Computational proteomics](https://github.com/cqlj/2020/wiki/Computational proteomics)
+#### 12.4.9.3. [Transcriptomics](https://github.com/cqlj/2020/wiki/Transcriptomics)
+## 12.5. [Law, social and behavioral sciences](https://github.com/cqlj/2020/wiki/Law, social and behavioral sciences)
+### 12.5.1. [Anthropology](https://github.com/cqlj/2020/wiki/Anthropology)
+#### 12.5.1.1. [Ethnography](https://github.com/cqlj/2020/wiki/Ethnography)
+### 12.5.2. [Law](https://github.com/cqlj/2020/wiki/Law)
+### 12.5.3. [Psychology](https://github.com/cqlj/2020/wiki/Psychology)
+### 12.5.4. [Economics](https://github.com/cqlj/2020/wiki/Economics)
+### 12.5.5. [Sociology](https://github.com/cqlj/2020/wiki/Sociology)
+## 12.6. [Computer forensics](https://github.com/cqlj/2020/wiki/Computer forensics)
+### 12.6.1. [Surveillance mechanisms](https://github.com/cqlj/2020/wiki/Surveillance mechanisms)
+### 12.6.2. [Investigation techniques](https://github.com/cqlj/2020/wiki/Investigation techniques)
+### 12.6.3. [Evidence collection, storage and analysis](https://github.com/cqlj/2020/wiki/Evidence collection, storage and analysis)
+### 12.6.4. [Network forensics](https://github.com/cqlj/2020/wiki/Network forensics)
+### 12.6.5. [System forensics](https://github.com/cqlj/2020/wiki/System forensics)
+### 12.6.6. [Data recovery](https://github.com/cqlj/2020/wiki/Data recovery)
+## 12.7. [Arts and humanities](https://github.com/cqlj/2020/wiki/Arts and humanities)
+### 12.7.1. [Fine arts](https://github.com/cqlj/2020/wiki/Fine arts)
+### 12.7.2. [Performing arts](https://github.com/cqlj/2020/wiki/Performing arts)
+### 12.7.3. [Architecture (buildings)](https://github.com/cqlj/2020/wiki/Architecture (buildings))
+#### 12.7.3.1. [Computer-aided design](https://github.com/cqlj/2020/wiki/Computer-aided design)
+### 12.7.4. [Language translation](https://github.com/cqlj/2020/wiki/Language translation)
+### 12.7.5. [Media arts](https://github.com/cqlj/2020/wiki/Media arts)
+### 12.7.6. [Sound and music computing](https://github.com/cqlj/2020/wiki/Sound and music computing)
+## 12.8. [Computers in other domains](https://github.com/cqlj/2020/wiki/Computers in other domains)
+### 12.8.1. [Digital libraries and archives](https://github.com/cqlj/2020/wiki/Digital libraries and archives)
+### 12.8.2. [Publishing](https://github.com/cqlj/2020/wiki/Publishing)
+### 12.8.3. [Military](https://github.com/cqlj/2020/wiki/Military)
+#### 12.8.3.1. [Cyberwarfare](https://github.com/cqlj/2020/wiki/Cyberwarfare)
+### 12.8.4. [Cartography](https://github.com/cqlj/2020/wiki/Cartography)
+### 12.8.5. [Agriculture](https://github.com/cqlj/2020/wiki/Agriculture)
+### 12.8.6. [Computing in government](https://github.com/cqlj/2020/wiki/Computing in government)
+#### 12.8.6.1. [Voting / election technologies](https://github.com/cqlj/2020/wiki/Voting / election technologies)
+#### 12.8.6.2. [E-government](https://github.com/cqlj/2020/wiki/E-government)
+### 12.8.7. [Personal computers and PC applications](https://github.com/cqlj/2020/wiki/Personal computers and PC applications)
+#### 12.8.7.1. [Word processors](https://github.com/cqlj/2020/wiki/Word processors)
+#### 12.8.7.2. [Spreadsheets](https://github.com/cqlj/2020/wiki/Spreadsheets)
+#### 12.8.7.3. [Computer games](https://github.com/cqlj/2020/wiki/Computer games)
+#### 12.8.7.4. [Microcomputers](https://github.com/cqlj/2020/wiki/Microcomputers)
+## 12.9. [Operations research](https://github.com/cqlj/2020/wiki/Operations research)
+### 12.9.1. [Consumer products](https://github.com/cqlj/2020/wiki/Consumer products)
+### 12.9.2. [Industry and manufacturing](https://github.com/cqlj/2020/wiki/Industry and manufacturing)
+#### 12.9.2.1. [Supply chain management](https://github.com/cqlj/2020/wiki/Supply chain management)
+#### 12.9.2.2. [Command and control](https://github.com/cqlj/2020/wiki/Command and control)
+### 12.9.3. [Computer-aided manufacturing](https://github.com/cqlj/2020/wiki/Computer-aided manufacturing)
+### 12.9.4. [Decision analysis](https://github.com/cqlj/2020/wiki/Decision analysis)
+#### 12.9.4.1. [Multi-criterion optimization and decision-making](https://github.com/cqlj/2020/wiki/Multi-criterion optimization and decision-making)
+### 12.9.5. [Transportation](https://github.com/cqlj/2020/wiki/Transportation)
+### 12.9.6. [Forecasting](https://github.com/cqlj/2020/wiki/Forecasting)
+### 12.9.7. [Marketing](https://github.com/cqlj/2020/wiki/Marketing)
+## 12.10. [Education](https://github.com/cqlj/2020/wiki/Education)
+### 12.10.1. [Digital libraries and archives](https://github.com/cqlj/2020/wiki/Digital libraries and archives)
+### 12.10.2. [Computer-assisted instruction](https://github.com/cqlj/2020/wiki/Computer-assisted instruction)
+### 12.10.3. [Interactive learning environments](https://github.com/cqlj/2020/wiki/Interactive learning environments)
+### 12.10.4. [Collaborative learning](https://github.com/cqlj/2020/wiki/Collaborative learning)
+### 12.10.5. [Learning management systems](https://github.com/cqlj/2020/wiki/Learning management systems)
+### 12.10.6. [Distance learning](https://github.com/cqlj/2020/wiki/Distance learning)
+### 12.10.7. [E-learning](https://github.com/cqlj/2020/wiki/E-learning)
+### 12.10.8. [Computer-managed instruction](https://github.com/cqlj/2020/wiki/Computer-managed instruction)
+## 12.11. [Document management and text processing](https://github.com/cqlj/2020/wiki/Document management and text processing)
+### 12.11.1. [Document searching](https://github.com/cqlj/2020/wiki/Document searching)
+### 12.11.2. [Document management](https://github.com/cqlj/2020/wiki/Document management)
+#### 12.11.2.1. [Text editing](https://github.com/cqlj/2020/wiki/Text editing)
+#### 12.11.2.2. [Version control](https://github.com/cqlj/2020/wiki/Version control)
+#### 12.11.2.3. [Document metadata](https://github.com/cqlj/2020/wiki/Document metadata)
+### 12.11.3. [Document capture](https://github.com/cqlj/2020/wiki/Document capture)
+#### 12.11.3.1. [Document analysis](https://github.com/cqlj/2020/wiki/Document analysis)
+#### 12.11.3.2. [Document scanning](https://github.com/cqlj/2020/wiki/Document scanning)
+#### 12.11.3.3. [Graphics recognition and interpretation](https://github.com/cqlj/2020/wiki/Graphics recognition and interpretation)
+#### 12.11.3.4. [Optical character recognition](https://github.com/cqlj/2020/wiki/Optical character recognition)
+#### 12.11.3.5. [Online handwriting recognition](https://github.com/cqlj/2020/wiki/Online handwriting recognition)
+### 12.11.4. [Document preparation](https://github.com/cqlj/2020/wiki/Document preparation)
+#### 12.11.4.1. [Markup languages](https://github.com/cqlj/2020/wiki/Markup languages)
+##### 12.11.4.1.1. [Extensible Markup Language (XML)](https://github.com/cqlj/2020/wiki/Extensible Markup Language (XML))
+##### 12.11.4.1.2. [Hypertext languages](https://github.com/cqlj/2020/wiki/Hypertext languages)
+#### 12.11.4.2. [Annotation](https://github.com/cqlj/2020/wiki/Annotation)
+#### 12.11.4.3. [Format and notation](https://github.com/cqlj/2020/wiki/Format and notation)
+#### 12.11.4.4. [Multi / mixed media creation](https://github.com/cqlj/2020/wiki/Multi / mixed media creation)
+#### 12.11.4.5. [Image composition](https://github.com/cqlj/2020/wiki/Image composition)
+#### 12.11.4.6. [Hypertext / hypermedia creation](https://github.com/cqlj/2020/wiki/Hypertext / hypermedia creation)
+#### 12.11.4.7. [Document scripting languages](https://github.com/cqlj/2020/wiki/Document scripting languages)
+# 13. [Social and professional topics](https://github.com/cqlj/2020/wiki/Social and professional topics)
+## 13.1. [Professional topics](https://github.com/cqlj/2020/wiki/Professional topics)
+### 13.1.1. [Computing industry](https://github.com/cqlj/2020/wiki/Computing industry)
+#### 13.1.1.1. [Industry statistics](https://github.com/cqlj/2020/wiki/Industry statistics)
+#### 13.1.1.2. [Computer manufacturing](https://github.com/cqlj/2020/wiki/Computer manufacturing)
+#### 13.1.1.3. [Sustainability](https://github.com/cqlj/2020/wiki/Sustainability)
+### 13.1.2. [Management of computing and information systems](https://github.com/cqlj/2020/wiki/Management of computing and information systems)
+#### 13.1.2.1. [Project and people management](https://github.com/cqlj/2020/wiki/Project and people management)
+##### 13.1.2.1.1. [Project management techniques](https://github.com/cqlj/2020/wiki/Project management techniques)
+##### 13.1.2.1.2. [Project staffing](https://github.com/cqlj/2020/wiki/Project staffing)
+##### 13.1.2.1.3. [Systems planning](https://github.com/cqlj/2020/wiki/Systems planning)
+##### 13.1.2.1.4. [Systems analysis and design](https://github.com/cqlj/2020/wiki/Systems analysis and design)
+##### 13.1.2.1.5. [Systems development](https://github.com/cqlj/2020/wiki/Systems development)
+##### 13.1.2.1.6. [Computer and information systems training](https://github.com/cqlj/2020/wiki/Computer and information systems training)
+#### 13.1.2.2. [Implementation management](https://github.com/cqlj/2020/wiki/Implementation management)
+##### 13.1.2.2.1. [Hardware selection](https://github.com/cqlj/2020/wiki/Hardware selection)
+##### 13.1.2.2.2. [Computing equipment management](https://github.com/cqlj/2020/wiki/Computing equipment management)
+##### 13.1.2.2.3. [Pricing and resource allocation](https://github.com/cqlj/2020/wiki/Pricing and resource allocation)
+#### 13.1.2.3. [Software management](https://github.com/cqlj/2020/wiki/Software management)
+##### 13.1.2.3.1. [Software maintenance](https://github.com/cqlj/2020/wiki/Software maintenance)
+##### 13.1.2.3.2. [Software selection and adaptation](https://github.com/cqlj/2020/wiki/Software selection and adaptation)
+#### 13.1.2.4. [System management](https://github.com/cqlj/2020/wiki/System management)
+##### 13.1.2.4.1. [Centralization / decentralization](https://github.com/cqlj/2020/wiki/Centralization / decentralization)
+##### 13.1.2.4.2. [Technology audits](https://github.com/cqlj/2020/wiki/Technology audits)
+##### 13.1.2.4.3. [Quality assurance](https://github.com/cqlj/2020/wiki/Quality assurance)
+#### 13.1.2.5. [Network operations](https://github.com/cqlj/2020/wiki/Network operations)
+#### 13.1.2.6. [File systems management](https://github.com/cqlj/2020/wiki/File systems management)
+#### 13.1.2.7. [Information system economics](https://github.com/cqlj/2020/wiki/Information system economics)
+### 13.1.3. [History of computing](https://github.com/cqlj/2020/wiki/History of computing)
+#### 13.1.3.1. [Historical people](https://github.com/cqlj/2020/wiki/Historical people)
+#### 13.1.3.2. [History of hardware](https://github.com/cqlj/2020/wiki/History of hardware)
+#### 13.1.3.3. [History of software](https://github.com/cqlj/2020/wiki/History of software)
+#### 13.1.3.4. [History of programming languages](https://github.com/cqlj/2020/wiki/History of programming languages)
+#### 13.1.3.5. [History of computing theory](https://github.com/cqlj/2020/wiki/History of computing theory)
+### 13.1.4. [Computing education](https://github.com/cqlj/2020/wiki/Computing education)
+#### 13.1.4.1. [Computational thinking](https://github.com/cqlj/2020/wiki/Computational thinking)
+#### 13.1.4.2. [Accreditation](https://github.com/cqlj/2020/wiki/Accreditation)
+#### 13.1.4.3. [Model curricula](https://github.com/cqlj/2020/wiki/Model curricula)
+#### 13.1.4.4. [Computing education programs](https://github.com/cqlj/2020/wiki/Computing education programs)
+##### 13.1.4.4.1. [Information systems education](https://github.com/cqlj/2020/wiki/Information systems education)
+##### 13.1.4.4.2. [Computer science education](https://github.com/cqlj/2020/wiki/Computer science education)
+###### 13.1.4.4.2.1. [CS1](https://github.com/cqlj/2020/wiki/CS1)
+##### 13.1.4.4.3. [Computer engineering education](https://github.com/cqlj/2020/wiki/Computer engineering education)
+##### 13.1.4.4.4. [Information technology education](https://github.com/cqlj/2020/wiki/Information technology education)
+##### 13.1.4.4.5. [Information science education](https://github.com/cqlj/2020/wiki/Information science education)
+##### 13.1.4.4.6. [Computational science and engineering education](https://github.com/cqlj/2020/wiki/Computational science and engineering education)
+##### 13.1.4.4.7. [Software engineering education](https://github.com/cqlj/2020/wiki/Software engineering education)
+#### 13.1.4.5. [Informal education](https://github.com/cqlj/2020/wiki/Informal education)
+#### 13.1.4.6. [Computing literacy](https://github.com/cqlj/2020/wiki/Computing literacy)
+#### 13.1.4.7. [Student assessment](https://github.com/cqlj/2020/wiki/Student assessment)
+#### 13.1.4.8. [K-12 education](https://github.com/cqlj/2020/wiki/K-12 education)
+#### 13.1.4.9. [Adult education](https://github.com/cqlj/2020/wiki/Adult education)
+### 13.1.5. [Computing and business](https://github.com/cqlj/2020/wiki/Computing and business)
+#### 13.1.5.1. [Employment issues](https://github.com/cqlj/2020/wiki/Employment issues)
+#### 13.1.5.2. [Automation](https://github.com/cqlj/2020/wiki/Automation)
+#### 13.1.5.3. [Computer supported cooperative work](https://github.com/cqlj/2020/wiki/Computer supported cooperative work)
+#### 13.1.5.4. [Economic impact](https://github.com/cqlj/2020/wiki/Economic impact)
+#### 13.1.5.5. [Offshoring](https://github.com/cqlj/2020/wiki/Offshoring)
+#### 13.1.5.6. [Reengineering](https://github.com/cqlj/2020/wiki/Reengineering)
+#### 13.1.5.7. [Socio-technical systems](https://github.com/cqlj/2020/wiki/Socio-technical systems)
+### 13.1.6. [Computing profession](https://github.com/cqlj/2020/wiki/Computing profession)
+#### 13.1.6.1. [Codes of ethics](https://github.com/cqlj/2020/wiki/Codes of ethics)
+#### 13.1.6.2. [Employment issues](https://github.com/cqlj/2020/wiki/Employment issues)
+#### 13.1.6.3. [Funding](https://github.com/cqlj/2020/wiki/Funding)
+#### 13.1.6.4. [Computing occupations](https://github.com/cqlj/2020/wiki/Computing occupations)
+#### 13.1.6.5. [Computing organizations](https://github.com/cqlj/2020/wiki/Computing organizations)
+#### 13.1.6.6. [Testing, certification and licensing](https://github.com/cqlj/2020/wiki/Testing, certification and licensing)
+#### 13.1.6.7. [Assistive technologies](https://github.com/cqlj/2020/wiki/Assistive technologies)
+## 13.2. [Computing / technology policy](https://github.com/cqlj/2020/wiki/Computing / technology policy)
+### 13.2.1. [Intellectual property](https://github.com/cqlj/2020/wiki/Intellectual property)
+#### 13.2.1.1. [Digital rights management](https://github.com/cqlj/2020/wiki/Digital rights management)
+#### 13.2.1.2. [Copyrights](https://github.com/cqlj/2020/wiki/Copyrights)
+#### 13.2.1.3. [Software reverse engineering](https://github.com/cqlj/2020/wiki/Software reverse engineering)
+#### 13.2.1.4. [Patents](https://github.com/cqlj/2020/wiki/Patents)
+#### 13.2.1.5. [Trademarks](https://github.com/cqlj/2020/wiki/Trademarks)
+#### 13.2.1.6. [Internet governance / domain names](https://github.com/cqlj/2020/wiki/Internet governance / domain names)
+#### 13.2.1.7. [Licensing](https://github.com/cqlj/2020/wiki/Licensing)
+#### 13.2.1.8. [Treaties](https://github.com/cqlj/2020/wiki/Treaties)
+#### 13.2.1.9. [Database protection laws](https://github.com/cqlj/2020/wiki/Database protection laws)
+#### 13.2.1.10. [Secondary liability](https://github.com/cqlj/2020/wiki/Secondary liability)
+#### 13.2.1.11. [Soft intellectual property](https://github.com/cqlj/2020/wiki/Soft intellectual property)
+#### 13.2.1.12. [Hardware reverse engineering](https://github.com/cqlj/2020/wiki/Hardware reverse engineering)
+### 13.2.2. [Privacy policies](https://github.com/cqlj/2020/wiki/Privacy policies)
+### 13.2.3. [Censorship](https://github.com/cqlj/2020/wiki/Censorship)
+#### 13.2.3.1. [Pornography](https://github.com/cqlj/2020/wiki/Pornography)
+#### 13.2.3.2. [Hate speech](https://github.com/cqlj/2020/wiki/Hate speech)
+#### 13.2.3.3. [Political speech](https://github.com/cqlj/2020/wiki/Political speech)
+#### 13.2.3.4. [Technology and censorship](https://github.com/cqlj/2020/wiki/Technology and censorship)
+#### 13.2.3.5. [Censoring filters](https://github.com/cqlj/2020/wiki/Censoring filters)
+### 13.2.4. [Surveillance](https://github.com/cqlj/2020/wiki/Surveillance)
+#### 13.2.4.1. [Governmental surveillance](https://github.com/cqlj/2020/wiki/Governmental surveillance)
+#### 13.2.4.2. [Corporate surveillance](https://github.com/cqlj/2020/wiki/Corporate surveillance)
+### 13.2.5. [Commerce policy](https://github.com/cqlj/2020/wiki/Commerce policy)
+#### 13.2.5.1. [Taxation](https://github.com/cqlj/2020/wiki/Taxation)
+#### 13.2.5.2. [Transborder data flow](https://github.com/cqlj/2020/wiki/Transborder data flow)
+#### 13.2.5.3. [Antitrust and competition](https://github.com/cqlj/2020/wiki/Antitrust and competition)
+#### 13.2.5.4. [Governmental regulations](https://github.com/cqlj/2020/wiki/Governmental regulations)
+#### 13.2.5.5. [Online auctions policy](https://github.com/cqlj/2020/wiki/Online auctions policy)
+#### 13.2.5.6. [Consumer products policy](https://github.com/cqlj/2020/wiki/Consumer products policy)
+### 13.2.6. [Network access control](https://github.com/cqlj/2020/wiki/Network access control)
+#### 13.2.6.1. [Censoring filters](https://github.com/cqlj/2020/wiki/Censoring filters)
+#### 13.2.6.2. [Broadband access](https://github.com/cqlj/2020/wiki/Broadband access)
+#### 13.2.6.3. [Net neutrality](https://github.com/cqlj/2020/wiki/Net neutrality)
+#### 13.2.6.4. [Network access restrictions](https://github.com/cqlj/2020/wiki/Network access restrictions)
+##### 13.2.6.4.1. [Age-based restrictions](https://github.com/cqlj/2020/wiki/Age-based restrictions)
+##### 13.2.6.4.2. [Acceptable use policy restrictions](https://github.com/cqlj/2020/wiki/Acceptable use policy restrictions)
+#### 13.2.6.5. [Universal access](https://github.com/cqlj/2020/wiki/Universal access)
+### 13.2.7. [Computer crime](https://github.com/cqlj/2020/wiki/Computer crime)
+#### 13.2.7.1. [Social engineering attacks](https://github.com/cqlj/2020/wiki/Social engineering attacks)
+##### 13.2.7.1.1. [Spoofing attacks](https://github.com/cqlj/2020/wiki/Spoofing attacks)
+##### 13.2.7.1.2. [Phishing](https://github.com/cqlj/2020/wiki/Phishing)
+#### 13.2.7.2. [Identity theft](https://github.com/cqlj/2020/wiki/Identity theft)
+#### 13.2.7.3. [Financial crime](https://github.com/cqlj/2020/wiki/Financial crime)
+#### 13.2.7.4. [Malware / spyware crime](https://github.com/cqlj/2020/wiki/Malware / spyware crime)
+### 13.2.8. [Government technology policy](https://github.com/cqlj/2020/wiki/Government technology policy)
+#### 13.2.8.1. [Governmental regulations](https://github.com/cqlj/2020/wiki/Governmental regulations)
+#### 13.2.8.2. [Import / export controls](https://github.com/cqlj/2020/wiki/Import / export controls)
+### 13.2.9. [Medical information policy](https://github.com/cqlj/2020/wiki/Medical information policy)
+#### 13.2.9.1. [Medical records](https://github.com/cqlj/2020/wiki/Medical records)
+#### 13.2.9.2. [Personal health records](https://github.com/cqlj/2020/wiki/Personal health records)
+#### 13.2.9.3. [Genetic information](https://github.com/cqlj/2020/wiki/Genetic information)
+#### 13.2.9.4. [Patient privacy](https://github.com/cqlj/2020/wiki/Patient privacy)
+#### 13.2.9.5. [Health information exchanges](https://github.com/cqlj/2020/wiki/Health information exchanges)
+#### 13.2.9.6. [Medical technologies](https://github.com/cqlj/2020/wiki/Medical technologies)
+##### 13.2.9.6.1. [Remote medicine](https://github.com/cqlj/2020/wiki/Remote medicine)
+## 13.3. [User characteristics](https://github.com/cqlj/2020/wiki/User characteristics)
+### 13.3.1. [Race and ethnicity](https://github.com/cqlj/2020/wiki/Race and ethnicity)
+### 13.3.2. [Religious orientation](https://github.com/cqlj/2020/wiki/Religious orientation)
+### 13.3.3. [Gender](https://github.com/cqlj/2020/wiki/Gender)
+#### 13.3.3.1. [Men](https://github.com/cqlj/2020/wiki/Men)
+#### 13.3.3.2. [Women](https://github.com/cqlj/2020/wiki/Women)
+### 13.3.4. [Sexual orientation](https://github.com/cqlj/2020/wiki/Sexual orientation)
+### 13.3.5. [People with disabilities](https://github.com/cqlj/2020/wiki/People with disabilities)
+### 13.3.6. [Geographic characteristics](https://github.com/cqlj/2020/wiki/Geographic characteristics)
+### 13.3.7. [Cultural characteristics](https://github.com/cqlj/2020/wiki/Cultural characteristics)
+### 13.3.8. [Age](https://github.com/cqlj/2020/wiki/Age)
+#### 13.3.8.1. [Children](https://github.com/cqlj/2020/wiki/Children)
+#### 13.3.8.2. [Seniors](https://github.com/cqlj/2020/wiki/Seniors)
+#### 13.3.8.3. [Adolescents](https://github.com/cqlj/2020/wiki/Adolescents)
